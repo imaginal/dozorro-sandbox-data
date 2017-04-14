@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:24:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "df61e9c9737776d7472d5d29d5fe5152",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "5263669@gmail.com"
+        },
+        "name": "НДВ УКРМЕТРТЕСТСТАНДАРТ"
+      },
+      "formData": {
+        "generalComment": "По лоту № 6  торги відмініни неправомірно  в порушенні вимог Закону ( допущено до оцінки менше двох учасників пропозицій).  Аукціон відбувся - подані тендерні пропозиції від двох учасників.",
+        "generalScore": "1"
+      },
+      "tender": "ddc36caf66c743d29b5ed37e24087ab0"
+    },
+    "schema": "tender101"
+  },
+  "id": "a8274f09287f9df6e115e4336a6425d5",
+  "sign": "8utfvDs+kFF1sztuJkR8xuLEtvzn86gJ5e1G9UZRdGm8evpNFB5YWdDhBAj2Jx/4T/uicZ2NkJXaBGPdPqc8CQ"
+}

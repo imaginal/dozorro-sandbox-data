@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T06:42:14+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e566946b54d2af8cf022628b1a24b86e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tar2riy@gmail.com"
+        },
+        "name": "Arthur Uspehov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Ужас! И это за 1 млн $!! Позорище!",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "e14f8806e52621b9f41e5f470b16d0a4",
+  "sign": "WzKUqsl0pqjEGFLfao4z/tMPLo/0UFmWw1KCegE5GZZ9H5FAmxMMeLba+5BTt0JBmnC4+bVxknEYrHsFF7N9Dg"
+}

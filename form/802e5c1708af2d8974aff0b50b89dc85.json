@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-30T10:06:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Viacheslav Iolkin"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no"
+      },
+      "tender": "3873af7fcf264be6b19f61d3deee4c4f"
+    },
+    "schema": "tender109"
+  },
+  "id": "5650b1880b83a79abf61930d704e763d",
+  "sign": "AJa7eCS3S+FXIehPwE4W1vMrZrWeSCrFjA9Wf/rmLUWB6SyZSQMvqNpWeOrBE6Ljxr13niWB4V/he8bSkRaKBg"
+}

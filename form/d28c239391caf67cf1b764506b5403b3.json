@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-26T13:37:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4d8355e2de9b3a48bffb4745e8260de3",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "mishapernarovskiy@gmail.com"
+        },
+        "name": "Миша Пернаровский"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументи для відхилення пропозиції не впливають на суть та цінову пропозицію. І такі помилки є у всіх претендентів Але обрано претендента \"раніш запланованого і затвердженого\". Торгів і розгляду професійності не має. Все продовжується, як в \"добрі часи\". Одне розчарування. Змін не має.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Так, було дискваліфіковано трьох претендентів. З моєї точки зору, два претендента повністю не відповідають умовам тендеру, а по третьому претенденту рішення прийнято упереджено, так як даний претендент найбільш кваліфікований для виконання даного предмету закупівлі з відповідною ціною виконання. Система \"ПРОЗОРО\" фікція. Вирішують все \"ВОНИ\" і я їх знаю."
+      },
+      "tender": "432786d2b45c4153bf7ea5448776269a"
+    },
+    "schema": "tender111"
+  },
+  "id": "96089e1079829048ed5a0be9c437bac9",
+  "sign": "R3N5uXVl2+LgsNQfirsUmLh/3NTEoFn88wK+s0DXTGIhnxnuDJCcL4eTmmVn/7PQUHk341T/vd+zKW9gD1UJCQ"
+}

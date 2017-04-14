@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:53:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a285232dd4c4a902a9156d6c40fd50e5",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lexlex@ukr.net"
+        },
+        "name": "Олексій Носівець"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Жахлива робота, виконана \"на відчепись\""
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "1e91aa3b92f89f366e59f34b0143590e",
+  "sign": "Fzr52A7N3IpQJ91Xv5NGGsf/lHpYeStuNT+xmO+Yl5QW8Bmzc+XPEzDsXED35lnymIKhkIfkHZh3VRS2bjtTDg"
+}

@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-08T14:54:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9aad43da6308d5055db92b817e1669ed",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "arthur.dorokhin@gmail.com"
+        },
+        "name": "Arthur Dorokhin"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "213e7e5d7fcf434b8d73a3a13236ac2b"
+    },
+    "schema": "tender102"
+  },
+  "id": "d4dd95a7993934c02d5bdc3dad1addd8",
+  "sign": "E7Obtbhsp6zITR5Df1lkruMZ4dpKdMh0cNnPznIgAKOmH8I9qJyDvVoexc4o8LkvWRhED+kO5caQ8G6CX914BQ"
+}

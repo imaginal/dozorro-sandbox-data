@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-22T10:07:48+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "527466fad3df09cac4433328bd127e0b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "acras1@gmail.com"
+        },
+        "name": "Алексей Красноноженко"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "a3092df863754d898f9d92b134bcde56"
+    },
+    "schema": "tender102"
+  },
+  "id": "6b745a05fb55fde372e2dddeee589eba",
+  "sign": "kYTedkOKJEx4f2upK3raybYhIwi9j79X5bFCoRI77tAg+ecv84zYuDubgWQj4NMvhLVvPfnBC45zVWjy48xIBg"
+}

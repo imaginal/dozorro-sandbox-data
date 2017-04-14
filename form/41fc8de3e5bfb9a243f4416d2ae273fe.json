@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-07T17:38:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7e105737265293eab152b5bf77116f0e",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pp.sos.lv@gmail.com"
+        },
+        "name": "Myr СОС"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "1.некоректні вимоги по якості продукції\r\n2.виглядає виписаним під конкретного виконавця"
+      },
+      "tender": "3356ac51f40d4a54a23944f44e9375f0"
+    },
+    "schema": "tender104"
+  },
+  "id": "8d1b0b68d7f3d25c45d7fff865d3d3bf",
+  "sign": "tj3BkYfn3SGxRzEkW8ZRk8DImmAQ4mFQ6JWBypvtuTa8T97UOGUpqH+Ekg8hC0MwO60I4JY8ilXlAOcOPN5DDg"
+}

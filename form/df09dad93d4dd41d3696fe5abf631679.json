@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-23T13:00:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00f011bef73057bef6420eb8bb493506",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "viktradesod@gmail.com"
+        },
+        "name": "Евгений Самохин"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Дана закупівля була здійснена з одним учасником без проведення аукціону. В результаті укладено договір на поставку піни монтажної з завишеною майже в 2 рази ціною відносно ринкових цін на таку продукцію. Склалося обгрунтоване враження, що дана закупівля не була оголошена з аукціоном для здійснення корупційних маніпуляцій."
+      },
+      "tender": "ed20da4bdc25446a8efb31824027f6bf"
+    },
+    "schema": "tender111"
+  },
+  "id": "342e1d2d348822003619a508367d941c",
+  "sign": "gJtmnx2XyQ04veyA5oXQjgfYvfvQ/W9CKlHcPtd/K9GZTLb7cdGt0F8tqpVFPt1zZ0q5RhYgJpsvCGBGXjO5Bw"
+}

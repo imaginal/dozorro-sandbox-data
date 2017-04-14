@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-11T11:31:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f5d28c9eb009b29ddeeced9a4d6875b0",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gorenkors@ukr.net"
+        },
+        "name": "Роман Роман"
+      },
+      "formData": {
+        "generalComment": "Така фірма я РУФ ЦЕНТР є недобропорядною ,так як використовує демпінг у конкурсних торгах , і в загалі як фірма яка займається кровлею та деревинною сировиною  виготовляє спецодяг , та використовує чужі сертифікати на костюми поставивши свою печатку поряд з  другою фірмою , тут всі ознаки недобросовістного ведення бізнесу та фальсифікату.",
+        "generalScore": "1"
+      },
+      "tender": "716720dcf90c459c9a6b5f44670e866e"
+    },
+    "schema": "tender101"
+  },
+  "id": "7b094e4925ccdc5c35e4750ed30bd4e3",
+  "sign": "2WwGI0sY34if27+19LSUaUxE3i/ebvPo5tLZPjExuvcXNPbHkEhLXRaI04vZZJQYAhAaHQqKI6cl5tyNBnNkAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-23T11:05:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "795855bf715ec75f3e283776065c8197",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olexkon@gmail.com"
+        },
+        "name": "Олександр Константинов"
+      },
+      "formData": {
+        "generalComment": "Закупівля прописана під конкретну торгову марку \"Tena\", а значить під конкретного постачальника: офіційного представника «SCA» ТОВ УА \"ЄВРОМІКС\"ІІ.\r\nМи вважаємо, що в цій закупівлі є корупційна складова. \r\nАбо навіщо прописувати тендер під конкретного постачальника?",
+        "generalScore": "1"
+      },
+      "tender": "6230c8f0de50492e8b4dbc01d005b16c"
+    },
+    "schema": "tender101"
+  },
+  "id": "3442380f356e59f1eaa31e2e60e58a42",
+  "sign": "AyrCCwISYVzty44CNc2pWtQoRzuQUD1T6iTfwamh4HcXbudNdZkRqizsSpRGjK6jZPp0eO8nPgXiBg3dGTVfCQ"
+}

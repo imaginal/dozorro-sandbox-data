@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-24T16:23:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Oleksii Tamrazov"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "d4461e02e90f46858e337e9fb1e92d57"
+    },
+    "schema": "tender102"
+  },
+  "id": "e96617a082ff0e851fc2788437283591",
+  "sign": "1Xvr8I9Zf1jMd9y12NIHtxXC/n1J4srnnz1JEFPigEj9pd48ZIqRwgZHgJs/1zVkeHY44rD5W/GEmdWl2DfaDQ"
+}

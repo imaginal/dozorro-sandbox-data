@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-20T21:19:58+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "comment": "я пам'ятаю кіпіш у Замовників, коли ввели Закон 922...а зараз нічого, оправились...Обнагліли..",
+      "parentForm": "d76a36047d97aff1e4187ddbe2494617",
+      "tender": "83062e51b0ac4c28bb5a5cd66fd1c6c8"
+    },
+    "schema": "comment"
+  },
+  "id": "8f136e4c39ac145ca4f27e967227e47a",
+  "sign": "+DeAcw4KYAWHEfktCkh4B1IDPt/M1x/E4QnjzTrqYdHVFKlWgoIs64A28l1NabCDkiirKoLKjgMgb0+rFXDADA"
+}

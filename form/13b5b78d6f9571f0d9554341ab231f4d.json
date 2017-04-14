@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T10:35:41+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "881ff4bf8e5a6168906ccec8cee46637",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gromasevskaya.ira@gmail.com"
+        },
+        "name": "Ирина Громашевская"
+      },
+      "formData": {
+        "generalComment": "Закупівля послуг у сумнівної фірми, щойно зареєстрованої, без жодного досвіду виконання аналогічних договорів - у \"кращих традиціях\" Одеського медуніверситету. Спадає на думку схема з використанням \"кишенькової\" фірми, сума також для освоєння чимала. Маю великі сумніви, що послуги будуть надані взагалі - тому у гуртожитках на покращення ситуації із клопами не очікуйте.\r\nПоки є можливість уникнути аукціону, будуть подібні випадки й надалі.\r\n",
+        "generalScore": "1"
+      },
+      "tender": "4041b035ebff4388aacccc1039a348ae"
+    },
+    "schema": "tender101"
+  },
+  "id": "51b06962ee2cdb1618ef22302726e121",
+  "sign": "fnbgtpN/db4dlv45+fO2v41e4U6a5/Evs1mV0v4XGu8WNeKdlQlj+B5nXpbn01h2kRPIEfPme5mcGfSUUTlUDg"
+}

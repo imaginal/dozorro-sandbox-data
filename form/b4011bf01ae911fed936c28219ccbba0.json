@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-17T15:54:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f3d3c9850a79eb8cf848211195266d45",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "citysoul.info@gmail.com"
+        },
+        "name": "City Soul"
+      },
+      "formData": {
+        "generalComment": "Один із учасників торгів має досить сумнівну репутацію, про що свідчить стаття http://nashigroshi.org/2016/11/09/pidryadnykiv-enerhoatoma-pidozryuyut-u-stvorenni-shemy-dlya-uhylennya-vid-splaty-podatkiv/. \r\nАналізуючи пропозиції обох учасників, складається враження що ці дві компанії дуже тісно пов'язані між собою.",
+        "generalScore": "1"
+      },
+      "tender": "1f278110edf34387afb9d3080efe94fe"
+    },
+    "schema": "tender101"
+  },
+  "id": "edb9e1db6e3952b8442cd94ffa57ac8e",
+  "sign": "a0fe2USEJw1yNQCOzDgCS2wV5xr7rdaSgeM6FDMApVzv/+FojH8Sm3azLtTxzVFXJ0PTwu4wi44+dqoulh7OAw"
+}

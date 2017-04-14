@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2016-11-09T13:40:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Борис Гунько"
+      },
+      "formData": {
+        "generalComment": "#ЗРАДА\r\nРедукціон призначено на 25.11.2016.  Поставка до 15.12.2016\r\n2-4  дні на розгляд і оцінку пропозицій+ 10 днів на оскарження перед укладанням договору...\r\nА тепер питання: як можна виготовити 4100 пар взуття за 5 днів? Звичайно за умови якщо ви заздалегідь не знаєте, що стали переможцем тендеру... ",
+        "generalScore": "1"
+      },
+      "tender": "bb2c6752230b4e2d91989e180a038efd"
+    },
+    "schema": "tender101"
+  },
+  "id": "8e6c1e8f196237dfb8cb2a6a91018253",
+  "sign": "WXqb/Gnth4C4B8NSFV5HqGA4jWtjK4adZr7mzY3/PbcdXIebNc6X0n2ntzgtmuETtv4R2VINUa3aJCHPEGyaBQ"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-01T14:20:00+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1b1341c7fbede8630561526153fe0b8c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "nellystelmakh@gmail.com"
+        },
+        "name": "Nelly  Stelmakh"
+      },
+      "comment": "Відповідь ПАТ \"Укргазвидобування\" див. http://ugv.com.ua/news-conf-commission?id=31\r\n",
+      "parentForm": "bcfe561ee787c1e30d18583fdbfdd977",
+      "tender": "0c6c20be78424902bb112a43a920890d"
+    },
+    "schema": "comment"
+  },
+  "id": "a19c45a54b1fbd41a3774c1ddb104a6f",
+  "sign": "+iUclhLO6JSpUZ5RkWrzLWi0BEHTI6cO3bMqceEV90K/qSDzkATZdh41qZ5pFg0WV8o53J7baVKR2PIktHXMCg"
+}

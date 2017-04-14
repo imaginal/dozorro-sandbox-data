@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-26T00:16:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "51f62ad6d1e2e5b2387dd6aa74486317",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "savchenko.com@gmail.com"
+        },
+        "name": "Алексей Савченко"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Закупівля створює переваги конкретним учасникам"
+      },
+      "tender": "0c3a901a859b4bcab24e0e480ad7c09a"
+    },
+    "schema": "tender103"
+  },
+  "id": "42f1fdf80c26a498e521771d98d5f18f",
+  "sign": "poNqO5Bp4pExRvfzdRqTTxUzDYcL8+3rB7T/mZWI69V246qOfPVeAx4ThXNXEghrA0frIc5S7Ygxvkj5XvqJAg"
+}

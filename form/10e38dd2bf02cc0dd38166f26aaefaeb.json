@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-24T12:13:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f8ea84ef377ad213403c14f25e921a80",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zebrusan@gmail.com"
+        },
+        "name": "Андрей Ювченко"
+      },
+      "formData": {
+        "generalComment": "Ушлые сотрудники Управления образования Херсонского горсовета нашли способ скрывать цены закупок, которые они проводят вне Прозорро. В систему выкладывается договор без спецификации, чтобы нельзя было проверить цены.\r\nТрюк дешевый, но, как видим, действенный.",
+        "generalScore": "1"
+      },
+      "tender": "d6bae7541b894f27a875b1642e27fbd3"
+    },
+    "schema": "tender101"
+  },
+  "id": "61c082e9c7aee6d851e6d94da5550746",
+  "sign": "c/iymNlbNZT9e9XP/K+8AO360rOCHds6ta3mL3gp0u3bKs0x4p8G6BfAhMvy5NMYO1WTdM0QMX2gxutQ9XTRBQ"
+}

@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-01T10:56:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Марина Белоус"
+      },
+      "formData": {
+        "generalComment": "Упереджене ставлення до Учасників при виборі Переможця ",
+        "generalScore": "1"
+      },
+      "tender": "fbaf875ed5ec4bd982560fb6132eb0c3"
+    },
+    "schema": "tender101"
+  },
+  "id": "c0115bfd3818fe3a5fd5e2ec4a845b4d",
+  "sign": "bEov0Sf6aDQM1gaM3IM+im0HqgfTW0wwG6bipI5h8dENFtlAfuV0u1bGweFJPJvX9dcDmUoL6wy61hiEF7cwDQ"
+}

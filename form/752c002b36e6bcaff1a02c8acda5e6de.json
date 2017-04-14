@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-01-19T14:09:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Wladyslaw Nazarenko"
+      },
+      "formData": {
+        "generalComment": "Ну очень интересный ответ заказчика на поставленный вопрос по закупке. Рекомендую!",
+        "generalScore": "1"
+      },
+      "tender": "efbe1f2b416b45caa8f85f9b13352649"
+    },
+    "schema": "tender101"
+  },
+  "id": "aa9a1f6dddf92bb0b75403630da1a5f4",
+  "sign": "J3OaxcTGC96QfX72YGrvh44RejgAkfWrr2JvMXpTrxfHPE2mXcHf0SsEz3QlAIVcvJVLvs3ogfLErnlP73OtDg"
+}

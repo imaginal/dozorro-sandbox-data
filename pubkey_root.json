@@ -1,0 +1,17 @@
+{
+  "envelope": {
+    "date": "2016-11-01T00:08:38.756867+00:00",
+    "model": "admin",
+    "owner": "root",
+    "payload": {
+      "algorithm": "Ed25519",
+      "owner": "root",
+      "publicKey": "0000b1d47edec12323453e1b2a42722f990f724674d44a87c16074136d0f1afc",
+      "validSince": "2016-11-01T00:08:38.756867+00:00",
+      "validTill": "2018-11-01T00:08:38.756867+00:00"
+    },
+    "schema": "pubkey"
+  },
+  "id": "0000e550ab57d14d40791816fc5bc468",
+  "sign": "tdgaxqoaUIVgASt06tgJldaPNxSBpM7wnCn+7NaZgk+Vml0oKjgj8DP76L2mBBZusFgSGHk3VOHDv8MF5X8OAA"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-13T10:02:57+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "За вказаною закупівлею подано Скаргу до АМКУ. Відповідне рішення буде оприлюднено на сайті https://prozorro.gov.ua/tender/UA-2016-11-24-000863-c/",
+      "parentForm": "e3d745d0e47835310590e107b97ff025",
+      "tender": "4d2bba67660e46828b499f2c19496da0"
+    },
+    "schema": "comment"
+  },
+  "id": "08363fb228b7d309a9585d111dc25a0d",
+  "sign": "j5TZkahzRGF0upgvvMp4Lewjxz0K24umjUov+CgLPIQ9hv2oO3VCm3TsQ8iVwRpy+JNCWtgSWNTzBmNP8fhiAw"
+}

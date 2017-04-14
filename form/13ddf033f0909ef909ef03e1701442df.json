@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-01-27T13:29:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Андрій Медуха"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "не було сповіщено після оголошення результатів, що треба було догрузати файли(можливо моя помилка), але сповіщення не було!",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "було відхилено 4 пропозиції компаній, профіль яких, безпосередню декоруванням чашок,а переміг учасник, який не має технологічного обладнання для виконання цього замовлення"
+      },
+      "tender": "e42cb1171a204374957009b2bcf37d5b"
+    },
+    "schema": "tender111"
+  },
+  "id": "4ee151eb3108f5dbf3898e9692586ce3",
+  "sign": "38UesvKTs1dUQcWHDaJodnmcV07X2AOl3dWW3ZOL8XC6U4NoJbI4/N1x3z34+9hMUaoUxer74D1hEDRk9o2+Dw"
+}

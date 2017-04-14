@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-02T10:20:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "54d8a114840d5e5fbe075a35d5a563ce",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "obex2012@gmail.com"
+        },
+        "name": "Артем Пташенко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "аргументація була аргументована, але на нашу думку недостатньо для того, щоб віхдиляти пропозицію вигіднішу на більш ніж 50 тис. грн, а також ми звернулись до замовника про готовність надати документацію, що підтвердить виконання аналогічних договорів. Поки що відповіді не отримали.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "було дискваліфіковано нашу пропозицію, дешевшу більш ніж на 50 тис. грн."
+      },
+      "tender": "3a2ef4ad9f954f83b9ef2d74163fd204"
+    },
+    "schema": "tender111"
+  },
+  "id": "1e38efb965f202b33439d290bd0acb45",
+  "sign": "jYCsIf3lQp0bpOwCOpgQURcZ0LCkXur99bXjgQ8E+D4DaiqsVsndhh2q9ULoolaCXD4+RzHyrm/9e/Ifxb1zAQ"
+}

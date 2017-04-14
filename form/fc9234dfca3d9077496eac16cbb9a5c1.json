@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-20T09:10:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "14228d247f1699dd042b7671fcb31628",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "velbudrem@gmail.com"
+        },
+        "name": "Александр Литвин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no"
+      },
+      "tender": "27cd1cf6d2144a86a952167f7ae9db43"
+    },
+    "schema": "tender111"
+  },
+  "id": "ea7deca1a19e5c1ccea3a0c741534450",
+  "sign": "AoiGxZPteZ1h2666oocGJBBuy4bTKx+yrBjDSK/O+Q76FMcA+eF71dz2RfA9MFnRLzSNVBzdr0YTnY2prjFoAg"
+}

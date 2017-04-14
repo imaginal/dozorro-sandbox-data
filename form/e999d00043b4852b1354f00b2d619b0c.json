@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T13:16:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "881ff4bf8e5a6168906ccec8cee46637",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gromasevskaya.ira@gmail.com"
+        },
+        "name": "Ирина Громашевская"
+      },
+      "formData": {
+        "generalComment": "Такой серьезный объект и ФОП без печати....\r\nТараканы так и будут падать детям в суп....\r\nВ приложении к договору расчет стоимости услуг КП \"Гигиена\", а договор подписан с ФОП Скрипченко....\r\nПлюс цены без НДС приближаются к госрасценкам с НДС.\r\nОчередной \"непрозорый\" договор.........",
+        "generalScore": "1"
+      },
+      "tender": "233af58bfac24ba49afc1f6844405bf9"
+    },
+    "schema": "tender101"
+  },
+  "id": "b2609cd58d78baa025aa5dfea74d4775",
+  "sign": "Ge0V3n1zvd3PxlHhcPI0bxzvauYQhVTbRGXtvIYd5dB+jwKzAkkXzZXjzyFuH/yw8jKo7YVtfQZl+4oinsOXAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T14:17:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "37c133dd83913f73f198943118dcf9c4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "schedrya@gmail.com"
+        },
+        "name": "Vadym Shchedrin"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Неналежним чином виконані роботи, кінцевий варіант неможливо було приймати до усунення недоліків, про які спеціалісти говорять в соцмережах."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "bdd8ed9237c155e83716597c070e5556",
+  "sign": "VZGx9GHbd4ggZU9CYPW65PJnNh8Vi1XLepCx2xKh/trhjRYkghQHxaE55v7oZUmH7KFxWdZzlhlYpkXeQPJ8BA"
+}

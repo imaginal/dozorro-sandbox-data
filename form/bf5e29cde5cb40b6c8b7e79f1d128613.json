@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-28T13:13:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0676ab82f056392c8ebda0a5e6aa9d08",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vasilchyk1968@ukr.net"
+        },
+        "name": "сергей васильчук"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "в протоколі про дискваліфікацію тов \"промбуд-пласт\" не вказана причина дискваліфікаціі",
+        "cheapestWasDisqualified": "no"
+      },
+      "tender": "e6bc1fc8908444b99c76886e890ec75c"
+    },
+    "schema": "tender111"
+  },
+  "id": "da3bbb7478cca86caf1e19e808fe0b75",
+  "sign": "tC9am7baNR6Bd/5y1aDUBaOUK4gwpsIiYbuKXhJgqyXF9PGUd+GEaaq2hPVtdVxTF0FRsjYdTJwqa7LrnJI6Aw"
+}

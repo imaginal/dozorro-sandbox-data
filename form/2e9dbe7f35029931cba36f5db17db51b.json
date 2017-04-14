@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "date": "2017-03-09T08:05:17+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "79c266d153f574280b68dea520cb1fda",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "svoboda2081@rambler.ru"
+        },
+        "name": "Виктор Котенко"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "http://sbu.in.ua/zhur_ras/tendernij-oblom.html",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "http://sbu.in.ua/zhur_ras/tendernij-oblom.html",
+        "productQuality": "no",
+        "productQualityComment": "http://sbu.in.ua/zhur_ras/tendernij-oblom.html",
+        "qualitativeCriteria": "no",
+        "qualitativeCriteriaComment": "http://sbu.in.ua/zhur_ras/tendernij-oblom.html"
+      },
+      "tender": "0f890b868d5b48afb35cb95f70dc36f6"
+    },
+    "schema": "tender102"
+  },
+  "id": "8e7adffaf48893158c8d584a4a2d5fad",
+  "sign": "ghUzg9p5G8NCs7H0Tg0LxJWIfXeTxH/yAIs3RxGvBRR6+fjVp/KzfGv+dkwQqjIOGdcepX3eBxc9rtpY0+Z2Dw"
+}

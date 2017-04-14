@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-19T13:59:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5219d0e31dbb5156ffeb8f520adfc84a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sasha-24.10@rambler.ru"
+        },
+        "name": "Александр Набильский"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Вимог занадто багато, здається це все для того щоб простіше знаходити (Невідповідність) у несвого підрядника.\r\nВ пріорітетах   при виборі  виконавця повинна ставитись, ціна, термін виконання робіт,  та якість, а не безглузді умови по яких відхилили нашу пропозицію .\r\nХотів-би отримати пояснення від замовника як на документі який знаходиться в електронному вигляді можна поставити( мокру печатку)?\r\nА  також хочу поцікавитись як такий маленький обсяг робіт можна розтянути на цілий квартал?\r\n"
+      },
+      "tender": "4d4db5df1dec46d59c003b087a47702c"
+    },
+    "schema": "tender103"
+  },
+  "id": "465393e524b0d6776fe3cc15eccedaef",
+  "sign": "g1ixA3gr6PllIG1yMF3cjokwV8D0bJVl+NHXmjc8wWr5oBk3wJ2ey0qaQNKLQSN6gMs8Wd2JX1VBuZwuRocTBw"
+}

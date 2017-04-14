@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:17:57+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "acc0e9c95604cd06813a1a0da71c7b5f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kinmisterkin@gmail.com"
+        },
+        "name": "Сергей Молодкин"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "уебаны"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "03a8f80d650957a59d42a0e841434b7e",
+  "sign": "GFxAs9RKFKyebwSsLStkjWKoTw3q5oAED2rHhKTzgkYiZ2+iWlRC9IAccCXbmqemD4qu6JOouSPABMEO1TFPAw"
+}

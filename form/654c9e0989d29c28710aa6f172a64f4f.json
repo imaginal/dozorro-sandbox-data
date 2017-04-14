@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T15:52:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d0f95d67efecb1d16ab375cdff2251ec",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "mazur.alex.vlad@gmail.com"
+        },
+        "name": "Alex Mazur"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Тип скарга UA-2017-03-24-000885-b.a1  ескальовано: 29.03.2017 09:49\r\nВважаю дискредитацією учасників тендеру, а саме: 1) Для виконання заявлених робіт, досить гідродинамічної машини з характеристиками 100 атм. / 74-90 літрів / хвилину. Жоден світовий виробник каналопромивних машин, не комплектує техніку насосами з тиском в 600 атм. Дане обладнання використовується при різанні бетону, і називається «установка надвисокого тиску»."
+      },
+      "tender": "c9952813088c4394b958eff23f57f54a"
+    },
+    "schema": "tender104"
+  },
+  "id": "178a115d0e5c9271c6d33beeb2f581bd",
+  "sign": "+ssFI+4E1cyCHi4xaF+n4zYSFGXXRRBJd3AO2OKPUoFusKV0UE9pSRo1gnmFhT8I2hmOTBPZ7mgdgHbtjoJEAA"
+}

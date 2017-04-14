@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-20T14:55:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "72850da9ebf2423338ef472408104087",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "oaristova73@gmail.com"
+        },
+        "name": "Оксана Аристова"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник коментував, що він так вирішив.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "\r\nПереможцем обрали учасниками з пропозицією майже на 17200грн більше ніж найменша запропонована ціна."
+      },
+      "tender": "0d26f036fe5049a7bb4bddec163310a7"
+    },
+    "schema": "tender111"
+  },
+  "id": "8c989a4eff5f82c22530005d080d6358",
+  "sign": "68iKqDB5JO1HHgleD68Mz7XgSdHfre3QALgqN+tcezRkB8ZieYeqwwygtmTt8OiRSbEeQuw6ZfVuSSHX229wCw"
+}

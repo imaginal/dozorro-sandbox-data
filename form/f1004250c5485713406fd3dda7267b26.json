@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T10:47:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6d5a0590b797047566a84c9be8181fc1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "abuild.consul@gmail.com"
+        },
+        "name": "Олег Погорелов"
+      },
+      "formData": {
+        "generalComment": "При детальному вивченні  тендерної документації замовника було виявлено невідповідності, а саме в технічній документації про предмет закупівлі було виявлено невідповідність , так в п. 105 технічної документації до предмета закупівлі помилково вказана одиниця вимиру  (т) - тонн замість  (кг), таким чином вважаємо за доцільне відправити технічну документацію на доопрацювання, та виправити помилки.",
+        "generalScore": "1"
+      },
+      "tender": "7440e7abc8044d42a1abf29ac936cf75"
+    },
+    "schema": "tender101"
+  },
+  "id": "c0286f1dda26fd27255176fa21e31d5e",
+  "sign": "qmJ/Wwnl24B0IqL2ft3bXdIl8FwBqlehm0uNkRT2lLpVrG06/Ekac33glSCIcl329ZbfpMhON5aZJo8bcYRKDw"
+}

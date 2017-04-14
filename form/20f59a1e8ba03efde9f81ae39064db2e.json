@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-01T22:03:42+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6a09ee9e44fc708dfbd07fa0d9d78ae0",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "maxkorn1983@gmail.com"
+        },
+        "name": "Максим Корнієнко"
+      },
+      "formData": {
+        "generalComment": "Питання у не повному дотриманні замовником вимог ст. 10 Закону, зокрема договір про закупівлю оприлюднено не в повному обсязі, а саме: не оприлюднено додатки до нього (договірна ціна та календарний графік), які є невід'ємною частиною договору.",
+        "generalScore": "3"
+      },
+      "tender": "8263d32293c844369c2ccdffae1a8d53"
+    },
+    "schema": "tender101"
+  },
+  "id": "a6d880a6429019ed67e5d6d4aa8afe27",
+  "sign": "XCqdKHYbtw1J3dHAQG6ZSSFVHxoaqKSid0AySPH0FTlHUJEXLLc0/J5T3I8ZSZ8ljCKCFS9sSc6ZEqcR+anHAg"
+}

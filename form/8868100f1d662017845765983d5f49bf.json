@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-14T16:02:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5537ae973fe8543d50cceab315e2ebbf",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "avtobusdnepr@gmail.com"
+        },
+        "name": "Автобус Днепр"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "yes"
+      },
+      "tender": "ac063d2bf8894d239a56f6cf5989b563"
+    },
+    "schema": "tender102"
+  },
+  "id": "d35cf6a2474a0fb39467afb74a9c49ee",
+  "sign": "Sqzo29eBfWBHFyhaH58Pca0kcQX96Zj/BjcDC23fBGfzuW3L5Ffbgm1cZASJS5m66VP99qOgdWYy8Hv4mXD9AQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-09T17:27:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f9c885b4f7d7a0b50df3e39c8ee3c7d3",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "wl29011986@gmail.com"
+        },
+        "name": "Manager SALE"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Пропозиція не відповідає вимогам. Документи підписані особою, посада якої непердбачина статутом!!!"
+      },
+      "tender": "3cce9d681f1f4a13bb0cac6d9a01d4c9"
+    },
+    "schema": "tender111"
+  },
+  "id": "6c5cf2f5b3cbd23a4a21dd32df526595",
+  "sign": "vU5zVCA08In5UvpUpQ3FWY5YGuvCtxJ/Qtc+gqMksd8K/9uEdXhCIptZsuCIiqXek8b9zhndX3F/rryjJq/DAw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-29T12:51:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "91b0036963614f580a600851a83fa1c9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kozak67kozak@gmail.com"
+        },
+        "name": "Андрей Москаленко"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Аналогічну продукцію можна придбати за прайсовими цінами, що нижчі за ціну закупівлі"
+      },
+      "tender": "deeab895270947758acabc741fb937b6"
+    },
+    "schema": "tender106"
+  },
+  "id": "bf1f07b724114ceca4db6e028f4a4766",
+  "sign": "/BqnNNkDe+quKQEuaOF3NNzOEQ8Vui/iPPbfPWprQtCTdORvDqztTXBFX6wwMAfsyRjH+SCpXHJr20UVo+JGCg"
+}

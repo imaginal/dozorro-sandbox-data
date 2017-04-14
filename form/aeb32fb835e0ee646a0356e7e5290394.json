@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:50:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "daa49f130ae3c2a350ee2a12a33cffbc",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "onovlennja@i.ua"
+        },
+        "name": "Zuva Istota"
+      },
+      "formData": {
+        "generalComment": "конкурс не був прозорим, перемогла нікому невідома фірма з проектом, який нічого не змінює. здерли з міста величезні гроші, а фактично лише замінили плитку у вестибюлі- і все.\r\n\r\nнеобхідного виходу до мвц так і не побудували. гочті євробачення - штовхайтесь через базар. тц і по вузькому тротуару під містком",
+        "generalScore": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender101"
+  },
+  "id": "49f807191bbc0455f7eebf6ef12a40b6",
+  "sign": "fjTPgcOVQ5dh4QiZZfXN3zM9iGFhMwhv5uZf1EtjCe76/Lk+Pnf0HBDZsIWOT4dfCLDi6IJrSLIA1tOtyBKcAw"
+}

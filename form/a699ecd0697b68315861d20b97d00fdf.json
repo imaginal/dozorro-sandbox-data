@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-23T16:02:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0ae7dbf27452caf8402f83187296290a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "aes11009@gmail.com"
+        },
+        "name": "Катя Алешко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "По процедурі закупівлі в електронній системі закупівель: UA-2017-02-01-003143-b , лот 2 ,ТОВ «БАДМ-Б» не згідний з відхиленням , так як  причини відхилення безпідставні, всі документи, що вказані у протоколі відхилення були надані у  технічній частині  в документі під номером 7 згідно реєстра поданих документів (ст.361)\r\n7\r\nГарантійний лист про наявність залишкового терміну\r\nпридатності.\r\nоригінал 361 – 361\r\nта документ під номером 12 \r\n12\r\nГарантійний лист від учасника для підтвердження\r\nможливості постачання запропонованого товару в\r\nнеобхідній кількості, якості та в потрібні терміни\r\nоригінал 379 – 379\r\n",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "abcdf9ee180e43be89850d813c4330ed"
+    },
+    "schema": "tender111"
+  },
+  "id": "9837c005ba4119c8b839286f9cdcadcc",
+  "sign": "Zvk5c323/pPr8iXwYmUmnzXrXtqDKzoY0jN1ZoSGZlL5IP9v63IpxYuP0SbqqquClonhB1f1s6j8VZGO1zf4DQ"
+}

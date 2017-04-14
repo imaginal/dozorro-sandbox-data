@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:39:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d60cf1771794ec7475f613f4e4d5a79f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "umtsani@rambler.ru"
+        },
+        "name": "Людмила Журбинская"
+      },
+      "formData": {
+        "correctClassifiersCodes": "no",
+        "correctClassifiersCodesComment": "То,что я предлагаю -- совершенно новое, почти никому не известное и потому не имеющее кода классификатора"
+      },
+      "tender": "a8ed5c3225c6424b8cf3e204cc74af00"
+    },
+    "schema": "tender105"
+  },
+  "id": "e1737e4356e3501f254f2701ea97c282",
+  "sign": "MhWzS2VlpWf03N7ghdQ76tBwTmv3u8R1/qINeS/OqXDdhDS3opzvad0AXDZMUcjj1uJImJ0Uxea1yMXpXGZpBA"
+}

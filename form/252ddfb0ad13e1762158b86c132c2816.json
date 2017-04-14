@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-04-03T20:30:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9c5c353419a615885d1002bf3043bb89",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "jawa80@mail.ru"
+        },
+        "name": "Вячеслав Яресько"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Тендерний комітет навіть не потрудився вказати причину дискваліфікації. Хоча 28 березня секретар запросив зразок товару, але так і не прийняв його до уваги. Хамство та зверхність держслужбовців б’є через край.\r\n\r\n Тендерним комітетом не враховані 4 з 6 принципів закупівель пункту 6.2 Наказу №35 від 13.04.2016 року \"Порядку здійснення допорогових закупівель\" ДП \"Зовнішторгвидаву України, на які впливає Замовник."
+      },
+      "tender": "beeb02f41884446c913be0aa5dad0b76"
+    },
+    "schema": "tender111"
+  },
+  "id": "794d1660ce263f393db3c08f1951ce07",
+  "sign": "c93b7ZFZ257IXsgsriRWJg32CCHUodcQf3lr+/E3+eFIPShtuS7wp3tKp/sc0F27Rr554KGG0hA0bBeNGf7SDg"
+}

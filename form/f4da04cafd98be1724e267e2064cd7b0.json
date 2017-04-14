@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-01-03T18:42:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "939881687d0642eadc6b32dc396b322f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "korma_ti@list.ru"
+        },
+        "name": "Таня Корма"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "дві найвигідніші за ціною пропозиції було дискваліфіковано замовником через те що, не всі документи, які вимагав замовник були відскановані в форматі pdf., деякі документи біли розміщені на площадку Прозорро в форматі  jpeg.  Спираючись на регламент роботи площадки Прозорро, хочемо нагадати , що площадка підтримує ці два формата сканованих копій документів, тим паче, у переможця торгів ПП Куніця, крім того,що ціна вища від найвигшіднішої на 40%, так також деякі документи підгружені на площадку в форматі jpeg.- це не стало причиною дискваліфікації чи відміни торгів, через те що всі учасники не відповідають кваліфікації Замовника. ",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "09865ed5fbb341ee861b30b6c2709f59"
+    },
+    "schema": "tender111"
+  },
+  "id": "3ea0cf8899ac58b9b0e0eee918be3414",
+  "sign": "OSBsDaugBJ7xs0a/EPDyReHlDInjC0Hz3qHHeqFl5Vth+7B80f+joyA/5ppVJ5qifzA7SbP6bXcPRFrbVJQKDA"
+}

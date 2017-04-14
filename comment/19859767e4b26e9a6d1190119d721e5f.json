@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-16T15:56:25+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Ви можете оскаржити дії чи бездіяльність замовника через Скаргу до АМКУ.",
+      "parentForm": "21fc98938de379065fd512f0458133dc",
+      "tender": "e1824264ee2e43a497de4808b2cde73c"
+    },
+    "schema": "comment"
+  },
+  "id": "d269447e4b7b5fc66aa14b76c1c43fa1",
+  "sign": "SZQg38ji07JGLUKZ5apSzyI7x3InEOwEu528X4Mg+S0DAfRZK73MJctt5Lp09VKfybhWi2mi5JPFSFtKdQG1Dw"
+}

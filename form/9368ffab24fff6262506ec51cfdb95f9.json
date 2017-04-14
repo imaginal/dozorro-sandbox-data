@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T10:51:44+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6d5a0590b797047566a84c9be8181fc1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "abuild.consul@gmail.com"
+        },
+        "name": "Олег Погорелов"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "В технічній документації допущені помилки, які не дозволяють виконавцю робіт оптимально розрахувати договірну ціну. У технічній документації, п. 105 помилково зазначена одиниця вимиру тони замість кілограмів.  Вважаємо за доцільне відправити технічну документацію на доопрацювання"
+      },
+      "tender": "7440e7abc8044d42a1abf29ac936cf75"
+    },
+    "schema": "tender102"
+  },
+  "id": "85b85a3aae8608e512da1b1b192d346a",
+  "sign": "EmfuIfNeRDrEEYgASEQUucT3k9jeNRgPcgLdqctYYeCkMrMBalUdt2pJfSkdQJHxeUkpTY9xv4U6tPyHGJsMAw"
+}

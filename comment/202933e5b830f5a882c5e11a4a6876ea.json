@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-25T09:25:02+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ffcaf97fda13500082f1dc8710028bcf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dennis.baranets@gmail.com"
+        },
+        "name": "Dennis Baranets"
+      },
+      "comment": "В коментарях всі порушення висвітлені",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "227bc98dabce9dcfd989387c9e73531a",
+  "sign": "TIJ2RbKhoi8i2t0H0E4l40P8v9zzGmST/u5AkOOxKdRa1u7ub/MiQ/s/tuhjRwsQnOap05lfdAjO0H3H/qiuDw"
+}

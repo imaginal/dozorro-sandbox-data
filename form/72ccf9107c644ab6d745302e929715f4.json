@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-03T21:38:42+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "05057c764cd200351b40589db94a8b74",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "polly.z.8@mail.ru"
+        },
+        "name": "Polly Zavadskaya"
+      },
+      "formData": {
+        "generalComment": "Позитивне: Високий рівень конкуренції, спостерігається активність учасників під час аукціону, кожен з учасників закупівлі здійснював ходи на пониження ціни. Висока конкуренція породжує економію бюджетних коштів. \r\nНегативне: завищена очікувана вартість закупівлі.\r\nСпостерігаємо за процесом укладання договору.",
+        "generalScore": "4"
+      },
+      "tender": "bc4606f596eb4d13bcd2593acf20ff07"
+    },
+    "schema": "tender101"
+  },
+  "id": "c541e8a2acfbc3c771d658cf638a261d",
+  "sign": "KGdt+PT3iGOSiQ8mBWNtIgPzkIBqn3xdwIkKs09WH/+5YT2wAdCu4A40GCvTSPAb1FZZnWW1PYBojvrO2ERtBQ"
+}

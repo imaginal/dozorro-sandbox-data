@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-05T19:07:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f4069511dd17355774f3cff9c65b2094",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "testpay1@gmail.com"
+        },
+        "name": "tets test"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "199 999, 99 - вы серьёзно?"
+      },
+      "tender": "d14a980af74b4793a726ff38d35dd742"
+    },
+    "schema": "tender106"
+  },
+  "id": "a233dcc841502bbe0b8ddd2eff0cea9a",
+  "sign": "/TCLBaYiS/eucn4as5s5mC7hGpkm8VfdpSnWIgyp0SmH7DpRm0VN2wz5EdUdqj+wTAJipuqOLxwQ+j+WECZ+BA"
+}

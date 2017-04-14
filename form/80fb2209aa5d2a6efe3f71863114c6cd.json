@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-25T10:56:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd78f2816b57cf1d5c8b0660e487c433",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annagirina.ag@gmail.com"
+        },
+        "name": "Anna Girina"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "yes",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "tender102"
+  },
+  "id": "413e5dc0ec5cf128333de52680f261e7",
+  "sign": "zfhq7ufD00Y8avzKO4ZYMpZg7sTS44cIF7ys9joegDRUY/ETkF4cLR89n+PvF769zXGba15roWcO3xMw6XPgDw"
+}

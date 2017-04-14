@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "date": "2017-01-19T14:10:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Wladyslaw Nazarenko"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no"
+      },
+      "tender": "efbe1f2b416b45caa8f85f9b13352649"
+    },
+    "schema": "tender104"
+  },
+  "id": "b5c22e0d35a2de1dad714bd56cc3540e",
+  "sign": "HM1UoI7FXy49BQbnN4JdRivdvSawpc2ofZUO6Xo+GobzFjUj64XIY/q3J42Dbc7n6hGr5QqSZdl9NWyWx3JvBg"
+}

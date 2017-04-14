@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:43:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Василий Черепнёв"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Вы хотяб представляете как должен выглядеть ремонт за 1 миллион долларов?\r\nСудя по качеству материалов и работы ремонт обошёлся МАКСИМУМ в 100 тыс.$, а остальное по старой схеме в карманы???\r\nПозор!!!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "ca0115e2cf254c35ffd5c3be8c7db67d",
+  "sign": "7AbUo2P3Ji8m4W/Rh4D104aXFipPtWfq8uB0dx+750JSN9QWo6X1DwLyG8sTiAVhHDaMo32HPux+5rZe7Xr9DA"
+}

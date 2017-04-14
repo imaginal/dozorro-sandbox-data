@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-04T17:54:23+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Олена Ратушна"
+      },
+      "formData": {
+        "argumentativeDisqualificationComment": "Переможець по лоту №2 (молоко) ФОП Новіков не завантажив в систему документи згідно ст.17 як переможець на протязі 5 днів",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "94f337a6e71c48b199ba629a4ecbf836"
+    },
+    "schema": "tender111"
+  },
+  "id": "a0dcd02d06526c8de7ef5c228e8d8214",
+  "sign": "3/j9DlQ03BVVyARIDe86Wwda5ZnEk5IvwyqXWpm50oHriwNmYiccFQ8sCd39izYR3N8f12TB9qwecZP/p42XAg"
+}

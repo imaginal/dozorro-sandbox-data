@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-07T20:37:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8c5166625108405ac4e2479d97f2ea1e",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "print.kr.ua@gmail.com"
+        },
+        "name": "Denis Saltanov"
+      },
+      "formData": {
+        "generalComment": "В тендерной документации абсолютно размыт вопрос программного обеспечения. Указано соответствие неким рекомендациям, которые никак не документированы. В результате потенциальные участники, были озадачены и не решили участвовать в тендере. Что касается победителя тендера, то в коммерческом предложении не расписана спецификация товара, в результате чего невозможно понять. действительно ли предложение соответствует требованиям, указанным в документации. ",
+        "generalScore": "1"
+      },
+      "tender": "3d4b1df6d9214fe8b4a6f4771425ce22"
+    },
+    "schema": "tender101"
+  },
+  "id": "edebe25edad511676a4628c73b3ca169",
+  "sign": "fafyxUqPK9ykhTlzN1+jbjtZX5cbqjAOq3bI0ZLafM3CDfPZkRKKDtF+THCs1GB2JoZypk/FwbzYt2ikCOe3Cw"
+}

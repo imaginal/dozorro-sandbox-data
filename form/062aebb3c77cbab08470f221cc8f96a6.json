@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-13T20:35:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "68adc9d79c9a2e090cbc24aebf03af33",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ummarchenko@ukr.net"
+        },
+        "name": "Yury  Marchenko"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Відмінений лот з найменшою ціною"
+      },
+      "tender": "faddead62cdf4fc4912ef4e5ecaa043f"
+    },
+    "schema": "tender109"
+  },
+  "id": "c80ddf3b3aff5c1fe81d783d42404493",
+  "sign": "1b2fytSWDV3EY8wqbYEBBgXTQH9QqqWxWMabk6I9QN+TCf31va72lGsCnfJRWhEA4hRtXkokPG01Q3xREDoGBw"
+}

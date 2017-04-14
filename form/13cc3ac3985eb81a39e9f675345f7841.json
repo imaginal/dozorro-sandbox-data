@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-23T09:30:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ae09338d64bd0f937f39470d26ed24e1",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olezharik1985@gmail.com"
+        },
+        "name": "Олег Кушнір"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "yes",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "dcfea2e1df9448129dac0cf992ae6581"
+    },
+    "schema": "tender102"
+  },
+  "id": "043a66c876fb86169344857871097ce2",
+  "sign": "AKb/WSuT7qxFxlclt9CSfuu7kPgLUF/1wMWnD1TqpqkXW1OGSOUDS3HOy+NxOfieH6YCzn4CxPrkPPh2irenDQ"
+}

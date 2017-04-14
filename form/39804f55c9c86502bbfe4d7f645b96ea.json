@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T15:02:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "624ff7fe92d6421c87281cda92479cbf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "amatevita@ukr.net"
+        },
+        "name": "Татьяна Гуменюк"
+      },
+      "formData": {
+        "generalComment": "Нажаль, Замовник не належним чином склав тендерну документацію, а саме: відповідно до тендерної документації мова йшла про Пекарський шкаф ШПЕ-4 Еталон, виробником якого є Торговий дім \"Ефес\". Оскільки не чітко визначено всі технічні характеристики, то ФОП Голенкова, пропозиція якої перебуває на розгляді, запропонувала Пекарський шкаф ШПЕ-4, виробником якого є Арет-н. А відтак і ціни і технічні характеристики відрізняються. ",
+        "generalScore": "1"
+      },
+      "tender": "abd3bfc033a34e6cb756b2964b84a7b7"
+    },
+    "schema": "tender101"
+  },
+  "id": "c61a1af59a7f1d22d4a5ee2893b284b9",
+  "sign": "0RpVvaOBcPlrSicPKxIQ07gGIWc8/tsZF26bke6kvNrhFN+Sy5WjA0T+EjMIjMP7jTLsf457Knyska+pz+TsCg"
+}

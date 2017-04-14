@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-02T02:13:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "980cd9f40368b1b140cf85e8844f1a08",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "jsk93@mail.ua"
+        },
+        "name": "Татьяна Кориненко"
+      },
+      "formData": {
+        "generalComment": "В оголошенні не вказані коди ДК 021:2015: та CPV, що ускладнює пошук та відбір, для потенційних постачальників. Прохання вказати відповідні коди. В іншому випадку, це є грубим порушенням п.6 п.п. 6.2. Порядку, а саме: Під час здійснення Закупівель Замовники повинні дотримуватися таких принципів відкритість та прозорість на всіх стадіях закупівель. В результаті участь у аукціоні взяв тільки 1 (один) учасник.",
+        "generalScore": "1"
+      },
+      "tender": "e51e6b31fe4741fdb6e23d61250fe76b"
+    },
+    "schema": "tender101"
+  },
+  "id": "97873bbf17d3469933877ed0faee4bae",
+  "sign": "ObFaSJqV8fOpWudDY8ImJ+1iY8PHni28FIYXmpkh/BeDXatn7x8OQ1+c4hwWMdVaGOggXi/4ghSXnMK65E+cCg"
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:18:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "cea48323f65462115168e7615c890ffd",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "anton.lisnychenko@yandex.ru"
+        },
+        "name": "Anton Lisnychenko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "0e2a1256d7b1bd39608a2460010e2381",
+  "sign": "FxTRo43cxuii9FmgIui0M38K3GRwUAp2Jzg8YQVYoD66Obz2GT7z6DwlCgTUTabpx12jkoTbYgodR3sqYFrbAg"
+}

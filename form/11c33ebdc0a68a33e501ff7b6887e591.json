@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-03T10:36:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "881ff4bf8e5a6168906ccec8cee46637",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gromasevskaya.ira@gmail.com"
+        },
+        "name": "Ирина Громашевская"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "4041b035ebff4388aacccc1039a348ae"
+    },
+    "schema": "tender102"
+  },
+  "id": "7226a5deb1e74698fba793995816f711",
+  "sign": "mfrHn4F6yaV1hikD6CDFtXeV2KwjLZGcs99ZzizQE+hPcA2LrclPTqIUxi55M/FzT8XGPmf3r7iYg64rG45hAQ"
+}

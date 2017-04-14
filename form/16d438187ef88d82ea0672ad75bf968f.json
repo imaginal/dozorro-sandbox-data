@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:21:46+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes",
+        "impartialProductRequirementsComment": "Вимоги до предмету закупівлі встановлені відповідно до вимог чинного законодавства. "
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender103"
+  },
+  "id": "801b6638a5595fec7ad61da47564b17b",
+  "sign": "C/VgCWGroLyZtTAscl2I5ure7R6Bl2XxhrDQ2UAAYP8gq5bkakwcUVq8PEhLa/HUx0C30x6XL/5IDn5UXh+CCA"
+}

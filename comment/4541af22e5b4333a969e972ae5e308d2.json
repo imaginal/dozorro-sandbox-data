@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-20T17:54:39+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Доброго дня! Ваше звернення надіслано керівництву УДППЗ «Укрпочта»",
+      "parentForm": "ad6c50fc4ce7168b913e1187ea5c6f90",
+      "tender": "c9304c6d55fc459f940a6cc5b259540f"
+    },
+    "schema": "comment"
+  },
+  "id": "ef5d751089cfddcafe09179db5a9cebf",
+  "sign": "5UJ8oNnZYajMU4MOg+FJEz2b73riYBUhmp50qdcV3cWlLwaVBSMwiPbmKZLRPa+TVSlmb6Isuki8GGZvs87RDQ"
+}

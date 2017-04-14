@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-14T23:41:57+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d4b14684d734f967f80023dfae280533",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pridorozhnya@gmail.com"
+        },
+        "name": "Tatyana pridorozhnya"
+      },
+      "formData": {
+        "generalComment": "замовником поділено предмет закупівлі з метою уникнення відкритих торгів.\r\nа саме:\r\nUA-2016-11-29-000019-c\r\nUA-2016-10-23-000009-c \r\nUA-2016-10-23-000008-c\r\nUA-2016-10-14-000049-a\r\n\r\n\r\nоб*ект будівництва - пр.Центральному. його розбито на частини, що є порушення порядку визначення предмету закупівлі",
+        "generalScore": "1"
+      },
+      "tender": "8f5a5510d3604d67b97f3d8aad54a61b"
+    },
+    "schema": "tender101"
+  },
+  "id": "a48023b1eb3c6c6b168a41d76231af68",
+  "sign": "06y+1mXXg9BMUuUPXcnvSYr38QpZHKvgJVu2XHQtKInQusObR89CLBzq5L+ghw3n1RJ3waHyrJMKBZCCmEaeCQ"
+}

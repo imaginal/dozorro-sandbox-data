@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-27T10:05:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b4e121c82da9e270b6f98cdc02f0273a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ekko.pak@gmail.com"
+        },
+        "name": "Александр Зенков"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Не было приведено конкретного ответа об отказе. В файле отказа было указано \"У зв’язку з відсутністю потреби закупівлю відмінено.\". Вопрос. Зачем проводить тендер если нет потребности? "
+      },
+      "tender": "65aa0603953646cf964a03662a1b939a"
+    },
+    "schema": "tender109"
+  },
+  "id": "f9cb5b5a39bb9e02a77e394dd1865036",
+  "sign": "ehjZ5zAzQ6w15LPqoQ3/nLQHVkGUEfUAHERjfzOn8MeVAqCxmTVXqG3Xj3P3oKPnbTV9LgVpAJBocZwmhrZgDQ"
+}

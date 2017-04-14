@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-02T12:47:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7e01d27bcde55f78bf883e0b756b707c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shadejets@live.ru"
+        },
+        "name": "Vany  Voloshyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Аргументація щодо дискваліфікування учасника, якого визнали переможцем була досить обгрунтованою. Скаргу задовольнила Комісія з розгляду звернень, ще до того, як замовник підписав договір з учасником.",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Замовник визнав переможцем та підписав договір з учасником, який не відповідає вимогам закупівлі."
+      },
+      "tender": "eee1cfbe44274d3ab2e269f34013624a"
+    },
+    "schema": "tender111"
+  },
+  "id": "4c4e2ad6d72bd45d2fe26732eba80a4b",
+  "sign": "kZyowYDlpjM/nrSRmuv3MWOfgI3nbBQcuTk8fhaZprb2VDZGSWCx2+74E4DQKN4j6E3Jn4DH1sCHHyDTNKovAw"
+}

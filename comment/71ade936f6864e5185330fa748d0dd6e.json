@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-06T10:13:13+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "efeda5d31cce841b4047f20afb5419a9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "neangelo4ek@gmail.com"
+        },
+        "name": "Ekaterina Serebryanskaya"
+      },
+      "comment": "Використання банківської гарантії в цій закупівлі доцільно при закупівлі від 1 000 000 грн",
+      "parentForm": "312bb69943501ded2287df079bf610dd",
+      "tender": "6a2e019746c94a369cda670a3ccadec2"
+    },
+    "schema": "comment"
+  },
+  "id": "05332e7645a421909d5a0c84105c2d18",
+  "sign": "Fh3cWPzZKXJB3P5m3dMkpTZ0SURkoRZosbYDi3qNBrTbOdoRI/3UPyxGE648+aCS9zTeRInjbUISmIg3v9VsDA"
+}

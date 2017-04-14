@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-24T18:57:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e0d25b6571f679f064a768e71138066f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "2ra.pod@gmail.com"
+        },
+        "name": "Роман Подвиженко"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "72afe544845046b5898cd86a4b16c11a"
+    },
+    "schema": "tender102"
+  },
+  "id": "cb00e759aac2d639cb821d767a098297",
+  "sign": "HCIuPMb3KCA/dPBg0id+8mTlTrHqWpDNqAXba58LxOvbn5EYIsKCEcQ0TiuB2l4jF2knJe/aj7vSbU1RHPCpAw"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-23T12:27:28+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2a7ecaf7f3c4dfc77b0ae3e2b4c6a1a2",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "barmaleyato@gmail.com"
+        },
+        "name": "Barmaley Barmaley"
+      },
+      "comment": "Утверждать, что антифрод систему можно установить и настроить за несколько дней - это либо неадекватность, либо некомпетентность, либо открытый саботаж.\r\n\r\nВы можете привести конкретные примеры, когда это было реализовано в госсекторе хотя бы за год?",
+      "parentForm": "f09f04491a2a324e1f2a60bd3e149368",
+      "tender": "a3092df863754d898f9d92b134bcde56"
+    },
+    "schema": "comment"
+  },
+  "id": "3c60065c0f5db3628dddd41ec3a9a359",
+  "sign": "PvdYn3AnE+tka4clF0kPNEPVjZB4AMlhX+yF1fmUa3nsZL3lVhu1Cm650wsrEe8abbW5jnVDnupiF5++GH9QCw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-25T10:54:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd78f2816b57cf1d5c8b0660e487c433",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annagirina.ag@gmail.com"
+        },
+        "name": "Anna Girina"
+      },
+      "formData": {
+        "generalComment": "Дуже зацікавило Dozorro......, та побачивши відгуки з коментаріями дуже розчарувався.\r\nЦей моніторінг не є суттєвою поміччу для перевіряючих органів, ніякої коррупції та нема підстав для аудиторської перевірки.\r\nЦе стосується і цієї закупівлі.\r\nЯкийсь форум для ображених підрядників, або невідомих спостерігачів, які висловлюють свої думки (БЛОГЕРИ).\r\nТелепередача з Малаховим \"Пусть кажуть\"...не перемикайте.\r\n",
+        "generalScore": "3"
+      },
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "tender101"
+  },
+  "id": "16d65666aaffa2cd20b51ccc080b55ea",
+  "sign": "uuZ5sRFhmYBNOV2fVVf8FGBDGBwosDPeDCehgPCkfJ5Z2FmW5cwCsRU3KUQnwm2azLURrwNxiAU6F8WAljUYCw"
+}

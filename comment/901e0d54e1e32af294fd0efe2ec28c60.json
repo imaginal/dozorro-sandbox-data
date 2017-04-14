@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-16T14:30:33+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Замовником визначено кінцевий строк подання тендерних пропозицій до 10.11.2016 11:00год.\r\nВідповідно до Додатку 3 документації, технічні, якісні характеристики предмета закупівлі передбачають необхідність застосування заходів із захисту довкілля (надати довідку). Зазначена Вами довідка надана після 10.11.2016 року, що не узгоджується з умовами закупівлі. \r\n\r\nНаявні підстави для відхилення пропозиції ТОВ \"АКО БУДІВЕЛЬНІ ЕЛЕМЕНТИ ЛТД.\"",
+      "parentForm": "da7537d235bc5497d0ea7ef898bae6f9",
+      "tender": "570aa09f18e34c6daa723725b594d9f6"
+    },
+    "schema": "comment"
+  },
+  "id": "59b3f5afa6dba2b347389963a18f9b36",
+  "sign": "JB1bMUmkEYhZFfQNB7RSqn7rS8EI9Z9Ip5gveZwyj2p0ALWWS0VTXTsAOWTrU+KuuBt7MDGtGhG4aUM1eNyNBw"
+}

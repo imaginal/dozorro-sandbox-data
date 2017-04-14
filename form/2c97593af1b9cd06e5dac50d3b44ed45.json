@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-20T16:54:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Дисквалыфікували чотири!!!!!! найнижчих, та вибрали вже знайомих (раніше працювали)"
+      },
+      "tender": "305c83d8783f4d42a961235dc0a2e308"
+    },
+    "schema": "tender111"
+  },
+  "id": "108414bdf04870de415f9b0f6c4239db",
+  "sign": "QFPbbKXLrGwgJUZDPWjyf1YFsxRke12NM5LouGNPfLKh+ejsfzOjBkx/dFQBFNi4S24hepk8Ok8Yr6EYibP+DA"
+}

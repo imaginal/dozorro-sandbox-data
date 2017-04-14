@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-04T16:43:15+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "43d0e21e82c217d3e8ed02b5f783b150",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ark19780401@gmail.com"
+        },
+        "name": "Андрій Кусень"
+      },
+      "comment": "Упереджене ставлення, тривала оцінка пропозицій, порушення конкуренції.",
+      "parentForm": "cc975a9f42836349600c31cfdd2cb362",
+      "tender": "8040f72e02c74fd0b17d8fc1c76abf51"
+    },
+    "schema": "comment"
+  },
+  "id": "6346f857714270754780991230024d0f",
+  "sign": "egmDWm5haMkjii+HDmEBigeCc/LlyhHpSn8nOT0LCx9hF0vp+gwAxpnU835tKEoZiMX2pj4yhZP8NvjesngwCg"
+}

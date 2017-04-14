@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:10:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a0f2d15be030d1bc8bc0274b95f1f875",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "andrey.panfilov@hotmail.com"
+        },
+        "name": "Andrii AP"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Добрий день. Це ганьба для столиці. Я вимогаю, як платник податків, щоб ця робота не була прийнята замовником. Суспільству не потрібна така показуха перед Євробаченням! Якщо не можете зробити добре, не робіть взагалі!",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "a71343e2098be67366defa74b6381315",
+  "sign": "jGXQHFQ4JMy5wbGacJEde4FufTqW28te4nt3OAJDdhbu0RhWnIpSpGLFrYgnH2DqIO/Iekqx7kNqvjuXWjfODA"
+}

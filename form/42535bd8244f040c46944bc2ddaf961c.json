@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-17T14:10:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b590109f259c806907294c966a20b191",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "photo1980.rom@gmail.com"
+        },
+        "name": "Roman Mykyta"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Відбувається відсіювання учасників, що не дозволить досягнути оптимальної ціни",
+        "maxCompetition": "no"
+      },
+      "tender": "11ba82291dfa49b79b2b0a2b4a7a3434"
+    },
+    "schema": "tender102"
+  },
+  "id": "c2501e985e7b81dbd44f52680f49d00f",
+  "sign": "zANX0c59IO/BX9OfKUSxlJrJJtkYaQ511lKWE/avTtEya92ziOJDz6Ly2X4zSAupVZuUMrKlqYKsJV7naAZBDQ"
+}

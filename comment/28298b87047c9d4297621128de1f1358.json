@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-25T11:07:55+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd78f2816b57cf1d5c8b0660e487c433",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annagirina.ag@gmail.com"
+        },
+        "name": "Anna Girina"
+      },
+      "comment": "Дуже цікава інформація.......\r\nтільки от що з нею робити?\r\n\"Осведомитель\" - потрібна людина в цей нелегкий час!",
+      "parentForm": "50a61ab4296f6d311577f1268d8f9fea",
+      "tender": "8a37c278e26840d1acaf781967f36d21"
+    },
+    "schema": "comment"
+  },
+  "id": "664fec35f464cf56e4b6ecfd5dc4d65c",
+  "sign": "7IQkaOCAutx/ua8y6J+BLNxxQMoWVKbPuw9lncFhSKdSM1+IfxOh1bGW6EmTrGSc0NG4GdaQ7wqnC4LnqhT1AQ"
+}

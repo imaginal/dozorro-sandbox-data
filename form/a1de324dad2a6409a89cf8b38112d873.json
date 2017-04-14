@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-19T14:44:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d1827ca9285efff7ce971a600a65b46e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "arenarental@ukr.net"
+        },
+        "name": "Konstantin  Titarenko"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Немає специфікації до закупівлі, на торги прийшли кишенькові фірми."
+      },
+      "tender": "2cd10259d01c44d7a55af489bb8ebdbc"
+    },
+    "schema": "tender103"
+  },
+  "id": "26963cde2cb6620850676c391eb547dc",
+  "sign": "OV83PYz3m3/owTqCGD+VwnZ8yJdDq77clPB362Cp8oeZC8V8UpkgU45FeA3d1uvHda/h4Im+007FY9tBE9xdBQ"
+}

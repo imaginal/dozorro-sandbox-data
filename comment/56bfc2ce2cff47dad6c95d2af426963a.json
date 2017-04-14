@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-28T09:02:04+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9ada253fb935e5ad83c42c65cab4f6e0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tolikvik@gmail.com"
+        },
+        "name": "Anatolii wespe"
+      },
+      "comment": "Позорище! ни в коем случае не допускать эту же фирму делать второе крыло!  Ужасно сделано и вообще в договоре должен быть пункт приема сдачи объекта как вы могли согласиться принять такой ремонт, переделать все заново!",
+      "parentForm": "3acf869702cff9a8fba5dc23b299a880",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "c97c5f9deb395d9aca7a5caf6a620c4d",
+  "sign": "zcvLHsRTTKENYfJ+pYodn1pLBB/fnxCVcNslaCF0kARqVAD/caqhINYI088HaPQCbl36Ha4Br2+x97QvkxqhAA"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-08T08:36:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Сучасне проекційне обладнання для музеїв та масових заходів створить незабутнє враження на аудиторію.\r\nНапевно, значно поліпшить якість бурових робіт.\r\nДуже цікаво, що проектор EB-Z9870U на ринку пропонується за ціною від 649 480 до 686 250 грн. А остаточна ціна закупівлі 195 990 грн.\r\nВсм відомощо якісний проектор можна придбати за ціною до 20 тис.грн.\r\nЩо і навішо придбав Укрбургаз наприкінці року?",
+        "generalScore": "1"
+      },
+      "tender": "7b12aef408514c22a0d67afe7812b338"
+    },
+    "schema": "tender101"
+  },
+  "id": "1abfec7aba3693d879131ca8df84a79e",
+  "sign": "33GnOGzato9nm3iHoaMZpkfwCOm1NP5QGxbXUuZb1+jFVVx7igc1tMQ5hVu3bnVVs+fJnZ+ngw7NHwtKcDO+Cg"
+}

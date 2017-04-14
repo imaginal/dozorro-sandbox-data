@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T15:48:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "efeda5d31cce841b4047f20afb5419a9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "neangelo4ek@gmail.com"
+        },
+        "name": "Ekaterina Serebryanskaya"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes",
+        "impartialProductRequirementsComment": "Вимоги до предмету закупівлі є неупередженими і такими, що не створюють переваги окремим учасникам"
+      },
+      "tender": "6a2e019746c94a369cda670a3ccadec2"
+    },
+    "schema": "tender103"
+  },
+  "id": "e19a4dd8a1382209366b913a50ba5660",
+  "sign": "bUz79AxZGSRpxzWPgWlAjZQkjSL+dVSFRaw+rguer2fkge48CJGntbCk70q9xw1yTSvHj9rD+nzjFN/s2yfwCA"
+}

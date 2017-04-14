@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:22:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "correctExpectedCost": "yes",
+        "correctExpectedCostComment": "Очікувана вартість визначена об'єктивно, виходячи із середньоринкових цін на товар."
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender106"
+  },
+  "id": "d2b0db207122f2021d7a82a98dbf302e",
+  "sign": "9CrI0z7pz4bi/1gfn2pGYsbjRiHf76zMJPzTXh5ES4ONr09JvrJhbDP7yA0JtMwj0n6RihQV4d3O94+bK/vjDg"
+}

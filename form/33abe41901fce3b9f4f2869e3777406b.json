@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-03-27T02:50:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "34f741396077a20ecbd29ef16cbdec4b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "storytuner@gmail.com"
+        },
+        "name": "Lyolya Goldstein"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Если по условиям договора необходимо было воспроизвести преисподнюю, то исполнителям удалось сделать даже больше",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Основатели баухауса устроили юла-пати в гробах"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "0a43dbf88aaee4a71fea678fbc602053",
+  "sign": "iAGvrpYYKCVV2kje4NyiAeDC6SW4uTOB5B2xUCFswsrpnfdGyAy1LoS41rTfMiqPyFOOwwAG2IImBLIKjhNnDA"
+}

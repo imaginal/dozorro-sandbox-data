@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-29T17:54:43+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Степан Васильев"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "За великим рахунком при наявності власного дозуючого обладнання на пральні оптимальнім варіантом є закупівля кг чистої випраної білизни із чіткими критеріями якості. Постачальник сам несе відповідальність за миючі і технології прання.",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Ні. Прописані умови під одного постачальника та його специфічні продукти. ",
+        "productQuality": "yes",
+        "productQualityComment": "До якості і рівня продуктів Ecolab питань немає.",
+        "qualitativeCriteria": "yes",
+        "qualitativeCriteriaComment": "Умови тестування і що саме буде відбуватись із зразками не вказано"
+      },
+      "tender": "f8516d07d61349bc977bf304f2c97b4b"
+    },
+    "schema": "tender102"
+  },
+  "id": "5c21df02d207b867cacf1d3c9580170f",
+  "sign": "kdRSk3CjG9ZbHNwno1P80vI4EInd9AcoCHnbitHWhFRLQC8685zs6HfjsnSu9pUg1aDI1bBKxcJUgQfGKhq+Ag"
+}

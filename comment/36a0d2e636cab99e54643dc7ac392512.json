@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-31T10:40:36+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a8a9fd06933d5aa753534786a7014972",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "boykoolgaleonidov@gmail.com"
+        },
+        "name": "Olga Pr"
+      },
+      "comment": "Замовник оприлюднив договір не в повному об`ємі. Додатки №1 та №2 до договору відсутні, хоча в договорі прописано, що вони є. \r\nВиконавець надав Сертифікат вимог ISO 9001:2008, у якого закінчився строк дії  ще 21.11.2015р.",
+      "parentForm": "dfd7cdd7ff9173b1f6a957c7826f5a77",
+      "tender": "c372a7a80fe44e778b11b85f684a4ea5"
+    },
+    "schema": "comment"
+  },
+  "id": "b53ac93a9026b10e13d2e2bbac3895ec",
+  "sign": "ZaM+6DwWIC3Wgby0YOlzJggEKOHms3pJIvNkDpfwEp0iT/obkaw5p0cRGbFBpqddQH6jl7SrmcQ9NYsH/XJ1DA"
+}

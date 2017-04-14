@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-01T15:15:13+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6d2cc5ca88873a2c324d0d63616a9ccd",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "glushik77@gmail.com"
+        },
+        "name": "Денис Глушко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник навіть не досить вдумливо обгрунтовував свої дискваліфікації, наприклад нам СПД Глушко Д. О. одним із пунктів дискваліфікації вказана відсутність відгуків інших замовників, але вони прикріплені аж 2шт. і навіть окремими файлами із назвою \"відгук\" не побачити не можна, можно лише хотіти не бачити, інші зауваження теж надумані. Я вважаю, що інші учасники можуть сказати те саме.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "100% коррупція\r\nЗверніть увагу кого Замовник обрав переможцем, Із 16 учасників 2-є останні із найбільшими сумами мешканці м. Апостолове. Невже жодна з попередніх компаній не відповідала кваліфікаційним вимогам. "
+      },
+      "tender": "49c8748adf984bd1b4dbe008f6c05a40"
+    },
+    "schema": "tender111"
+  },
+  "id": "d5ddd7f2f8d8e3ecfd7b44b0785017b9",
+  "sign": "7I3yCjWB7qyrRp4pKCqrSf4Uvr4QE2FqQbnqI0aUXXIUx7Xkn1CnRAyYvB6jmApYw9olUKqsUasaYlR9HeLZBA"
+}

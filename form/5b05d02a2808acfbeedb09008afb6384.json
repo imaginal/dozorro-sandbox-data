@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:30:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b85170d0e30961f4e21c3795f3e068f7",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sidfs@ukr.net"
+        },
+        "name": "Dmytro Sydorov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Зовнішній вигляд виконаних робіт - вражаюче жахливо! Кладка парцеляново, а точніше, керамогранітної, плитки - елементарно не відповідає ні естетичним, ні технічним нормам. Виконання віконних блоків - зроблено з перекриттям частини стіни. Магістралі - виведені і облаштовані без дотримання норм!\r\nЩодо дизайну інтерьеру - абсолютно не збережена аутентичністі оформлення станції, втрачено первинний колорит.\r\nДуже шкода, що відсутня відємна оцінка..."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "457c771b3e0b4b765bb501b2708241f9",
+  "sign": "ieItIk6fzwz4uohw1miQybVbbr7O/gK3sZrSlgRmqiFoB6FqHivUGQJLKkFcpwbgOS7BvirS9gC5N1meg3xcBA"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:47:09+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1493f1650e0a74fe4680e042b955f9a6",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "repsylf@ukr.net"
+        },
+        "name": "Olga Yadolova"
+      },
+      "comment": "Жахлива убогість так званого ремонту вражає!",
+      "parentForm": "ef412d9f21c10e7ffa4e140167d06cae",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "a3e78f56091d0b11190dfabb9ee1c94e",
+  "sign": "YqEudREkOcHO0+rR1vqz6qrfLsc8BdNKlv2A4QaEz2Q3WPwHo22PYHyygfCOvUsftJsklTC5/uVukM/OmAJNAg"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-27T02:54:43+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Александр Ермилов"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Одна учасниця ніби-то відмовилась підписувати договір, інший учасник ніби-то не надав усі документи. У результаті виграв учасник аукціону з запропонованою ціною, близькою до очікуваної."
+      },
+      "tender": "26792d8a210548f2a3d14ae8f61eac08"
+    },
+    "schema": "tender111"
+  },
+  "id": "787026eed78ac81b7eb6307323ced054",
+  "sign": "UFlg8t3OUSmzqB4ptXBr8XAWh6Qm2Hy4F3flzc4PK4ByI85qXqJAzIosVWvkpM6E3dPGtwxd4fdU6tCDMLa8CQ"
+}

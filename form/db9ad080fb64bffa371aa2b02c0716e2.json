@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-20T13:35:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7fd052f553359d01b06658b2257fe825",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tovimed@gmail.com"
+        },
+        "name": "Заведенко Наталия"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Це просто сміх,якщо прочитати відхилення,адже велика сума відкату ,порівняйте їм пропонують купити  за 74 368грн,а вони всіх кинули і взяли за 131 319грн.Оце так з економили державні кошти.Тепер сюди точно можна йти та народжувати дітей ,бачите як піклуються.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Було дискваліфіковано 2 учасника з  ціною- 74 368 ,оогрн, та 115 881,00грн а вибрано саме того постачальника під якого і прописані засоби з ціною 131 319,00 грн. про яке  ПРОЗОРРО може йти мова.Не бояться нічого."
+      },
+      "tender": "90cdd84dce0b4fd5a7894fe0bbcc7922"
+    },
+    "schema": "tender111"
+  },
+  "id": "3867d7623ff081f3beeae261d22d7c3a",
+  "sign": "4marKVbMRXxVCiZ/e66x6TPaOqTI2lqwkm8Bqe4CXxjGifFPmRePtZJ1F5tC30oi2Qb2mb1XBZ6m9Aa6AgNIDw"
+}

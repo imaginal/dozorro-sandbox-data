@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-05T13:23:23+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "90db34a8da1ef4fe94fa870229342e78",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "accumulator.opt@gmail.com"
+        },
+        "name": "Дмитрий Мелехов"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "3fccb5f7c3b942e78a6c4f3b84ea3793"
+    },
+    "schema": "tender102"
+  },
+  "id": "156a6eb99661f9e3bd1cc5cd432a1032",
+  "sign": "szXucnghSt5L+pA2uBkD50bPqonNQbsFWbkbajuTmDCpz27N0EwXPCwcOcsvL3tNJMwphvXCFOlgWaTebHudDA"
+}

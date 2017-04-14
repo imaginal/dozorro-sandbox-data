@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-23T20:46:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3c8ef7bd4bae60f4361500122cb63f69",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ukrzbud@gmail.com"
+        },
+        "name": "ТОВ ЗАВОД УКРЗАЛІЗНИЧБУД"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "УВАГА!\r\nУ той час , коли DoZorro навіть не звернула уваги, як скасовуються та фальсифікуються закупівлі на сотні мільйонів гривень по цьому аукціоні - \r\nзусиллями НАШОЇ КОМАНДИ тендерний комітет Філії ЦЗВ ПАТ Укрзалізниця визнав, що інший тендерний комітет Філії ЦУП Укрзалізниця у злочинному зговорі з Колегією Антимонопольного комітета України сфальсифікували цей аукціон.\r\nТендерний комітет Філії ЦЗВ ПАТ Укрзалізниця вніс зміни тендерну документацію в якої вимагалось роз’яснити, яким чином можна ставити печатку нотаріуса на оригінал документа для підтвердження того, що оригінал є оригіналом:\r\nhttps://smarttender.biz/government/details/UA-2017-02-23-000305-a\r\nhttps://smarttender.biz/government/details/UA-2017-02-21-000668-b\r\nhttps://smarttender.biz/government/details/UA-2017-02-21-000667-b\r\n\r\nтаким чином тендерний комітет Філії ЦЗВ ПАТ Укрзалізниця довів, що цей аукціон було скасовано на сфальсифікованих підставах тендерним комітетом Філії ЦУП Укрзалізниця у злочинному зговорі з Колегією Антимонопольного комітета України.",
+        "cheapestWasDisqualified": "no"
+      },
+      "tender": "021f79cff06b430e990dce21b329c28c"
+    },
+    "schema": "tender111"
+  },
+  "id": "a70853987b4299854e00b1cbc2265016",
+  "sign": "89i/2SeNhKhnERefRfm9AVzIH070T0Qp4yxx9Fp8ePOGOrZZng5cov/rrYi7YTny3CozoRZ1RIwmQw7oh+q4DA"
+}

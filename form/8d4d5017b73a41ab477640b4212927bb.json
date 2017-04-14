@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-16T09:56:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "81d9da03ed087865dbdae52110c9874c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@ozone-music.com.ua"
+        },
+        "name": "Maksym Tereshchenko"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Данное предложение невозможно выполнить ни одной организации в Запорожье, так как такого количества оборудования нет. Возможно есть альтернативы, но они не были указаны. Соответственно участие в тендере для других участников было заранее конфликтным."
+      },
+      "tender": "9a231532754d490080fd5f7fb4738b1e"
+    },
+    "schema": "tender103"
+  },
+  "id": "248045a2cadb9ddbe2d1eac76455ba77",
+  "sign": "Z41I8YzBXZwBUI6jE9yPgvTfQviKMNT/eBkxuxcNzDd8AI4tKUx74GEqMwt/s8KPCz4fn190zr/txU5gaSbQAQ"
+}

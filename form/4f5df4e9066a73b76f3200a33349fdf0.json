@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:50:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d60cf1771794ec7475f613f4e4d5a79f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "umtsani@rambler.ru"
+        },
+        "name": "Людмила Журбинская"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes",
+        "impartialProductRequirementsComment": "Мне нужно, чтобы протеже и заказчик понимал мою эксклюзивную ситуацию и метод предлагаемый мной для утилизации свалок"
+      },
+      "tender": "a8ed5c3225c6424b8cf3e204cc74af00"
+    },
+    "schema": "tender103"
+  },
+  "id": "7f786d578af0d3183554344949edba5f",
+  "sign": "4KkzZq+G36MAqGIyblYCgAf8BgYcUWSUT5S2ZqsK+TBvWK1wSt3TKeSD1eXo8+qGvnEHCDuM2XuPZuAoK/VrAA"
+}

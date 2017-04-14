@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2016-11-22T15:19:18+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "99a76605ed3e727a51a4b58e45de7dd7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vlad.smyrnov.dnepr@gmail.com"
+        },
+        "name": "Vlad Smyrnov"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "Повністю",
+        "maxCompetition": "yes",
+        "productQuality": "no",
+        "productQualityComment": "ЖОЖЕН з учасників не виклав сертифікаційних документів, а ФОП \"ОЛІЙНИК СЕРГІЙ ВАСИЛЬОВИЧ\" намагався сфальсифікувати результати, подавши пропозицію Тайландських м'ячів, а сертифікат якості для японських мячів",
+        "qualitativeCriteria": "yes",
+        "qualitativeCriteriaComment": "Замовник власноруч оцінював предмет закупівлі."
+      },
+      "tender": "c8d7b18dbcc7431baf5cfb2e43f61c03"
+    },
+    "schema": "tender102"
+  },
+  "id": "c7aa89e9b3e4a2b02d7b855faedf53b4",
+  "sign": "ePvbwJ85wIzYqwBaF/NCSKX3/V82XA/yCoW+HTuJS3o5akdDaTGxaC9/JUGqs7PF6fSlrPW1ctMVlcpvZQYuAg"
+}

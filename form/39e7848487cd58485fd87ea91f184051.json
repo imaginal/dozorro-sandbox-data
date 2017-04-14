@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-31T21:22:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7c4f9a690ab7254131861f11c0b54dfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tigorr007@gmail.com"
+        },
+        "name": "Igor Tigor"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник упереджено ставиться до деяких Учасників. В одних акцентує увагу на тому, що не всі сторінки паспорту завантажені, а в інших (ФОП Чернін І.О.) не виявляє цієї помилки. І потім сам Замовник завантажує паспорт учасника. Чому ж тоді Замовник не звернувся до першого учасника, пропозиція якого була економічно вигідною стосовно владнання зауважень. Земляки і кумовство..."
+      },
+      "tender": "bab6bb2f071945429b609e82a6b0d591"
+    },
+    "schema": "tender111"
+  },
+  "id": "38bac0acfde3a8e7b8e3317e33460be7",
+  "sign": "Tt28oQufhdoNfDj6nB2Rzjsvs3hSA/W+C9g9y0eUGWEm86+kNSmaWMDf0j72obCiQcx8qaf2fN2zLdK2ayJoDQ"
+}

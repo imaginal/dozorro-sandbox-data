@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-15T09:40:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "17b78f88e11900e59c042596114426f7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "532274889s@gmail.com"
+        },
+        "name": "Sergey Sidruk"
+      },
+      "formData": {
+        "generalComment": "Компанія змінила технічне завдання вже після того, як закінчився термін для звернень за роз’ясненнями. Це унеможливлює підготувати пропозицію відповідно до нового завдання, хіба що Вам було відомо про зміни які будуть внесені в умови тендеру...і пропозиція у Вас вже готова. ",
+        "generalScore": "2"
+      },
+      "tender": "b4a8c64c1cc44cedbb5e7fd90e267c66"
+    },
+    "schema": "tender101"
+  },
+  "id": "6c6e26a89c2985e9db110a0f8e385118",
+  "sign": "hGAyHzkP9v2R2AMO6+1rtvXngowz9EvwufJE8RvXrcOSqw96esa/n9rY3BJUn/R4LyNNRYlzMCvvuM0gxKejAg"
+}

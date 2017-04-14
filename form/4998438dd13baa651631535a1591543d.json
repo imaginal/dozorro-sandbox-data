@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-16T06:31:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Ціна за флакон - 131,12 грн, обгрунтована, кщо флакон об'ємом 1 літр (в договорі не вказано).\r\nАле чи є обгунтованю заківля 625 літрів антисептичної рідини для районної пікарні?",
+        "generalScore": "1"
+      },
+      "tender": "629ee41c5dd14c359c63e981ac16fdf3"
+    },
+    "schema": "tender101"
+  },
+  "id": "d691b35651640a909c5a05705df43a38",
+  "sign": "VnYwKFYOKety3G3w9IFQ5tIppIpXYLS9bdNc3HaQr729c5TCzZXQ3XSIswkiX1yXjKf7Mnk1Cr5OWeZG4kvvBg"
+}

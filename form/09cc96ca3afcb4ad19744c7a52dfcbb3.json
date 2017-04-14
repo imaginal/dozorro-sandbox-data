@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T09:48:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ef1585b71179766a99b687f4e7b141c9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "xosta00@isis.vse.cz"
+        },
+        "name": "Alena Ostrenskaya"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "5780b84ac7413f041e803dfe5e9becdb",
+  "sign": "I8R+tq450CIebenF22EWslXubfiyqCQTXSKIrCAZyVKZCQLmpWv3dvkGqe6iCOTqK+H/thY+7PtImk57OikaAA"
+}

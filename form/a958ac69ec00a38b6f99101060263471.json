@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-02-09T15:38:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "764ff4b26bbafb5fa9fcd046b6ff0574",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pravdalolya8@gmail.com"
+        },
+        "name": "Lolya Pravda"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Пропозицію подано  ТОВ \"Промгарант плюс\" , а за результатами закупівлі завантажений договір з  ТОВ \"Авіас\" .\r\nзакупівля оголошена 7.12.2016року, а контракт завантажений 9.02.2017 року , а датований 31.10.2016 за 2 місяці до оголошення закупіівлі!!!!!!!!!!!!!!!!",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Фальсифікація документів закупівлі за змовою Учасника і Замовника"
+      },
+      "tender": "f384d8902b254333b39088725e098de1"
+    },
+    "schema": "tender112"
+  },
+  "id": "da526d3de4fe785db00101d7e9bf1f09",
+  "sign": "iZ9GgUW3AM3Jl3zcVfdFZ1CKdeHcIC891eM+h/LqmNq7ZfrNERFvx5sePzclHd4usyCh8U1Io5KcEsD3iYtoBA"
+}

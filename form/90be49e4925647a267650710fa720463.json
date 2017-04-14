@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-02T15:25:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b68bfd9adc38b466b733d79f298d1cfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yanarada2017@gmail.com"
+        },
+        "name": "Яна Полищук"
+      },
+      "formData": {
+        "correctExpectedCost": "no"
+      },
+      "tender": "6d2286bafc67409d8d985959918cc2a8"
+    },
+    "schema": "tender106"
+  },
+  "id": "b316e0d8d9aef7522f468378bf858749",
+  "sign": "N/SBs1aN/iGzfgQxvIIy8MD+uLFDFrrb15tpx5GybeM8dVLJCrJ+pEY2g5HPrNHDxUXXysWPed2opM8jMY+sCA"
+}

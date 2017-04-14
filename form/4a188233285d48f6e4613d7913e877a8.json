@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-15T19:15:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Причина дискваліфікації придумана та прямо суперечить дійсності: - написано що \"відсутні паспортні дані та податковий номер\" ,в той же час файл у складі пропозиції так і називався : \"Паспортні дані та ІПН\" .... Тож дискваліфікації - просто нагла видумка . ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Було дискваліфіковано обидві пропозиції що нижчі за ціною. Остання - з придуманих причин. І головне причини дискваліфікації шукали аж 2 тижні ,а от договір з одним із учасників вирішили укласти миттєво - в день дискваліфікації."
+      },
+      "tender": "4d31d851af2d42c48eaeb6dcaf5e78c5"
+    },
+    "schema": "tender111"
+  },
+  "id": "3eda855ecd40f7c9a2d5da311fa922bc",
+  "sign": "L7Fs63Vhs+/whHBKUwMGCjGZzr41HiSli8lpbOUHv+3asT3C91snrn1wNkHPzki4F1dNq5HS8Z9FKbUa10tTAA"
+}

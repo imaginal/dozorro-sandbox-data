@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-23T14:01:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c698fa5e60af65a1744345cfe521d18a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alexandr.nimchenko36@gmail.com"
+        },
+        "name": "Александр Нимченко"
+      },
+      "formData": {
+        "generalComment": "Добрый день! Просим указать модель и наименование устройства датчика пыли? Так в телефоном режиме информацию не дают. Ссылаются на то, что информация запрещена.  Это ведет к тому, что тендер прописан под одного участника и сам клиент заинтересован в этом. Так как вы не даете полную информацию то это говорит о не равноправном участие в тендере. Просим изменить свое мнение и дать полную информацию по двум датчикам так как осталось уже 4 дня. Так же ссылаются на то, чтобы закупали в РФ.",
+        "generalScore": "1"
+      },
+      "tender": "1c7a47f624d543058186e01e08e35ed1"
+    },
+    "schema": "tender101"
+  },
+  "id": "b90d88fa3fd361bdbb61056e78caa122",
+  "sign": "U2rsVs7Rvtrq8BE4YwpQAlMyfzstPifkbzcNoShwcMKftxm8ndGL1T40JzWabMnzkblwu8mMQmdovnKNWsrtBQ"
+}

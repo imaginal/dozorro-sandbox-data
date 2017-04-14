@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-07T12:00:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "355d351008db3bf24bf16b831c0ffa78",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dimus82@yandex.ru"
+        },
+        "name": "Дмитрий Волосовский"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Вимоги упереджені"
+      },
+      "tender": "d58e92bb78ce46c5878024c0a178f542"
+    },
+    "schema": "tender103"
+  },
+  "id": "26e413ba0423cd4a1a634e42adbda53f",
+  "sign": "C4d2VAnwGach8TCsTf/JFnoIqHYk6SGukbJqPeEU833pPqniQ8lwmoZ5YvJoZeeIlq1E9mvP3czZSkBfchXECw"
+}

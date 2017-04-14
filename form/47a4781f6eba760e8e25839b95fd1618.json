@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-27T11:27:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "554c3a231183c8a367c654216ef19336",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yozh.studio.lv@gmail.com"
+        },
+        "name": "Yozh Studio"
+      },
+      "formData": {
+        "lotsExpediency": "no",
+        "lotsExpediencyComment": "Слоты сделаны так чтобы поставщик дорого компьютерного оборудования должен искать химические реактивы и/или компасс и так далее"
+      },
+      "tender": "55b5fad479ea43c5bef6f22e750751cd"
+    },
+    "schema": "tender107"
+  },
+  "id": "c6256c6dc6cdfe4abcd86a973ec509b4",
+  "sign": "lAhBGywiEhdPTaNiGj3+Sz9ySdodvjGna2pye9iHr958TnqnjqKHj8RpgOyd5be578l2ImXkpTihhcuypMTaAw"
+}

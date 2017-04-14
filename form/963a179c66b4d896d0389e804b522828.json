@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:33:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "11a766a6918404811438c8b0cd8bd201",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "transcargo@i.ua"
+        },
+        "name": "Сергей Мир"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "2",
+        "purchaserDutiesExecutionComment": "виглядає недоробленим.  бажано доробити"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "884634765a17f59b26759c61e5ecd82e",
+  "sign": "pMJgCgh2j4IAVeHjhwdrcPUEC8laBlaYkJkXz+xT3sx0WSbYlmDqqAscE6tpwzVM7sUln2R/4Umqj1HWTjWnDA"
+}

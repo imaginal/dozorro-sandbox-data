@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-22T19:36:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "58d81917d2fe94574c089e4ba56601c0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kaminskii.art@gmail.com"
+        },
+        "name": "Artem Kaminskii"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "учасники платники ПДВ у явному виграші"
+      },
+      "tender": "0103578b8e7943f1adb138c11de2f674"
+    },
+    "schema": "tender103"
+  },
+  "id": "91ed17515b2d25ee300155c315b9b80b",
+  "sign": "cQJVBmyP8w9TWX0PAM7/O1IWiQ4G8L23YcuemFLWsybCf7v+Y8LnLpu8fZ7ExP6PHmcLEQGL4N3b+aRnKmoOCQ"
+}

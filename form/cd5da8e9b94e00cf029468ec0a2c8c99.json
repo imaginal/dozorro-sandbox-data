@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-02T05:50:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Постачання Збройних сил України - найіигідніший бізнес?\r\nРП-5  8300 грн за 1 шт? (!!!!)\r\nЧи може сподівались, что моніторять закупівлі ботани, які не служили?\r\nРП-5 - це фільтр для протигаза, коштує максимум 200 грн.\r\nСпідіваюсь, що визначена очікувана вартість - це технічна помилка і товар не буде закуплено за такою ціною.",
+        "generalScore": "1"
+      },
+      "tender": "22beecb0adb2412a90df419ceb0930d5"
+    },
+    "schema": "tender101"
+  },
+  "id": "d7f8c3b18d6030151260217612f62acb",
+  "sign": "xY31Jb/1K0gXti3f2Ft/GYfACKCXqpw6O82V5f/olrGywfNLZ3gCjIL4lUl7fa3bBlGytdfWRINPF8cXZCHHAg"
+}

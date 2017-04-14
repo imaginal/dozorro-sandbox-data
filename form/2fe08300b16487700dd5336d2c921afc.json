@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-07T21:02:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0a2f97e74133ee884f2c6cfdbac5423f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tco666@gmail.com"
+        },
+        "name": "Aleksey Dobriakov"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "как уже писалось выше, безальтернативность предмета закупки говорит о том что список составлялся под конкретного поставщика."
+      },
+      "tender": "ddbcca0812e74a30842fb043f669d24d"
+    },
+    "schema": "tender103"
+  },
+  "id": "e660065ff08cb48e5cee9d6c43f822dc",
+  "sign": "pbXThEmbtyLNHPMYSuMB5DgxR+UhW0Rap3KGutvPBkmZLWaasiqXvKhMQNnr+fiiw1+/cqD3F1Z/3ZwLfl7+CA"
+}

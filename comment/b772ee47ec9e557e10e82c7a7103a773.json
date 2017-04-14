@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:15:34+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "663e77e3885e038d577b91ad90d4f71d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "office@md-group.biz"
+        },
+        "name": "Елена Верховцева"
+      },
+      "comment": "Заказчиком без основательно было допущено к торгам ООО \"Интерпайп Украина \" и ООО \"Бизнес Глобал\" в связи с тем, что документы предоставленные в тендерном предложении указанных участников не доступны на web-портале, что является нарушением текущего законодательства. Просим отменить торги т.к. нет возможности проверить правильность подачи документов допущенных участников.",
+      "parentForm": "8c9d744e1388cf273cb5484caebfa0c0",
+      "tender": "96112a7303e74fb6bba36805a85824a6"
+    },
+    "schema": "comment"
+  },
+  "id": "425744357bee4a90c296157abf701b6d",
+  "sign": "Y4o/grmANGKWL8sZu70AUhXxDihxGWa/CLe36/7QHRfX3JGvun9jxnX9t57UQlxwv2sDpplug/USKpVSGwfiBw"
+}

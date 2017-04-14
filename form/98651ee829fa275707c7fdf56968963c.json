@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-09T14:59:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "76c3abc92d4768422fdaedbd462df27a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vikus2008@gmail.com"
+        },
+        "name": "Victoria Silchenko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "4",
+        "purchaserDutiesExecutionComment": "Обращаем Ваше внимание на то, что наша компания ООО \"БДО\" являлась аудитором КП «Днепропетровский метрополитен» за 2015 год. Мы выполнили наши работы согласно требованиям договора и подписали Акт выполненных работ. Однако, до настоящего времени не получили наш гонорар.",
+        "purchaserInteractionProblems": [
+          "latePayment"
+        ]
+      },
+      "tender": "9d4b101481bd4f53b899722781b93604"
+    },
+    "schema": "tender112"
+  },
+  "id": "f2feafd4e882339f213acfe905e9c6a8",
+  "sign": "3JSJrTBsvOE4FwEzsVzP404bzbbWAsQLOs3O/bowAM5daAPQw1JVMz3OdBG+RtfugtMugpSBj4HGAwRfLdJqDA"
+}

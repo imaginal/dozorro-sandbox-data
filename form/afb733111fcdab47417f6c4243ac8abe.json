@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-13T19:05:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник використовував подвійні стандарти для оцінки пропозиції , зокрема при оцінці пропозиції \"Дезцентр\" - одна з причин дискваліфікації ,це відсутність накладання ЕЦП на банківську гарантію учасника. ПРоте у випадку Учасника визначеного переможцем - це не було причиною для дискваліфікації., хоча ЕЦП теж не накладений. Що цікаво Учасник визначений переможцем, Вестор-ЗП ,  вже здійснював поставки у один із відділів Замовника , що підтвердив копією завантаженого договору."
+      },
+      "tender": "c237e9bfa2c14b72ab5e6c73c5a6ac26"
+    },
+    "schema": "tender111"
+  },
+  "id": "82aaf3e592c84aa228279209bf3bd20d",
+  "sign": "msBmt6rJmbzWyY5bkUU00JjWD8ToxfcbMiSnctYHbZPHzDOURsXJhhv5kK7g/gutkqBFABnzjVpX/gO8HH42Ag"
+}

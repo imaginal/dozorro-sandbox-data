@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-14T23:54:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "generalComment": "5 звезд, Ну молодец же заказчик!!! \r\nЯ бы в таком маленьком городе побоялась такое провернуть. А ведь с 01..08.2016 прошло довольно таки не много времени, Помню как все бюджетники горевали и предвидели нищенское существование своим внукам.....\r\nНо прошло всего пол года, они встрепенулись, подняли головы и нагло плюют на всех)\r\nВообщем пока допороги не переведут (подведут) под ЗУ \"Про держ закупівлі\" они и дальше воровать будут\r\n",
+        "generalScore": "5"
+      },
+      "tender": "410a04b85d7a473d8f08c00575add6d4"
+    },
+    "schema": "tender101"
+  },
+  "id": "6e1bb97344c0311f6d74075df4bcc43c",
+  "sign": "hJrqcoiGVBO2u0q97n0NyoSAjaYZmGZbVZ/ej29mJcx8WY5xXutZHO7bWzaA5nWj7glEHPN6R9XwSYFYGJJqBg"
+}

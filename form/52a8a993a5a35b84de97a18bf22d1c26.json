@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T00:25:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a02402162d01afffc0be3112effb0d5b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "for.alexloginov@gmail.com"
+        },
+        "name": "Alexandr Loginov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "И так сойдёт (с)"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "83b2dd428f6df56bb98474698ef0c078",
+  "sign": "wCXjUZrlCUj7+ZRZSgwByrMgDIPXOI7wBn8p8/Okt7GOnuoFFDvmaocXI2LZk3ltmVCsrC8CRqGLHe6ufcPvBA"
+}

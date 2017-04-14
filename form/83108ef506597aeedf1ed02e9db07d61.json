@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-16T16:05:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "58d81917d2fe94574c089e4ba56601c0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kaminskii.art@gmail.com"
+        },
+        "name": "Artem Kaminskii"
+      },
+      "formData": {
+        "generalComment": "Зазвичай зустічаючи небажання Замовників працювати чесно, констатую:\r\nзамвник дійсно, без \"цікавих\" незрозумілих запитань здійснив оплату за поставлений товар.\r\nОсобисто для мене цього достатньо щоб стверджувати що вказана закупівля дійсно пройшла прозоро.",
+        "generalScore": "5"
+      },
+      "tender": "1bcd60389a4c4b5495ffd79866d9aac7"
+    },
+    "schema": "tender101"
+  },
+  "id": "71bd8db2d89ba529bd5ae41034c12679",
+  "sign": "vpsOK3Pbpe5+BzZl1xKT0QN/RGyudnNE8zhwjF7ZGIr+W/99sYMD31P8qY5qhbhRv4xuTnEUE64RFIXKtvQ4Ag"
+}

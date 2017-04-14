@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-16T09:28:41+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "101d0f64b7d566b79e401fec16e75baf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "viktor_ishchuk@ukr.net"
+        },
+        "name": "Віктор Іщук"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Тендер проведений 09 грудня 2016 р.\r\nПереможцем визнаний ТОВ \"Будмонтажресурс\", рішення оголошено 13 грудня.\r\nАле виявилося, що у документах переможця міститься цілий ряд документів, датованих 13-м грудня (тобто після закінчення торгів), що свідчить про серйозне порушення організаторів тендеру і, напевно, про корупцію в самій системі Прозорро.\r\nДля безпеки скрин-шоти з екрана монітора збережені на випадок, якщо дату спробують змінити."
+      },
+      "tender": "eaf21f8d54ab45699825b226546fab2a"
+    },
+    "schema": "tender111"
+  },
+  "id": "c2ced94c97942f8681aa259f3f7f3c55",
+  "sign": "dJPT5qZKuCrgoGzsiKxmaIEbZkyzTaaDO+t9WcMec6fd3er648VE21O8AHXK/CjHSbrXES57DpLPNPchfC79Dg"
+}

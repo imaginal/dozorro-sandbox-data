@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-02T15:24:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b68bfd9adc38b466b733d79f298d1cfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yanarada2017@gmail.com"
+        },
+        "name": "Яна Полищук"
+      },
+      "formData": {
+        "generalComment": "Объявление о закупке выложено 24,02, тех.документы прикреплены 27,02, обсуждение игнорируют, телефон неактивен, цена лота слишком занижена, самая дешевая бухта шланга стоит 741грн, а заплатить заказчик готов 450грн. Подозреваю, что данная ситуация делается специально, чтобы аукцион не состоялся, и впоследствии сделать закупку вне Прозорро. Будем мониторить заказчика дальше!",
+        "generalScore": "1"
+      },
+      "tender": "6d2286bafc67409d8d985959918cc2a8"
+    },
+    "schema": "tender101"
+  },
+  "id": "b080bea65f35d7bdb62aaaa0fe3c98c3",
+  "sign": "g4tmEazT5jEcWeW5s/rfRGGTdf1LAlXjiH9EyyZq2GfD+2FY553FFbi0J+vO3voPMgNTVf98f+gfwNq7GcQWBg"
+}

@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-29T16:14:18+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e4994c804b5136574a8b18a49ded38a5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "orell.olga@gmail.com"
+        },
+        "name": "Ольга Владимировна Орел"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументація була необґрунтованою та базувалась на припущеннях замовника. ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовником дискваліфіковано учасника із найнижчою ціновою пропозицією на підставі дискримінаційної вимоги за територіальною ознакою (місцезнаходження учасника було за межами регіону місцезнаходження замовника)."
+      },
+      "tender": "e92b2eadf4c040efbdb5e224958e8d73"
+    },
+    "schema": "tender111"
+  },
+  "id": "0dec79dc391b3546172c44e7dd7a30f4",
+  "sign": "8gyCkC2nt76ie9pdbhn7YrbEbuiGGcOSZlkkDoVUa3tTDmQfq4/PVLv8d+Dllg+Gtnj1mWInYNrsZvE0jrPoBw"
+}

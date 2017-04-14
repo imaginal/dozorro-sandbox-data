@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-11T11:24:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "733dddab1cb26be50c5fd059009ccf5f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pto@lift1.com.ua"
+        },
+        "name": "производственно технический отдел"
+      },
+      "formData": {
+        "generalComment": "Це друга закупівля під зміненні вимоги для одного постачальника. Перша закупівля Ідентифікатор закупівлі: UA-2016-09-13-000156-b яка могла б дати економію у 70 000 грн була скасована, з причини зміни технічного завдання. По факту змінили лише вимоги до постачальника.",
+        "generalScore": "1"
+      },
+      "tender": "aaa58bc8f48b402fb6cf4db0db46c21a"
+    },
+    "schema": "tender101"
+  },
+  "id": "0e7c45830c624f5a3ada9344db7c669d",
+  "sign": "KMcwCc32YRY+jpSy8/AVTxJ0v2x0pbypNFu9ZcpTux43JP8oAAqCV9OSyIVegf50KTPCQJyDNjamJsGM4s8fAQ"
+}

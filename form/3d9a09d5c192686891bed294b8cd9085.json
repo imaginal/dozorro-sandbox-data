@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-01T16:01:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5ba30855f8a6930b88999c688d4c6653",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vladimirgaydamak@gmail.com"
+        },
+        "name": "Vladimir Gaydamak"
+      },
+      "formData": {
+        "generalComment": "Как закупка может проводиться за один день? Объявление о закупке и в этот же день аукцион!!! Куда исчез период уточнений и т.п. как в остальных нормальных закупках? ЭТО РАЗ. Второе: где это видано чтобы 5 шт. жалюзи стоили 20000 грн???",
+        "generalScore": "1"
+      },
+      "tender": "36da2f4da43249f7bf3f5519ef2db656"
+    },
+    "schema": "tender101"
+  },
+  "id": "352bcbaed6b92067a91fb615fd07b996",
+  "sign": "vMWHc+dbQNtHznuJtDW/tpNeKYSr0gF4KlS+zHKp3CC5WbMdwVivlsKKHEmJRNGdKkLTKz8SZSaT8Tx2XthoAA"
+}

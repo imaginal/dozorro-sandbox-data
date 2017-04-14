@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-05T17:45:37+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "До Замовника скеровано лист з вимогою привести істотні умови договору про закупівлю до вимог статті 49 Бюджетного кодексу України",
+      "parentForm": "64c81613e6020157d590ff559ecc11e5",
+      "tender": "027e87ad41a044e88c48f8e043339e48"
+    },
+    "schema": "comment"
+  },
+  "id": "e1097c29bccfa12956e0b29d6a3f9dcb",
+  "sign": "C6VF0M1CO/vogCMHaUmJitubE0CtIP+Z2yn00UFJXG+WIYaiE1ZVuJNRfYuuLu4qVsovYwqvwHrIPCao1+pLAQ"
+}

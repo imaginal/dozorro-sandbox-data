@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T15:06:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "624ff7fe92d6421c87281cda92479cbf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "amatevita@ukr.net"
+        },
+        "name": "Татьяна Гуменюк"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Замовник, в результаті легковажного підходу, може отримати Товар гіршої якості за більші гроші. Не визначено чіткі технічні вимоги (не деталізовано)"
+      },
+      "tender": "abd3bfc033a34e6cb756b2964b84a7b7"
+    },
+    "schema": "tender106"
+  },
+  "id": "9e217015c08c47a2d1869d9a2dd40e87",
+  "sign": "K7TaVOlqq+jaepvXfqeJQ9BwK4+ot06yyhyDpT43Es4SJl8BnQkvROuydlOQr98dIFenMzX0/lWCmZghuTHzDQ"
+}

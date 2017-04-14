@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-07T18:18:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4fae6fad301e7094648893fded294c7d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "diokiev@mail.ru"
+        },
+        "name": "Dmytro Ostapchuk"
+      },
+      "formData": {
+        "generalComment": "Підприємство-переможець перебуває у стані припинення діяльності, кінцевий строк заявлення кредиторами вимог 23.11.2016 року, після цієї дати вимоги не приймаються. Кінцевий строк договору-пізніше цієї дати, в договорі немає календарного плану та гаратнтійних зобов'язань. Підприємство є, також, податковим боржником та проти нього відкрито 9 виконавчих проваджень. Результати тендеру необхідно негайно скасувати.",
+        "generalScore": "1"
+      },
+      "tender": "bf7a7d9a59a842ab9dbfcb0ffb378944"
+    },
+    "schema": "tender101"
+  },
+  "id": "74d68fc4f0f76cb9cbdc3731693b3672",
+  "sign": "ezqXm51WfcbP45H7xDE9X1mMjGROuk8q2ca+wtP+CvCxfJUL9f1ZqzwTIh/w2DsCeDYTmhGU4L41tFglXTpzBg"
+}

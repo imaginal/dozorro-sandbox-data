@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T11:25:29+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "82c0fbcd2526783d8b47126071f545b8",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ruban_s@mail.ru"
+        },
+        "name": "Святослав Рубан"
+      },
+      "comment": "Надеюсь {кого-то посадят}, что компания устранит все недоработки за свой счёт, в течение месяца и в ночное время.\r\n\r\n",
+      "parentForm": "9c20fbde8eb49ed3a5f9c8fe6d1d02bd",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "d6821d41c9aeaf59beb19b1c1e605d2e",
+  "sign": "gRiuNVs9nl1ob4cGGQ0k8cTbM2trmc9OfHBEoIEWpYduwCG9SeGW0Nh187xnR4gPM9Q0+D9S81kkDdVHBCj3DQ"
+}

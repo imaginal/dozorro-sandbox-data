@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:07:45+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8f60fa9e774d0c84fee296ba746b1bc1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "egjhysq60@gmail.com"
+        },
+        "name": "Владимир Резистэнт"
+      },
+      "comment": "Качество работ ужасает. Необходимо проверить все акты скрытых работ. Акты приёма выполненных работ Кто подписывал, за его счёт исправить все эти недостатки.",
+      "parentForm": "f92ad50e88a8ffc3d70a0a4b83dbe738",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "80c194d266ad03889cd113dcbe37ca9e",
+  "sign": "zUpb0IK/c9kmLC+5lHVkZ5KYJmDRAOZ5sUqlyS8JO/QgriOnOi/4gdoOeDfkzo3707SHwclrGeudReAxnMpUBQ"
+}

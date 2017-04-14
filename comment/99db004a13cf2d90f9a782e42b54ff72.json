@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-23T17:54:06+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1eb86a9d05fff9183a6e093d8bc9eda5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dzigalenkogolova@gmail.com"
+        },
+        "name": "Андрій Дзигаленко"
+      },
+      "comment": "Берем плату від старого радянського фонарикаПожежна коштує на алі експрес 63 грн +крона\r\n\r\nПроволка",
+      "parentForm": "9bf9bacbf5b1a7c7dc4c6486e2de1a96",
+      "tender": "93bbe165719e44b099c50096bf01f0c9"
+    },
+    "schema": "comment"
+  },
+  "id": "3c5b7f75a9a8dd688cedf56f34116f39",
+  "sign": "wFqq6HGkSASLIi7z3rza7iSGJHhKKtWhKxBUu85VLXgimiJYFkz8sJvItWDPjqxB0HJXW+luEOsNdJcfXJblDQ"
+}

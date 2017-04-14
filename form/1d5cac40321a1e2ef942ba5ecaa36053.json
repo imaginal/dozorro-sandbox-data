@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-01T09:55:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "529cefc032ad91f567e9575a442fa526",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "petrovasveta704@gmail.com"
+        },
+        "name": "Света Петрова"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Відміна закупівлі була неправомірною. Замовник невірно трактує вимоги ЗУ \"Про публічні закупівлі\""
+      },
+      "tender": "7fac1e52a04c4722a973fa3226dbf269"
+    },
+    "schema": "tender109"
+  },
+  "id": "6e94da81581cb277ac155cb75f954ecc",
+  "sign": "EEKuLY2PRHqnROp0kdM062uihu9S6Qk/7zG89kEy/mMhpBnc5icFOiFEdEztH989qaDmnt21FsbKCYVfEzo4Aw"
+}

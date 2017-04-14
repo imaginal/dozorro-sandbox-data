@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-06T21:49:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f49b7f0c9fdc5c24ccb8e0205b73d087",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sunenergy.ck@gmail.com"
+        },
+        "name": "Sun Energy"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Причиною відхилення пропозиції Замовник вказав відсутність завантаженої сканкопії паспорту. На нашу скаргу, про неможливість нашої дискваліфікації з цієї причини, обгрунтованої (з посиланням на законодавство) не було надано. ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовником була відхилена наша пропозиція, яка була найбільш вигідна з трьох пропозицій, які було подано Учасниками навіть на ті, дискримінаційні умови, що заявлено Замовником (вказано конкретну модель сонячної панелі без можливих аналогів)."
+      },
+      "tender": "8085b3a9290b467d81de874491ecdac8"
+    },
+    "schema": "tender111"
+  },
+  "id": "1eeb125b1edca32607016bcb2ae98b64",
+  "sign": "UWEpLbZGKqfhEQNfGxAio5CMqYia9UHkbywBIyknbtI/Jat14pRbcLjBtyQZxX3Q8c7v/9rj6obQT/1Xz/PJBQ"
+}

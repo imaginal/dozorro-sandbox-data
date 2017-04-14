@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-22T11:02:43+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "49b93cb44956e8ac326368a7fedbeae0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "megawatt9818@gmail.com"
+        },
+        "name": "MegaWatt LTD"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "305c83d8783f4d42a961235dc0a2e308"
+    },
+    "schema": "tender111"
+  },
+  "id": "9e52559d2d491e4d742335a275ba0706",
+  "sign": "BDzk49Tll8yxpivJnt/nixlaeQ8MS3fxiSD1M/6A5oucjR1sgQnuwusP2IXFXfwmgf5539mHI19HT3FR8YVdAA"
+}

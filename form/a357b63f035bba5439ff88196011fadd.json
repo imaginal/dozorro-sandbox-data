@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-06T07:26:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "043882a45acbd90c67610606e1f61fed",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kuppairina@gmail.com"
+        },
+        "name": "Ирина Куппа"
+      },
+      "formData": {
+        "generalComment": "Вважаємо внесення до п. 4 Документації  \"Вимоги до кваліфікації учасників та спосіб їх підтвердження\" -  умов показника страхових резервів, який повинен перевищувати, не менше ніж у три рази загальну страхову суму,  вказану у Додатку № 1, тоб то не менше 336 396,00 грн. дискримінацією та обмеженням конкуренції серед учасників.",
+        "generalScore": "2"
+      },
+      "tender": "791b08a6c3484dd08bec6073cbc42d92"
+    },
+    "schema": "tender101"
+  },
+  "id": "a4187782222cdd4d75ba2a40b625c874",
+  "sign": "K0l8NTeTo8WaICWfGtsA69rU+QJ9pqjB1qL21LiZ46RCGp4KoRgzFRZ0muzxx7u7r3bNG2Zis6iShn91teWICQ"
+}

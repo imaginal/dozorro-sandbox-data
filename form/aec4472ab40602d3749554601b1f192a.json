@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-12T15:18:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5656158efde7d8886ab6c37045b17cc0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "oleh.gilchenko@gmail.com"
+        },
+        "name": "олег Гильченко"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "c4e16600dbc24d4ab38a5a79a92b877e"
+    },
+    "schema": "tender102"
+  },
+  "id": "15840ed53dd40e36dfd19e41bd091d76",
+  "sign": "k3YaKTZhwuf5DgRh52FqIIwfwj0yiZS2JaNUsXUamvbaAizs0T9Ji1McaNrcFup9GXRuE6ICuu2W3YLvM85jDQ"
+}

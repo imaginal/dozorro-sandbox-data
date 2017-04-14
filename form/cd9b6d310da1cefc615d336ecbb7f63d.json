@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T15:09:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7b54bfde8cd1f54f9c32c84b11691bd6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alexantropov.business@gmail.com"
+        },
+        "name": "Алексей Антропов"
+      },
+      "formData": {
+        "generalComment": "Жестко заточенная тех.спецификация (требования Energy Star и невыполнимые требования по портам материнской платы) под конкретного участника - Либру Лайн. Заточка происходит под непосредственным контролем ЦУИТ Горисполкома (тов. Орешкин) под прикрытием запорожсталевской группы депутатов.",
+        "generalScore": "1"
+      },
+      "tender": "4baf0a54a95c4684ae4e8fe333a60e57"
+    },
+    "schema": "tender101"
+  },
+  "id": "a9d52cb79237d17a0ab2085b80ffca57",
+  "sign": "rPUYkKhJ92WdBXNddWkLCTHyp4y744pXUrff1psj2L4YiiPvKune8N00kahiWPsGFkqko47DyHSPZ9mENV8uAQ"
+}

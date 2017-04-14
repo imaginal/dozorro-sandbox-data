@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-01-27T03:10:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Александр Ермилов"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Вимоги працюють на користь Літинського молокозаводу оскільки він може найдешевше продавати саме свою продукцію."
+      },
+      "tender": "f8a5bac1883f4dc283b948b48c74386f"
+    },
+    "schema": "tender103"
+  },
+  "id": "5e89c0d85b2990f407de63413806e90e",
+  "sign": "+t7y5gf4Ab5Yd37Ui/zXGMzSRIfTmPSSDfWc6Tn3koKa5re4E93lRgZZebT+TBXOqf1gVnMryapmQtI4q7i7CA"
+}

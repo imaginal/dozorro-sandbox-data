@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-24T11:13:48+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2dc71d171c6f468ac29ff049535438a0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "viktoriya.guraa@gmail.com"
+        },
+        "name": "Viktoriya Gura"
+      },
+      "formData": {
+        "generalComment": "Чому немає у формі  цінової пропозиції переможця договорної ціни за формою локального кошторису, для порівняння  з технічним описом  замовника?",
+        "generalScore": "3"
+      },
+      "tender": "a5fc23d84e2a4f7ea3b8cb8d6118e408"
+    },
+    "schema": "tender101"
+  },
+  "id": "c3e4fc11cfc403b05d253af05616cff0",
+  "sign": "TO6x7pwDi6kfTD79ayf5MndM8wI3iOsMUTky6Lq2isc87Eln5A2JAA7/dVzmuJfg9XcWLanX9gth60NZURsDDw"
+}

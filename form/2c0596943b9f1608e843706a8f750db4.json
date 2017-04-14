@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T00:33:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5934bbf31f74c858b448085ffa017c69",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vyertolyot@gmail.com"
+        },
+        "name": "Benny Hill"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "d01d5ff47ea3d03f4f4a73305bd61c3a",
+  "sign": "jIMcstSYraJ7ZElXk1vhpLxyHx7CYlB3U+QrqLWXH29YlrFZg6HjVfkJWZ5hlldTMis5VVylQuXNMzUeEDCTDA"
+}

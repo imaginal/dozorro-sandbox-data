@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-18T20:58:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5c18cc8ca86195c776b70af3314325e2",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "rafikrafikovic28@gmail.com"
+        },
+        "name": "Анатолий Сидорович"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes",
+        "impartialProductRequirementsComment": "визначені умови закупівлі, а саме невиправдано завищені вимоги по штрафним санкціям по договору в проектті договору на закупівлю розділ 6. п.6.2 несвоєчасне виконання зобов.язань підрядник сплачує замовнику штраф 10% від суми договору за кожень день прострочки зобовязань. Що направлено на те щоб відпугнути потенційних учасників від торгів. а та компанія яку запросили і не могла фізично встигнути виконати умови договору, що саме зафіксовано в сюжеті 112 каналу https://vk.com/video-1206792_456239268 "
+      },
+      "tender": "7a0b019ee76243299d1865aa3e643598"
+    },
+    "schema": "tender103"
+  },
+  "id": "fc725d856e99e13f086ca609480291aa",
+  "sign": "qTaa9E1jL5kGqKolD2SXaX4It6hQu+pu4Okq7OXJxLSzK5EhS7ND/H07YCJ/NI8cA1gddYKCQGrkWgQfWtJBCA"
+}

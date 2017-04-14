@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T00:39:01+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d821f84f5052af4cec8a8266bf3933ad",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "mashunya88888888@mail.ru"
+        },
+        "name": "Maria Samoylova"
+      },
+      "comment": "Уже просто жах! Краще би взагалі не чіпали, було би гарніше аніж зараз! ",
+      "parentForm": "255e9de2de300a351fe423e35d884af3",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "a5ba7f681be6a035f379444c2aa04b81",
+  "sign": "2L8fIk9QYPtJg0WlJtjDhKtLEtWEbk1RnL+bu600Z8kHQxIC7DTl3GGGdshYAIxCNTpiHuXB5KfSksxjgAgDCw"
+}

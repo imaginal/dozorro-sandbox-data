@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-04-03T15:57:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc52eddf3fb0142ab47e8e3dd509d3e3",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "daryakikeeva@gmail.com"
+        },
+        "name": "Darya Kikeeva"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "учасник який запропонував найнижчу ціну, подав не всі документи, які вимагались"
+      },
+      "tender": "4b7d9fcf7ebd451e954b982df5c72a2d"
+    },
+    "schema": "tender111"
+  },
+  "id": "772dd83ff18ade884773a6b1f09647d2",
+  "sign": "QJj6bKewalTphuBbfEWf2pPzn0tAygcfQLXqCvsWuu5iHvMyEVJoLmYgsaEyHxegSLGVmtnyjBUNlTtCe7bcDQ"
+}

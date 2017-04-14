@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-15T14:30:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "873d2420a9a5ddc32755c1594f7fea19",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "10021963ss@gmail.com"
+        },
+        "name": "Федор Белый"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Не належна аргументація",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Був зговор між учасниками та Замовником. Докладно http://away-traitors.livejournal.com/651.html"
+      },
+      "tender": "3ea28ec50cea460b8165183aa297eca3"
+    },
+    "schema": "tender111"
+  },
+  "id": "3de7383665be8c80de74605ea78df108",
+  "sign": "r+MUd0LqsQvC9bvgTF35rLG+rlhTJrrZbRqAyMXPgtbV2sySU/M276SLgRezAnu/veaKr2cyjqWgGVAhZDpkAw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-16T11:34:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "764ff4b26bbafb5fa9fcd046b6ff0574",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pravdalolya8@gmail.com"
+        },
+        "name": "Lolya Pravda"
+      },
+      "formData": {
+        "generalComment": "На сайті зазначено про закупівлю 4500л дизельного палива. \r\nПри завантаження тексту \"форми пропозиції \" в найменуванні закупівлі виявлено вже два  види предмету закупівлі: \"дизельне паливо Бензин А-92\", при цьому жоден документ закупівлі не містить вказівки на необхідний літраж кожного з видів предмету закупівлі \r\nЗа уточненнями до Замовника ніхто не звертався, самостійно Замовник  неточності не виправив.\r\n\r\n \r\n",
+        "generalScore": "1"
+      },
+      "tender": "f384d8902b254333b39088725e098de1"
+    },
+    "schema": "tender101"
+  },
+  "id": "8a05a62675eac559d8613010732958ff",
+  "sign": "2bMqgn+dFyaGcv2+TtTpj3cGUgEXBExL4f6V6O6z7l3ORoM/6GpS8da/KGjP9gkzPFTPjFz/lk3B/xX5kYUmCQ"
+}

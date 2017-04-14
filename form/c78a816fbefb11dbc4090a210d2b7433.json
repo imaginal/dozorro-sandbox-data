@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:53:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d60cf1771794ec7475f613f4e4d5a79f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "umtsani@rambler.ru"
+        },
+        "name": "Людмила Журбинская"
+      },
+      "formData": {
+        "cancellationLegitimacy": "yes",
+        "cancellationLegitimacyComment": "Трудно судить, но лучше и эффективнее моих технологий найти невозможно... потому не разумно отказываться"
+      },
+      "tender": "a8ed5c3225c6424b8cf3e204cc74af00"
+    },
+    "schema": "tender109"
+  },
+  "id": "e39a7f487f4d34d4c32ed1ef1dbb5292",
+  "sign": "YuUX2EjiacYsvi2/OuxiB8OBbeQnhl8/wN5wn7E9s6GBR3+oispt2jz7M+TYHRSQS+qyLIzPwuCclwWNij2jBg"
+}

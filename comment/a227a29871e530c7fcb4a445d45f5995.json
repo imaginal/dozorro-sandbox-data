@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-04T10:30:00+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c2879d04664382b8522e9a397da9ba01",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ugvkomkonf@gmail.com"
+        },
+        "name": "Борис Овчаренко"
+      },
+      "comment": "З відповіддю можна ознайомитись на сторінці\r\nhttp://ugv.com.ua/news-conf-commission?id=93",
+      "parentForm": "5eb9842bbe1b7ed08ff7c42d8b2a72fd",
+      "tender": "40900a25342e479bae06cbbae34c3edf"
+    },
+    "schema": "comment"
+  },
+  "id": "c486255ba18529a3651fb7cc3f712c11",
+  "sign": "wdEZ2S7tfpvX6L/nTCncO+Aucn9W0NBcV6rcuRH5hXT9yYexcw2iucMFancMsbgaMexgwJ3ImdbF0FuZn+yfCg"
+}

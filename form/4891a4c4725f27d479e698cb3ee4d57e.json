@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T15:51:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7466df70d81b0577cf97ba66ee0a09e4",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zima1875@gmail.com"
+        },
+        "name": "Maria Zinchenko"
+      },
+      "formData": {
+        "generalComment": "Замовник вимагає надання зразків продукції до тендера. При цьому сам механізм передачі зразків без розкриття потенційних учасників до аукціону не вказано. Відповідальні особи в оголошенні про торги та в документації різні. За вказаними телефонами додзвонитися неможливо. За деякими телефонами говоритися \"зверніться до довідкової служби - телефон змінений\"",
+        "generalScore": "1"
+      },
+      "tender": "6d8fd0bfff5445a88f936165d91b9176"
+    },
+    "schema": "tender101"
+  },
+  "id": "8b7ae7e9a5650a57fc23bafa4d673ac8",
+  "sign": "ka54mB1ZQ2vxSBV/TmzUJePOvbhLkHRuQoMePRAvTdapmVq+9BGWO1vbAW16T92VxAMdN7WptJZ1/fbOH9yRBw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-05T19:06:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f4069511dd17355774f3cff9c65b2094",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "testpay1@gmail.com"
+        },
+        "name": "tets test"
+      },
+      "formData": {
+        "generalComment": "Сумма, чтоб влезть в допороги. Дискриминационные условия.",
+        "generalScore": "2"
+      },
+      "tender": "d14a980af74b4793a726ff38d35dd742"
+    },
+    "schema": "tender101"
+  },
+  "id": "7dc8733a28a399b2039d9095d71bb6bb",
+  "sign": "LK2DYF1NK0sqC62AblBrSCgHhLRMFxAgJQT7/5XC7hn9kQGg666fTVSOqNXxg3V7eB7gXi1Dh7CpRXGhHGiPDg"
+}

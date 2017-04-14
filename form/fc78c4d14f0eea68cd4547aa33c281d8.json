@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2016-12-05T19:13:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "da813e2d56b11434609116c78337fe1b",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "moroz1290@gmail.com"
+        },
+        "name": "Андрей Мороз"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Повинна була бути застосована післяпорогова процедура а не допорогова. Оскільки шайби це закупівля товару а не послуг, також підозріло те що замовник та всі інші учасники крім мене були з одного населеного пункту.",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "a3b729edd0334c3cb6759c70cb9c45ff"
+    },
+    "schema": "tender102"
+  },
+  "id": "033d0c1f2778bb32228ee22b5c8cd14e",
+  "sign": "7a7ZTWHdl90CLgH0hvdnp7o41dz0jvcvH3pBp7JGic9S/kUMzQdCPMgTrwe+5wUcTAKDLLgWtVJRdE5hp/VCDw"
+}

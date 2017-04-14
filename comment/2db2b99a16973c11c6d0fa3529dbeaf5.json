@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:00:19+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "759bcc26bdf3505e31457c9ac4d05b94",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "darksay@gmail.com"
+        },
+        "name": "Тетяна Кротова"
+      },
+      "comment": "Это тихий ужас. Мало того, что плитка положена не в цвет, то исполнение отдельных углов подрядчиком это вообще какой-то треш. Как по мне, на такой выход метро можно водить только туристов, которые стремятся приобщиться к мусорному искусству",
+      "parentForm": "09f8ee839baa46d02106396747b0e8bf",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "297f04bc72fa3687270d33b2576e6bfb",
+  "sign": "bvKHSlBfonBkVN8mnHaLSTCC6n/QdcDW0F6iErwHdRW+uwMcKPlbb3QEhkpZ5BzpF7PEG6xsIgoPdLF/me/MCQ"
+}

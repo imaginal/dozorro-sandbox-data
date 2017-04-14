@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T16:34:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Taras Shanayda"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "В термін робота здана просто-напросто незакінченою. Приймати таку роботу повинно бути заборонено законом. Або підрядник виправляє всі помилки. Або компанія штрафується, керівник наказується виправними роботами і підрядник всерівно виправляє помилки. ",
+        "purchaserInteractionProblems": [
+          "termsFailure"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "0704187c2cc261487c14dcb000b55b94",
+  "sign": "HuBEPzXHYx4Z40YssKQbqqDmSovC7VBvaB2QJnTMk2tCNLPyz5g2xqyAg2k+BrWNcaSf5QrOzrwQQB1ynho/CQ"
+}

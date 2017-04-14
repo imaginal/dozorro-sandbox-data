@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T14:28:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Знущання.\r\n1) Неконкурентна\r\n2) В договорі прописано \"за результатами конкурсного відбору\", насправді тендеру не було.\r\n3) В країні не вистачає робітничих спеціальностей, а вирішують навчити проектному менеджменту.\r\n4) Київський університет ринкових відносин не входить в 200 кращих університетів України, можна було б державний університет знайти.",
+        "generalScore": "1"
+      },
+      "tender": "f5394728fb664af48c0b9e0f7c85a467"
+    },
+    "schema": "tender101"
+  },
+  "id": "7da1071115fc1121b208e851c35230c9",
+  "sign": "vrMZLHK6si9wUWfPaur5EYV49OvrD8Qohwpg8S9SqtWb8YPHeycC1su5KA5j5xjGvSZ/prttmrHUs9BRnhIPAg"
+}

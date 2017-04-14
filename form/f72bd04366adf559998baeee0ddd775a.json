@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-01T11:02:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Марина Белоус"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Замовник в Тендерній документації прописав розрахунки, які повинен надати Учасник відкритих торгів. Я надала ці розрахунки в пропозиції, але виграв Учасник, який взагалі не надав ніяких розрахунків. "
+      },
+      "tender": "fbaf875ed5ec4bd982560fb6132eb0c3"
+    },
+    "schema": "tender104"
+  },
+  "id": "a886f38cb3fcf268a06fd3b11175d2ef",
+  "sign": "U2ym83f0gNmYvmZVfwP1/MmIx8rYnxKftUKI9bEhqbbgWNt2omWZVTEPveGOUFcKtVxapaGhiXv/aEOYg1FDAQ"
+}

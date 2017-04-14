@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-02T20:16:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "77015ec42d9d94f60e4edfd167ff059c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "promtexbud@gmail.com"
+        },
+        "name": "PromtehBud LTD"
+      },
+      "formData": {
+        "generalComment": "Просмотрите поставленные вопросы - https://zakupki.prom.ua/gosudarstvennye-zakupki/voprosy-k-zakupke/820811 и Вам все и сразу станет ясно. Дабы не создавать конкуренцию, единственно возможному участнику - Пологовскому химическому заводу (а если требует тендер, то участник выйдет в нагрузку своим торговым домом \"Аква-Холдинг\") делается все лишь бы не дать лишнюю информацию для подготовки предложения. Учитывая немалую сумму тендера и возможность для экономии, общественность должна максимально пристально обратить на него внимание. ",
+        "generalScore": "1"
+      },
+      "tender": "c48c566aa75d469b9543867c88eb081d"
+    },
+    "schema": "tender101"
+  },
+  "id": "6df508acce3d68356a5aba09022480f7",
+  "sign": "9tKTYgIUoK4ukbhKDxQZIoXyBlkdnug8NenlMAJ1WhZRcTH/NUDqFrc/g+H/wbc4xsKF9Uf4bh1+d4FF8RQyCw"
+}

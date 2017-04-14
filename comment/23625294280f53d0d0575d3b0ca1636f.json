@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-29T12:13:18+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4ad62036bb0282023ffca07bf2c3bb24",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vasylyshynbest@gmail.com"
+        },
+        "name": "Василь Василишин"
+      },
+      "comment": "Прийміть будь ласка якісь міри, відреагуйте.... я вже не одноразово спостерігаю, такі проведення тендерів!!!!! ... а то вся вася система Prozorro до одного місця. Деребанять відкрито і нічо не бояться - при чому не українці!!!!",
+      "parentForm": "b066a0792051e55d9fcbfc835bad10fd",
+      "tender": "1ce03df8bf06494187d438802c3a8370"
+    },
+    "schema": "comment"
+  },
+  "id": "dc647eaa4f6465a36962e2199a5000e7",
+  "sign": "qsPpH8tAdVDfFuXoYd+GAMoS3lV/92FtFf6vF4G/jbe4x++H49viKXKQ+pZUyhlsnmJk3rJy0Jj36vIlfOJ8Bw"
+}

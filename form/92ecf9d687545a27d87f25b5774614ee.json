@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-15T00:12:44+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d4b14684d734f967f80023dfae280533",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pridorozhnya@gmail.com"
+        },
+        "name": "Tatyana pridorozhnya"
+      },
+      "formData": {
+        "generalComment": "замовником поділено предмет закупівлі з метою уникнення відкритих торгів.\r\nа саме:\r\nUA-2016-11-06-000031-b\r\nUA-2016-11-06-000030-b\r\nUA-2016-11-06-000033-b\r\nUA-2016-11-29-000002-c\r\nUA-2016-10-14-000050-a\r\n\r\nоб*ект будівництва - пр.Богоявленський. його розбито на частини, що є порушення порядку визначення предмету закупівлі",
+        "generalScore": "1"
+      },
+      "tender": "270f16cbc95d448e850c5dc9f4cc53c0"
+    },
+    "schema": "tender101"
+  },
+  "id": "e5cfa2be31f16c3a56da33d492affcdb",
+  "sign": "0PMEIxEwJUeQ5MwHJ+yOaA/XsYWKipYJp85w0JzWrH4W5AO0Bi4wzMhjogjL1PNDenq1q3IGjO2Bbdj9FIsIAg"
+}

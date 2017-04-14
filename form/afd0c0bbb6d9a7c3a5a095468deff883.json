@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:13:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "71df5e71c948bfc21be4bb1e3707e501",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "23avgusta23@gmail.com"
+        },
+        "name": "Яна Ганичева"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserInteractionProblems": [
+          "dontSigning"
+        ],
+        "purchaserInteractionProblemsComment": "Похоже, что в случае невозможности выиграша тендера определенной компанией, торги признают несостоявшимися. Но на каком основании они несостоявшиеся, если есть достаточное количество предложений и начата квалификация? Кто вернет участникам потраченные на участие в торгах средства?"
+      },
+      "tender": "85ef093cffe042c0be545792a464e649"
+    },
+    "schema": "tender112"
+  },
+  "id": "0c2509ccaa2bd91caa463cb3cfb82111",
+  "sign": "uFBu4EEidB+Pr56gfhcEzeQe4Ny+PvAoDe52IIcmez7TzQ+v6ulA8s80647tnn9w9ub96GI40ZUzzfL6okFgAQ"
+}

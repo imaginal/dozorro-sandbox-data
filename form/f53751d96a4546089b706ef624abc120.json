@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-01-11T11:32:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f5d28c9eb009b29ddeeced9a4d6875b0",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gorenkors@ukr.net"
+        },
+        "name": "Роман Роман"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "ні.",
+        "maxCompetition": "yes",
+        "productQuality": "no",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "716720dcf90c459c9a6b5f44670e866e"
+    },
+    "schema": "tender102"
+  },
+  "id": "858088af0ab19c5d90604dc63e370c49",
+  "sign": "HL5hyZnZsnD/nduRm+FJCJ6YCa1Ibs/SMwX8ee4U4YGDAiz/YytDsevrURjFToxgTHiD6NHU0iPXn4VoAjLnCw"
+}

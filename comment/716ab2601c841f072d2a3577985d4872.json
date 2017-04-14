@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:28:58+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Infy Infinity"
+      },
+      "comment": "Результат не сообветствует ранее опубликованным дизайн-макетам. \r\nОщущение, что пол остался старым. Куча ошибок укладке плитки/кабелей итд как будто не проффесионалы делали, а первоклассники.",
+      "parentForm": "a126515cb943099a5c452ac0ef311620",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "af04f1f70fcfe84c833a3e7c79ed7cd6",
+  "sign": "WRjmKyFSuW+jHON/Y/6FwsipQQ91N+wDwbcqlq88GMmcekNoRZPalFvUagqCMAC40T60N3G+LWBonWZQ3O6AAQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-04T21:53:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b7ce49bbeca8325d5c14cc10dd14e311",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "damn.good.bastard@gmail.com"
+        },
+        "name": "Andrew Tsaplin"
+      },
+      "formData": {
+        "generalComment": "замовником закупівлі є відділ ЖКГ Дніпропетровської обл. адміністрації. Головою тендерного комітету прописан Грива В.Л., але будь які спроби зв'язатися з Гривою, чи начальником відділу, для більш детального ознайомлення з тех. документами по закупівлі, виявились не можливими. по вказаному телефону автовідповідач, гаряча лінія губернатора нічим не допомогла. і це вже не перший тендер який проводить відділ ЖКГ і скривається від контактів, щоб не можно було ознайомитися з документами для підготовки тендерної пропозиції.",
+        "generalScore": "1"
+      },
+      "tender": "b87db323d19a432aa543de164e1c8573"
+    },
+    "schema": "tender101"
+  },
+  "id": "a96c8b2a46f50dfce33b3235eabe6180",
+  "sign": "cJUhCdHVphbFDkTFYXASHguw42yGnjS3Qt+TiAq0XHMaWhWkYPzu6NDHKS9MQorMiOQRIFQmZOhEuMgrgTclBQ"
+}

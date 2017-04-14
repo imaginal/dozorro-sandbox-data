@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-04-04T12:48:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1aa41e7ed66f20e59f701728ac04e879",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "d_klymuk@mnr.org.ua"
+        },
+        "name": "Дмитро Климук"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "для більшості учасників що були дискваліфіковані аргументація була досить сумнівна, саме тому кілька учасників поскаржилися на це Замовнику. Скарги були теж відхилені.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Зомовником було дискваліфіковано семеро учасників що запропонували кращу ціну!"
+      },
+      "tender": "55e0164cea8a40119426f323630c19b2"
+    },
+    "schema": "tender111"
+  },
+  "id": "5b2d8cd4698a6173a777de854200d554",
+  "sign": "LITTabXyjiA22W5BKXlxdZDfCU/4KYj9nk7m0oucnbbViLswI+wiqQNr7PknNqlcHbvtf7s/qk46LQ+gwmvGDg"
+}

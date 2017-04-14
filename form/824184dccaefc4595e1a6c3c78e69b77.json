@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:12:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Ні. Пропонується товар, який є в Україні в одному екземплярі.",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Конкуренції нема, тому що аналоги не розглядаються.",
+        "productQuality": "no",
+        "productQualityComment": "Застаріла продукція, товат вже не виробляється.",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender102"
+  },
+  "id": "0c3005888a6f3c0cc9019604fdc52924",
+  "sign": "H5npHAmX4dJBLeGKo/BM+gROvmhJH0lzvMvjsvzKD7hyxzdK+K3cv+eDKxkJuLpbuar/HwEdMq2521quySAEBQ"
+}

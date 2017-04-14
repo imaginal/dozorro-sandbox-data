@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T12:50:29+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "795855bf715ec75f3e283776065c8197",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olexkon@gmail.com"
+        },
+        "name": "Олександр Константинов"
+      },
+      "formData": {
+        "generalComment": "В технічних вимогах замовника є пелюшки з поглинанням 2100 мл. Такі є тільки в асортименті Tena. Вважаємо, що існують домовленості із постачальником Tena, і умови прописані під конкретного постачальника. Назву постачальника можна побачити з попередніх продаж підгузків Tena замовнику.",
+        "generalScore": "1"
+      },
+      "tender": "177705dbe324409f8ff03cfaf300ed82"
+    },
+    "schema": "tender101"
+  },
+  "id": "d27105a886d1618785ff46997896a139",
+  "sign": "r/5vGL/MHj8fxZLKN7LoWiArZVb8yxzB3EMMI9kT24IPhJlH3zM2/6Fq5PBRbg7Zx+hAG9qYQ4BJ2JCKJnueCw"
+}

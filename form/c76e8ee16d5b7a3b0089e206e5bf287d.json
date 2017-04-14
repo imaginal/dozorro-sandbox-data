@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-07T12:00:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "355d351008db3bf24bf16b831c0ffa78",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dimus82@yandex.ru"
+        },
+        "name": "Дмитрий Волосовский"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Очікувана ціна завищена",
+        "maxCompetition": "no"
+      },
+      "tender": "d58e92bb78ce46c5878024c0a178f542"
+    },
+    "schema": "tender102"
+  },
+  "id": "aa4b75b5d2376984cb9100b44dfed18c",
+  "sign": "NzYAsHbPNF0vGuSzVvzw6YyIJiivZCPHplk48KbkNcshe6aDwIB/+UAv+VpRXWnI6z4AtAoaHP1Fmec8xO1qDQ"
+}

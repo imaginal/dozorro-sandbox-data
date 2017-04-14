@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T21:18:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1f8dd7287de9c3ac4861bb118e6a6d60",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "budekspres@gmail.com"
+        },
+        "name": "Будекспрес Новий Яричів"
+      },
+      "formData": {
+        "generalComment": "Немає ніякого переліку та кількості товару, немає договору та вимог до учасників. Лише закупка в військову частину на суму близько 90000грн!!!!!!!!!!",
+        "generalScore": "1"
+      },
+      "tender": "d6c76a23ed464ef288229bd60d0c459b"
+    },
+    "schema": "tender101"
+  },
+  "id": "c37996744b0f91aa8b288024fb6690de",
+  "sign": "ClAUdDn//fNFl/biGfzvgm5Hq/C9wXYaC4S2z9sXg4IEX6iQVOZJn0ciAAlyk9Ju+2bL/NxNzPc8tAOsLobkBw"
+}

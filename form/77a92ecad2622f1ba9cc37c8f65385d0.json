@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:21:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Катя Славная"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Как можно было принять такой ремонт? Деньги отмыли знатно!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "fc59c8aa041f92eeaeb7ff6cbd31398c",
+  "sign": "ZwKRn4iAMC7P5VOiqYdhEXpo4/MdV2i2CGProZdeaWZtGbTEnrlNPkFL5QmHJ5KglpsnJrb5L4lFHpGAmUlmCw"
+}

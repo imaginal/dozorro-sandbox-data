@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-22T20:30:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "cc4b177adfde00a1eedc500c60a641c1",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "33spider@mail.ru"
+        },
+        "name": "Михайло Міхненко"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Переможцем визнано учасника пропозиція якого не відповідає технічним вимогам. Це суперечить критеріям оцінки пропозицій зазначеним в тендерній документації."
+      },
+      "tender": "538c3d7cf76a4c3e8aaa8549b5c07201"
+    },
+    "schema": "tender104"
+  },
+  "id": "140d9494e4f048a9a67f44df932f734b",
+  "sign": "Vh4uSJQAWCwY0WJ/ol4tiCRxoCTBAf8cnaUoT3wlJ9aXs/EyhNUwCTNCfAijvcU5kTOJB1J4lhMYkMjpVt57Dg"
+}

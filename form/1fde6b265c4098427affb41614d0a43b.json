@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-04-06T08:19:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e58e144fc215bdc1bfde727f00f8aee6",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "obhalma@gmail.com"
+        },
+        "name": "Bogdan  Moroz"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник склав технічні вимоги до предмету закупівлі не корктно.\r\nМи бачимо маніпуляції з відповідей Замовника на конкретні запитання Учасників.\r\nЗазначена закупівля проводиться другий рік поспіль- все без резултатно.\r\n",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Заптання Учасника та Выдповіді Замовника\r\n https://www.dzo.com.ua/tenders/900815/questions\r\n"
+      },
+      "tender": "b453540781294d06be1eda2c0b2f6564"
+    },
+    "schema": "tender111"
+  },
+  "id": "4664ab1d3b2e2806f664b66ce59be867",
+  "sign": "gjaT/4bE8m9ldq1+duU4jqBWFDAiQ+4jzuqwJivKvLlaCEhzbwzWnRrLxYbErY+aCOglhMmaZfWGQqK+ku1SBg"
+}

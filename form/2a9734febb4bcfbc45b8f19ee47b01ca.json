@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-13T16:56:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7c4f9a690ab7254131861f11c0b54dfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tigorr007@gmail.com"
+        },
+        "name": "Igor Tigor"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Складається враження, що  замовник вступив у корупційну змову з переможцем ( ФОП Бондар Сергій Миколайович)",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "В зв’язку з тим, що економічно вигідна пропозиція було незаконно відхилено, додаткові  витрати з державного бюджету складуть 83 264,3 грн. (198 264,20 – 114 999,90 ). Отже, Замовник порушує принципи державних закупівель в зв’язку з чим відбудеться неправомірна розтрата бюджетних коштів."
+      },
+      "tender": "b8c4c5f120c047c08fd9385fcabe64b1"
+    },
+    "schema": "tender111"
+  },
+  "id": "de86fe7d546ed1ea5c6d78332ac0635f",
+  "sign": "MLrzBQlTFo3ShjbrKYYqIpPJ36d8GqMsxFw24Ewxe9obl7VqtmebCdy4TL1uYYEeUpmEGvdJ0Zugrb7y42InDw"
+}

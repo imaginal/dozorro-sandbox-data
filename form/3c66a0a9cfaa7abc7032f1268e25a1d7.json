@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-06T11:40:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c9c5228af64c9317d370e0675df3ee58",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "narashvat24.info@gmail.com"
+        },
+        "name": "Андрей Разин"
+      },
+      "formData": {
+        "generalComment": "Замовник виклав на сторінки тендеру два різні договора. В договорі від 13.03.17  пункт 6.3.3. \"Здійснити збірку за свій рахунок у термін,  визначений Покупцем.\" а в договорі від 14.03.17 пункт 6.3.3. \"Здійснити монтаж за свій рахунок у термін,  визначений Покупцем.\" Монтаж та збірка - це дві різні послуги вартість яких дуже відрізняється і як таке взагалі можливо, що замовник викладає на сторінку тендера два різних договора?  ",
+        "generalScore": "1"
+      },
+      "tender": "4ac509ed82454204a935850a80751ac0"
+    },
+    "schema": "tender101"
+  },
+  "id": "a126c112f8aae5310f5fcb6f61802a78",
+  "sign": "GAfJ1FXPL/s631bOAWf+xObPjGOpQuT6kZ/34bALMuM1Q1LAXNt2TKD6o2dxzNeerzrQjFCCs+WTX82dSpkPCg"
+}

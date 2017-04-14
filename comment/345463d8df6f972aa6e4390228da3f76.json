@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-14T14:16:31+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b4ca184790cf59a6c40e2eb87d113ada",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olypear@i.ua"
+        },
+        "name": "Ольга Грушецька"
+      },
+      "comment": "Бутьте уважні!! це ж звіт про укладений договір!! в ньому не існує документації!!! а формат на який ви посилаєтесь це електроний цифровий підпис!!! ви його і не відкриєте!!!!",
+      "parentForm": "abfb932fbf89249e33338ee8a28ca52e",
+      "tender": "82e6b3eea5264c37b997fb76340add4c"
+    },
+    "schema": "comment"
+  },
+  "id": "e5fe718e896243a65a6f7312d985803d",
+  "sign": "694WyBvXc/7Nv6Uao78Ms//CtdL/+f8dVK54+PAiFwxeirDBynS/UG0XP4ntMa/lJikv2LjxHpOEMkDtLdjqCQ"
+}

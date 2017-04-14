@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-27T11:24:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "554c3a231183c8a367c654216ef19336",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yozh.studio.lv@gmail.com"
+        },
+        "name": "Yozh Studio"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Непонятно зачем нужны сертификаты iso 9001 и iso 14001 кроме как для отсеивания ненужных игроков"
+      },
+      "tender": "55b5fad479ea43c5bef6f22e750751cd"
+    },
+    "schema": "tender104"
+  },
+  "id": "bb364992e3c72c14f4651bd41b999e0c",
+  "sign": "3YVwlZrwiKTS2XCBneLlcACIvBoZkh13ZaFnrJybW0Cp75wt7X2NhbObiE5C94SL3UUGH6kWSIYGjwYeZPZvCQ"
+}

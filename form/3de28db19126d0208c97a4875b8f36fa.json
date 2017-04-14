@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-01T13:21:31+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b3a5c6c513cb814dcdc14a0daa1acf61",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kda.delrus@gmail.com"
+        },
+        "name": "Король Дмитрий"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Коментар не містив даних по яких пунктах була не відповідність технічному завданню. Мабуть тому, що не відповідності не було.\r\nПри відміні торгів Учасники не можна було подати скаргу - це вже недолік системи яким доцільно скористалися.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Всі пропозиції відхилили як не відповідні до технічного завдання, але у відповідних документах учасника повне співпадіння."
+      },
+      "tender": "bfc738d75b834e8da127d45928d4bf8b"
+    },
+    "schema": "tender111"
+  },
+  "id": "71534c5456a6df9c49160a1c68b0eda8",
+  "sign": "dNEANxjYpOSoTZNtITCulBV9YcxxBdj6jZT0DrHJ/JIMn7WzKEiqwgdarAY9QQuaSNVga/arP35EPoclC6O3AQ"
+}

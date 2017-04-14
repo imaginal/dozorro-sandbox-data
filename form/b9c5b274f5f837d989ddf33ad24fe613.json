@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-20T22:13:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5a98e1027533cc145ca711ec30f832f1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "1212123tundra@gmail.com"
+        },
+        "name": "tundra tundrivna"
+      },
+      "formData": {
+        "generalComment": "поділ предмету закупівлі\r\nUA-2017-03-01-001405-b\r\nUA-2017-03-01-001404-b\r\nUA-2017-03-01-001403-b\r\nUA-2017-03-01-001401-b",
+        "generalScore": "1"
+      },
+      "tender": "e8b39e6db0ca4df497dccfa1f02a4052"
+    },
+    "schema": "tender101"
+  },
+  "id": "7f4e0b9812c0e593d245d369bd4e83fe",
+  "sign": "Cxp0OIqzyYNiNWZUCjCS8+td4P4ji+Ju3uO9hUncwRr5fSSFPgYpF6PmTRmpER92o+C7nrPmPAObxsT0udqUDA"
+}

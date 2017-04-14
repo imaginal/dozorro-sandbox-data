@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:04:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "generalComment": "Відбувається закупівля застарілого устаткування за завищеною ціною. На стадії уточнення пропонувалися сучасні аналоги за меньшою ціною, але у відповіді замовник дав чіткий натяк, що вони розглядатися не будуть. В результаті в закупівлі приймає участь один учасник з максимальною ціною.",
+        "generalScore": "1"
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender101"
+  },
+  "id": "82da8741ab15161f4a23118e149639a7",
+  "sign": "UFy0bC25Iq5VN80D7yJp39x2XQw6kzQrBmia1fBVjD46R6kdSvU02E4oV7C21zZ0TLgTVjqPrg2elDEO81Q1Bw"
+}

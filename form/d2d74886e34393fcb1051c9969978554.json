@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-26T17:14:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "554c3a231183c8a367c654216ef19336",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yozh.studio.lv@gmail.com"
+        },
+        "name": "Yozh Studio"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Цена завышена"
+      },
+      "tender": "a2296f88505d4d0b8fb8542d402dc0cb"
+    },
+    "schema": "tender106"
+  },
+  "id": "cc31cea621492d7025ee427135b42f5b",
+  "sign": "5rJ+lOz5/RO4SjaHuPLLEe6sL1cESujiuY/R2OsIxwjVS6pJoLchKnqnREkhUg1+Ge0cPnhVjVU/1Z8nN1ooDg"
+}

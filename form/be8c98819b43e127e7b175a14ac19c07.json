@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-14T22:53:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d4b14684d734f967f80023dfae280533",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pridorozhnya@gmail.com"
+        },
+        "name": "Tatyana pridorozhnya"
+      },
+      "formData": {
+        "generalComment": "замовником поділено предмет закупівлі з метою уникнення відкритих торгів.\r\nа саме:\r\nUA-2016-12-02-001269-a\r\nUA-2016-12-02-000838-c\r\n\r\nоб*ект будівництва - вул.Берегова (дорожнє покриття, тротуари) . її розбито на частини, що є порушення порядку визначення предмету закупівлі",
+        "generalScore": "1"
+      },
+      "tender": "ded19f2188574e80b2cc5579df331027"
+    },
+    "schema": "tender101"
+  },
+  "id": "0afecb0bbb9bcfe1750c131ef4236854",
+  "sign": "IqctPcw3myHZpdhbuy3HyN9MeNr1xTw720BrZk1m2qQHczljqET3Tuw+DPb+BhYn8nsUPYNQ288VrV5jALh0CA"
+}

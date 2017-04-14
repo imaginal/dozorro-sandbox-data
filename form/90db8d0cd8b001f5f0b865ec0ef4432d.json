@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T11:56:01+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e0e28e84f5d1f5aad5870cd01c658598",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "Tanja_sonce@ukr.net"
+        },
+        "name": "Тетяна Харкава"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Відмінна торгів була необхідна й правомірна, але пояснення не відповідає дійсності, Вони так вирішили покрити свого учасника-переможця."
+      },
+      "tender": "2f36c95019374a31ab28750735b4c282"
+    },
+    "schema": "tender109"
+  },
+  "id": "25893b728996dea4c18e8ecaf772ad50",
+  "sign": "TV4N5B01up7OPK307KOSUXYP6svxCR3DkhnhAWSoghK4O2AwMb+ooJpQHz1dczz9KBQd+FR4mv0PJEhT3lZhCw"
+}

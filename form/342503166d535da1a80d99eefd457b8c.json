@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:18:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "Інформація про проведення закупівлі включає в себе чіткий опис вимог до предмету закупівлі за оптимальну ціну.",
+        "maxCompetition": "yes",
+        "maxCompetitionComment": "Вимоги до предмету закупівлі дозволяють забезпечити максимальну і ефективну конкуренцію серед учасників.",
+        "productQuality": "yes",
+        "productQualityComment": "Вимоги щодо якості предмету закупівлі прописані чітко.",
+        "qualitativeCriteria": "no",
+        "qualitativeCriteriaComment": "Вимоги щодо якості предмету закупівлі, зазначені в Інформації, визначально передбачають участь у закупівлі тих учасників, які мать можливість запропонувати товар найвищої якості."
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender102"
+  },
+  "id": "281ef067f69ba0da7b4b4cee9b88e19b",
+  "sign": "zKqk9Qfi6CIxAsmAitrU92WXw41OxoxXjySNeRICezCaHLAbg4F6UGcdUyAJmb5ixw6GQdH98rMheOGr0Iq0DQ"
+}

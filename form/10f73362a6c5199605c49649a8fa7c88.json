@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:06:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "663e77e3885e038d577b91ad90d4f71d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "office@md-group.biz"
+        },
+        "name": "Елена Верховцева"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no"
+      },
+      "tender": "96112a7303e74fb6bba36805a85824a6"
+    },
+    "schema": "tender111"
+  },
+  "id": "b07e943f7d96814d1a9b04c8542c6fb6",
+  "sign": "Gi3902pK7c5k1DpadLIA6zhjxSEiXK6yGlgKtnkTuuENkk3lhiMZgPJhHZrcsEWzWlisbA6VmPW4Iwr3t7J7Bg"
+}

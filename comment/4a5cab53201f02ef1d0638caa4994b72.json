@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-15T16:31:39+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b4ca184790cf59a6c40e2eb87d113ada",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olypear@i.ua"
+        },
+        "name": "Ольга Грушецька"
+      },
+      "comment": "Ви підприємець - ви розумієтесь в фактичних цінах.Як установа може знати завищені у неї ціни чи ні??Для цього й існує система прозоро щоб опускались ціни у ході аукціону.",
+      "parentForm": "07d75c2b441352c42030447cdc0fd012",
+      "tender": "9d0410e606e64174885094c2b26eb250"
+    },
+    "schema": "comment"
+  },
+  "id": "a9ae9e5cff28a4f2b8bfc3004683cf0a",
+  "sign": "pUaxoX55fXowldGu447qm+2ErCqo+s+gFjL1ruFxoI/PRegpiPzVMrI8wpLHu86DDw+WJyYI2LddQQ7HFRM/BQ"
+}

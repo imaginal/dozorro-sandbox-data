@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-10T15:51:23+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2441f6e6caf2560a80fca3301285ea87",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gulyayev14@gmail.com"
+        },
+        "name": "Kirill Guliaiev"
+      },
+      "formData": {
+        "generalComment": "На тендер пришло три компании, две (\"ТОВ \"МІКРОСИСТЕМИ ЕКСПРЕС ТЕЛЕКОМ\" и \"ТОВ \"БІЛІНТЕХ УКРАЇНА\"\" ) из которых (более дорогих) явно связаны между собой - с одинаковыми документами, почти одинаковыми финансовыми предложениями (разница была в 0,001%!!!)  и одним и тем же продуктом (решением), но предпочтение отдали более дорогой - разница между ними в конце аукциона составила 33% или миллион гривен!!!!\r\nЗаконно ли отмели первую - тоже большой вопрос - по их документам есть и опыт использования, и украинский продукт между прочим предлагали!\r\nфотографии документов есть в посте:\r\nhttps://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkyrylo.guliaiev%2Fposts%2F1815954595349121&width=500\r\n",
+        "generalScore": "1"
+      },
+      "tender": "a17708ebf62049d1bce9085aea6d0777"
+    },
+    "schema": "tender101"
+  },
+  "id": "f0bafebfa9011b1c95a7dce70a52848d",
+  "sign": "OPGIyd0tVxjSsbdYa9TVKNe3/u2TZLzYeIDUE+eM04EE46HPhafL+SLHWun3ZBkaLLsY0bj+peVRdTxOSTT1Bw"
+}

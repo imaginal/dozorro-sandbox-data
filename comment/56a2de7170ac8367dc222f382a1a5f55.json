@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-06T11:39:46+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "795855bf715ec75f3e283776065c8197",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olexkon@gmail.com"
+        },
+        "name": "Олександр Константинов"
+      },
+      "comment": "Так як і було написано, приймають участь два учасника, і обидва з підгузками TENA. Ціна пропозиції завищена на 60%!!! Тепер всім зрозуміло, навіщо були переписані технічні вимоги в оголошені?",
+      "parentForm": "04a3645c5bc138e6ff9d4c20a5e8a99b",
+      "tender": "ee86d95f8b1c4580971d100e8a3b337a"
+    },
+    "schema": "comment"
+  },
+  "id": "14c78e3042e34b0a2c2ac827c4c94400",
+  "sign": "Bkd7nK0RFqpv58GKAfi56vQ2k8h7vPVUKQDlpY5giE0wwCf8iqfAA+dhpSf59gTHy2Zpw1xbqlKJ6lulPndWCA"
+}

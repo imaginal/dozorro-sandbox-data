@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:52:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9c66285d139a3704e1a668539675dbfe",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yarkahs@mail.ru"
+        },
+        "name": "Holod Yaryna"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "b5987a2e746a5897054ea4118f7fd15c",
+  "sign": "ABaY0UJg6iwTXAJIE8/68yTR5nsO0KHB1ucX66MM1reF3DOVILzWyPrWfntf2u5B+EsrZQXIj27Mi4OW6P8KBg"
+}

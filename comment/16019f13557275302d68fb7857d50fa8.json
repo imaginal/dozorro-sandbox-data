@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-28T10:50:42+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "97aa0dcf2858ea25cac11534f3665191",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "young.crazy.rabbit@gmail.com"
+        },
+        "name": "Татьяна Дмитриева"
+      },
+      "comment": "Назвать такое реконструкцией, просто рука не поднимается! Реально испоганили даже то, что было! Если бы просто помыли стены, побелили потолок и обновили краску, получилось бы лучше! Дизайн - безобразный!!! Выполнение - ужасное!!! Унылость, дискомфорт, выброшенные на ветер средства - вот и все вызываемые чувства.",
+      "parentForm": "02fb7d51fe4841b5ff016b1f6f2e2ceb",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "ec9b8ed5dd55c6d9e3896f34c8e047b0",
+  "sign": "MhtupZRuDHm4+S1sLL2qy5IEhZogQCLDKAIGyyZS3NTfx83YfQLLttOreQJRs9cY+azdAdOd1gODbN+0jzxEAA"
+}

@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-02T09:32:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Oleksii Tamrazov"
+      },
+      "formData": {
+        "lotsExpediency": "yes",
+        "lotsExpediencyComment": "Вважаю, що поділення на лоти - окремо легкові автомобілі, вантажні та автобус,  може суттево збільшити конкуренцію та знизити ціну предмету закупівлі. "
+      },
+      "tender": "02a401b675da4560ac4069e7adb1279c"
+    },
+    "schema": "tender107"
+  },
+  "id": "459eda35e0b6680cc59f4c61228fe4a1",
+  "sign": "Vbt2neg2rcw6hDB0gY1IoanGqo48OkHw55/pUi8FLO0SQO8sCktsqYWQWyzbOjRm29XOcliZqMFSF4mL3TYZBA"
+}

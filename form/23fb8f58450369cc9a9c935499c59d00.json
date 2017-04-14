@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-31T14:32:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5162fca6dcb8634a72c39aaa31245859",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lawbull1405@gmail.com"
+        },
+        "name": "Ярослав Підлужний"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Комітетом Замовника рішення про дискваліфікацію прийнято з порушеннями без зазначення аргументованих підстав для дискваліфікації Учасника ПП \"Справжня імперія вікон\". ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Обрано пропозицію не найбільш економічно вигідну, а ту яка більше понад 140000,00 (сто сорок тисяч) гривень."
+      },
+      "tender": "23c68b9855d24d578868c93c1b593fda"
+    },
+    "schema": "tender111"
+  },
+  "id": "3da8a76b748177a0752b3bc78bd925fd",
+  "sign": "xrFhVq1eAfT1TYzRUjwkK3xGQnu4T9ldC6RS+ByrkfUGYwDrVoP1B4Pj6JPymC68hR7O6kgxgTFFpEwhtzyxBA"
+}

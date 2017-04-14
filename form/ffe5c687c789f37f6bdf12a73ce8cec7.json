@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-19T14:45:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d1827ca9285efff7ce971a600a65b46e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "arenarental@ukr.net"
+        },
+        "name": "Konstantin  Titarenko"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Реально торгуватись могли лише фірми, що мають інформацію від замовника поза системою Прозорро."
+      },
+      "tender": "2cd10259d01c44d7a55af489bb8ebdbc"
+    },
+    "schema": "tender104"
+  },
+  "id": "46803869be2ae105667068ea1fcf5862",
+  "sign": "71XCl+IFp9tDN1JNzdCRFI4EZFV5fLsc+2I4yZYOd4vRsQRRZwHUbVNUGHT2aHCo+NEOYNTnRSW9edIC9HACCw"
+}

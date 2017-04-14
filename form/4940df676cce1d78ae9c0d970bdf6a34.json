@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-12T13:03:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "85cb05d07c4dffc192e76e2a0361b9b6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kondrukvladimir@gmail.com"
+        },
+        "name": "Владимир Кондрук"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Найнижча цінова пропозиція не відповідає умовам тендерної документації не була дискваліфікована з незрозумілих причин."
+      },
+      "tender": "4d82c20c4f7c45618374ea6dc300ee47"
+    },
+    "schema": "tender111"
+  },
+  "id": "5925f0ea22ada6a152ed43b82d20b00a",
+  "sign": "yXkiFKibVczw7DmEXMBrnemD9IDrtBpEXZ0Hi45jCoterkuwfzJCy9gNdT3UMWlTYy5owwPgzA3eddDDCPwpDw"
+}

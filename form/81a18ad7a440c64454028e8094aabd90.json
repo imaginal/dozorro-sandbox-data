@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-03T11:21:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "72e094660dcf3d2a16f4a69fb80fbe25",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "flametur@mail.ru"
+        },
+        "name": "Svetlana  Minenko"
+      },
+      "formData": {
+        "generalComment": "Після оприлюднення результатів конкурсу (аукціону) було оприлюднено\r\nдокументи, що були подані переможцем конкурсу. Підприємство ретельно\r\nвивчивши документи переможця дійшло висновку про те що:\r\nЗамовник порушив наступні принципи здійснення закупівель встановлених\r\nч.1 ст.3 ЗУ «Про публічні закупівлі»:\r\nЗамовнику було направлено вимогу яку він проігнорував ",
+        "generalScore": "1"
+      },
+      "tender": "12f31c1655ec43998d504ad987e53388"
+    },
+    "schema": "tender101"
+  },
+  "id": "cf21f0174abf5ea48954b53f429e07b9",
+  "sign": "P9l0/IBWKE9VZIhpuykjQKPiYFJG8G4YR28zMPDspsQj/IuocDL5BIABvblimbbm0kU7AkM6LJjxNDt+Hf26Dg"
+}

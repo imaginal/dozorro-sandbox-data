@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:07:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "54666a5b5358a6872799e6fda2bf4ec7",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerge.com@gmail.com"
+        },
+        "name": "Serge Kij"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Еаное днище",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "825de83e13e4b826150a4e1b4e90dd55",
+  "sign": "Vk8rzbybLPUCZXMmdVkiwuiNH61AtbT3li9REWRsOU5xeGb6FMi/i4/5ZYIfLRMisLLHziscYC6ikZyivAkzAg"
+}

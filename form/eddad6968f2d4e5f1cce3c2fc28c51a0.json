@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-10T14:19:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Константин Лобунько"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "По ходу, Заказчик был сразу намечен на одного поставщика а именно ТОВ СК СТРОЙІНВЕСТ, поскольку данная компания разрабатывала проектно-сметную документацию и скорее всего они в прошлом хорошо \"сработались\".\r\nДа и по торгам сразу видно, что вместе с участником ТОВ СК \"Стройинвест\" пришла с ними их прокладка ТОВ Компанія Платінум. Жалко только доказательств нету, но явно просматривается взаимосвязь между всеми тремя...",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "f4b3eefd220149ea9f2aaf3358438a63"
+    },
+    "schema": "tender111"
+  },
+  "id": "c1398b59e1719bd92f2ae09da8812bf4",
+  "sign": "ZMZmPGr+YIYP4Pb4jCH9+bL3/DsY8/Be4tfflN9NHQ+0pnXvhnrY3b1k3mGDqiOADjqNn3KrEdUzllOywDdOCg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:13:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ba24a09cdcf7fea87639f17dd239b20c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "fogplayer@gmail.com"
+        },
+        "name": "Павел Дергачев"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Повна лажа."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "89d7dcdc6e3c828fd87f3025d02d24f9",
+  "sign": "V+/MsK3pTAfKqd/MA5oK7/kk14nFr1uT5OoLld4MZeFc6WbZLG1c2kf21FkPKHEaO/3lsUxadYCzKAo7CB49CA"
+}

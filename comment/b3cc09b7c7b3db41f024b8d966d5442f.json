@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-09T17:12:09+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "24fb0cbd49f7fa5ad56cadd4eb13ab42",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "mayamariya1@gmail.com"
+        },
+        "name": "Maya Mariya"
+      },
+      "comment": "У участника, которого определили победителем торгов, нет 5 АЗС на территории Донецкой области ( как этого требуется согласно тендерной документации). Справкой подтверждено наличие 1 АЗС",
+      "parentForm": "3b5f6f5a010a3c222db77bc8942d113e",
+      "tender": "7bb1ef1a2bc3472db7b12c7f0df047d7"
+    },
+    "schema": "comment"
+  },
+  "id": "67277332ac0d731ef5fa0925134488b0",
+  "sign": "JqEki01WFKg+PEE+U8gPdBduOhC+jqupEzznjzSYUY63G00TLL4qLhNHNLhGb9jvHVaMDiEAHq/a5DSziUoOAQ"
+}

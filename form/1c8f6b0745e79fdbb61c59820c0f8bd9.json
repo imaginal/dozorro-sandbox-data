@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-29T10:43:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a6278912f7e55346c10e73a8c515e639",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kram.kolot@gmail.com"
+        },
+        "name": "Крам Колот"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Чем делать так, лучше никак не делать!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "b6643434e616ca8005900a96888a4bf1",
+  "sign": "2QZYS8eD3iyRY6Fi6SSdJCkPbB4jcbLydkE4H4B0f1IkmGqlnlTxOW4QNTIafpB6W+lG5Yb7Oax1CawmIhnnCw"
+}

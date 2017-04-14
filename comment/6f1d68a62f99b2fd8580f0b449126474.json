@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:18:35+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5e79b26a9d7b17217f1148ad50e14f9f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "misstreslena@gmail.com"
+        },
+        "name": "Lena Zalik"
+      },
+      "comment": "Почему такое неуважительное отношение к своему городу! Куда потраченно столько денег!? ",
+      "parentForm": "f532c5a5e753ad86cc3df818922952c6",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "24892121dd637a6f7bc466fa576a1960",
+  "sign": "GemAtDYehCdVpE8rawmjvu8tMEHug2FHsEz7Sj9z+83fhv5LnIoey5+cvinMFm2TjNcv4NgzoXaxE1PxIKUrBA"
+}

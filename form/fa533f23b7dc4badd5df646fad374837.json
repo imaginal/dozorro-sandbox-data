@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-06T19:32:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "generalComment": "Процедура закупівлі прописана під конкретних Учасників. Причому, залежно від виду продукту змінюється і перелік документів, які потрібно надати.\r\nЗамовник не може надати розяснення, що саме він хоче побачити в конкретному документі і навіщо він саме у цій процедурі закупівель (приміром, свідоцтва про повірку вимірювальної техніки). Однак, таким чином можна легко прибрати непотрібних Учасників.\r\nДеталі - нижче",
+        "generalScore": "1"
+      },
+      "tender": "a0ebee14eb854c90affec029ed7bd25f"
+    },
+    "schema": "tender101"
+  },
+  "id": "bd7864309b58b1ee6d5492180425962d",
+  "sign": "IreyCv8A50UKVzI++4EZ9brtBmKdvDJOdqVDXiEbor+i5NYdU7SQb7qidiseUCEm7plIwlkdZKC9SryUnQusAA"
+}

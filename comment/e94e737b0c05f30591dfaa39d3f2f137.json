@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-23T16:15:21+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "За результатами Вашого відгуку підготовлено звернення до правоохоронних органів та замовника",
+      "parentForm": "a1d01c713238dc414b04a78966ee85cc",
+      "tender": "3d5381656b37467ba3fa7cfe73190944"
+    },
+    "schema": "comment"
+  },
+  "id": "55381167554d62f5976f7c3f47c15ec3",
+  "sign": "uOB/nW0j3uUVmUiKW3pGFdH3G4XUNg49BMPpJjcphgVkgJf6P2thkeAMpfy/sInDY3KLMpR0iL8lksE9OgsJCA"
+}

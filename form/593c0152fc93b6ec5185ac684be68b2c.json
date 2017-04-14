@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-03T13:49:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ivanova.medeng@gmail.com"
+        },
+        "name": "Anna Ivanova"
+      },
+      "formData": {
+        "generalComment": "Згідно яких норм чинного законодавства, якщо тендер відмінений, відкриваються усі цінові пропозіції? Адже до самого аукціону не допущеній жоден учаснИк . Наразі аеропорт проводить цей тендер вдруге і всі конкуренти знають ціни своїх оппонентів. ",
+        "generalScore": "1"
+      },
+      "tender": "790b0bcb1c924c28917d8afe6f8654f9"
+    },
+    "schema": "tender101"
+  },
+  "id": "81a63171b1f2d3f9245259b9632f366f",
+  "sign": "WIiZHoXoCxIbMUmUxuFkm+OJEVhpl1r4CsCeh0S/gVzUhpJrRk3px7wJpEkQG3TDb9wpoUSbU8ayqCwIZlhqBA"
+}

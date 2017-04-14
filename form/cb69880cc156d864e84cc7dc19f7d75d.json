@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-01T23:14:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Протокол \"Протокол розкриття тендерної пропозиції та рішення Замовника про відхилення Кандидата№ 21/1  від 27.02.2017 р.\" ні ким не підписаний. Не відомо, хто та коли його складав.\r\nПоловина причин надумана, на приклад відсутність Проекту договору, хоча в пропозиції поданій установлений термін він наявний; Копія статуту не завірена належним чином - хоча в вимогах ТД не вказувалось, що хочаб якимось ином потрібно його завірять, в той самий час в ТОВ \"АЛАВІЯ ГРУП\" взагалі відсутня Копія Статуту, але Замовник не звернув на це увагу.\r\n\r\n\r\n\"",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "9bfa70785d84419581b64feee77b0a7b"
+    },
+    "schema": "tender111"
+  },
+  "id": "44ecad9977775ec5fa3fd6cd0dc7631e",
+  "sign": "yxpbL+x5lZIFXhD81Th+Oj93bEveDjtSBkU3KnSHKj3GYElGUHivVR93Hvy2/9DzXPzKqTbQaOopv3N406+sDw"
+}

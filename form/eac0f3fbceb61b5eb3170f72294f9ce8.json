@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-16T15:56:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "795855bf715ec75f3e283776065c8197",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olexkon@gmail.com"
+        },
+        "name": "Олександр Константинов"
+      },
+      "formData": {
+        "generalComment": "Тендерна документація прописана під дуже вузьке коло постачальників!\r\nНаприклад: Склади повинні бути в місті постачання та поставка протягом кількох годин. Та інші.\r\nМаємо (аналізуємо тільки підгузки для дорослих): Ціна середня на підгузок по результатам тендера 18.35 грн.!!! Середня по аналогічному тендеру 8 грн.!!!!! https://prozorro.gov.ua/tender/UA-2016-12-28-000752-b/\r\nСередня ціна в роздріб 14-16 грн (в Аптеках), в Супермаркетах дешевше.\r\nВисновки робимо самі. ",
+        "generalScore": "1"
+      },
+      "tender": "b721aaa02cd0480dad5a23868b7a114d"
+    },
+    "schema": "tender101"
+  },
+  "id": "84b845ee5192055c62f7d7b8acd4148b",
+  "sign": "Fj9AFZUcMZoHjQKzPgOpWpyiw3TDlZygbErnXNLlqF+hmWj9q2Zcpm1CEU8DvhfG5aAu1R3QKHcgEfBkqGkWCw"
+}

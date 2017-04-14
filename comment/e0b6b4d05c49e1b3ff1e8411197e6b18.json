@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-20T17:59:01+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8f6880c1ffc6a5c8b733797de84c8165",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "schepikyulia@gmail.com"
+        },
+        "name": "Юлия Щепик"
+      },
+      "comment": "Нажаль публічно вказати на цю помилку чи упереджену дію Замовника у процедурі «Оскарження» система вже не дозволяє, бо Скарга чи вимога про усунення порушень «де юре» вважається задоволеною, але «де факто» раніше прийняте Замовником рішення не відмінено!!!!!\r\n",
+      "parentForm": "0df0715b87e28a50ce44e78addd45080",
+      "tender": "ee410e42be664d4fb392182d361c9533"
+    },
+    "schema": "comment"
+  },
+  "id": "9c708fb3332895abfa58f18b26436870",
+  "sign": "4mzWMRf7R4iYWanfBs3djCdCUG7nF5v+ciSb2MldefqApkIqZ0SnUABZGAQZ/tuZfn0vkC8nxgKZFrMr4UAMBw"
+}

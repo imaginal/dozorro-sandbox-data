@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-14T17:08:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "81d9da03ed087865dbdae52110c9874c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@ozone-music.com.ua"
+        },
+        "name": "Maksym Tereshchenko"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Нет документации в архиве. Цены на закупаемое оборудование завышены на несколько десятков процентов. \r\nРадиосистема WMS40MiniVocSet стоит в среднем 7000 грн. Здесь она продана за 17710 грн. Что говорит о явном завышении!\r\nАудиосистема Amico 10 стоит в среднем 43 000 грн. Здесь она продана за 52590 грн. Что говорит о явном завышении.\r\n\r\nПо факту организация закупила оборудование по явно завышенной цене, выше среднерыночной и рекомендованной по Украине.  \r\n\r\nЗавышение составило около  40% от розничной цены, понимая что существует дилерская, оптовая цена на 25-30% ниже от розничной. \r\n\r\nМожно предположить что бюджет переплатил около 40% от реальной стоимости закупки."
+      },
+      "tender": "380e2564faa043dfaf8d4c53cc3fc737"
+    },
+    "schema": "tender106"
+  },
+  "id": "b0b33a22ba64bb242e23564302a9b6ed",
+  "sign": "Qrg4btZowsMsnGSZ1a8xoxjUirhnd7KKPxs+S51nOXDcA+u2lDPhP6gvvoXZCUqLs4oenbhZx+iuGh6QOgEUAg"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:27:34+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b98480d361314eced3d2f5788d2e4ef5",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "igor.koliadin@gmail.com"
+        },
+        "name": "Ігор Колядін"
+      },
+      "comment": "Не только компанию, а всех аффилированные лица ( в т.ч. конечного бенефициара, директора и кто подписывал акт приема-передачи).",
+      "parentForm": "2ec4b8c9678e88bbd0b1d57180913cf1",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "20f32b390bdc754c04752cdd362ac69c",
+  "sign": "yZuqP/8HgL6hxiF8R09DgzMyfWvZCG1HtYxNNwD/cjQetO3yPm+qcIDBQHvDRno16rwMpm5UMJuCePcWHK3EDA"
+}

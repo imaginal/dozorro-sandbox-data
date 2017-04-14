@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T12:45:14+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1aa41e7ed66f20e59f701728ac04e879",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "d_klymuk@mnr.org.ua"
+        },
+        "name": "Дмитро Климук"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "досить серйозні вимоги ставилися до наявності працівників з відповідними освітами і т.д., як на мене дані вимоги є завищеними та створювали переваги окремим учасникам!"
+      },
+      "tender": "55e0164cea8a40119426f323630c19b2"
+    },
+    "schema": "tender103"
+  },
+  "id": "b55e556c79e3bc08a35fbe935162efb6",
+  "sign": "CyIGUlg6iMVBkqnPc+S6a8sjkV9mFAgP3VWmUPKM+J7ytzshcgDqP11vW1ftuT2+NH2vTJOTzjoLB5jfhznsBg"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-16T15:20:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Дмитро Кириченко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Причини дискваліфікації найнижчьої пропозиціі, які викладені у протоколі конфліктують з тендерною інформацією, таке враження що замовник взагалі не читав свою тендерну документацію. Повне ігнорувння документів учасника та нехтування законами на нормами діючого законодавства України.",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "435bb468febb4adc8b66a4e1b05e360c"
+    },
+    "schema": "tender111"
+  },
+  "id": "7b10523e1a979a320b3912c6cbc6e0ef",
+  "sign": "aF551/VXOOwdyhtwPVISbQUqbdlvYjAHoJw9UvLluhKKW6HELjOgsqAEWXUkw97elnUmdZAfWUb3lhU6+swWDQ"
+}

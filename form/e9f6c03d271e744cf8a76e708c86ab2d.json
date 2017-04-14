@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-12T22:16:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6a09ee9e44fc708dfbd07fa0d9d78ae0",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "maxkorn1983@gmail.com"
+        },
+        "name": "Максим Корнієнко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Спочатку було здійснено перерахунок загальної оцінки із урахуванням нецінових критеріїв та змінено переможця. Далі, після ненадання необхідних документів, оприлюднено повідомлення про намір укласти договір із учасником, цінова пропозиція якого не є наступною після переможця."
+      },
+      "tender": "01898fe8e75f448c96509f20352d6ac8"
+    },
+    "schema": "tender111"
+  },
+  "id": "47804b8f2b9c31316e66e87e803bf69d",
+  "sign": "yxvQSgKrkbC0cLPNt64XRTVibHMpXY4ZemrtlzZPT+J+saw1k93jAlGKyreKYLd2nQChGFAS5gEyE9h8KJtIDQ"
+}

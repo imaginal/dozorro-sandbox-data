@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T18:30:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "04213a245ddc33d49352b69a0b156bd0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "digger.ua@gmail.com"
+        },
+        "name": "Igor Kolyadkin"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Как такое вообще можно было \"построить\"?"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "c686139a3e668e5bd5d97209607160ac",
+  "sign": "R/VkX/d/EVOtXhj9s8QMYvH7cBh6Gv3qDOZIypSKNDkdRqOoO+zmFgotRGDsvE2pcGGpxxEKr/jQi8UeFSxKDw"
+}

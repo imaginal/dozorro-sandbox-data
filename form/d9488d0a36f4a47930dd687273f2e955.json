@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-29T12:18:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "85d21eafa9309fc04710ca0eee052aa4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ol.sytn@gmail.com"
+        },
+        "name": "Oleg Sytnychenko"
+      },
+      "formData": {
+        "generalComment": "Подрібнення закупівлі на допорогові (предмети закупівлі одні і ті ж, все відбулося в один день) :\r\nUA-2016-12-15-000521-a\r\nUA-2016-12-15-000505-a\r\nUA-2016-12-15-001447-b\r\nUA-2016-12-15-000451-c\r\nUA-2016-12-15-000467-a\r\nUA-2016-12-15-000435-a\r\nUA-2016-12-15-001195-b\r\nUA-2016-12-15-000402-a\r\nUA-2016-12-15-000392-a\r\nUA-2016-12-15-000366-a\r\nUA-2016-12-15-000348-a\r\n\r\nТакож в укладеному договорі відсутня накладна яка є невід'ємною частиною договору.\r\n",
+        "generalScore": "1"
+      },
+      "tender": "ce86230c33844ef39ba50e7dcfdb448c"
+    },
+    "schema": "tender101"
+  },
+  "id": "bd2db00400df10893f71bc7d56a00f76",
+  "sign": "MVPu4RveshwjqGKoB/LyzQ0ienfhFA5/CBK5fHviJsuNN+8jGECRnZ+1K/ZEuonJfR8Ttv4e6V0AnqEJwBfjDQ"
+}

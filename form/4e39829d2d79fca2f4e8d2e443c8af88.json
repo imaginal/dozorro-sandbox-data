@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-01T05:07:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Сертифікати просрочені у ТОВ ДКС ЕЛЕКТРИК, а дискваліфікували ТОВ \"Діфок\" з найнижчою ціною.\r\nТОВ ДКС ЕЛЕКТРИК - переможець."
+      },
+      "tender": "5b8958e04fe64d269b7655f3941a0191"
+    },
+    "schema": "tender111"
+  },
+  "id": "9d67a509a5afdf39dbcb2258270d295f",
+  "sign": "S2DVDhxlnvnyDX4TNqAaU/RgsTEDz6h4oICd9QBk02VckYvpB8Zjb7r8mV+jlzgVDE3GfnxeVkqS4OOzqVX6Dg"
+}

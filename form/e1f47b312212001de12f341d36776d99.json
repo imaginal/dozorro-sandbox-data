@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-07T12:24:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9e0ec40e19e46e086092749346c94338",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "v-cherkasenko@yandex.ru"
+        },
+        "name": "Volodymyr Cherkasenko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "97e2c591470c4e97aee7f639b2029e67"
+    },
+    "schema": "tender111"
+  },
+  "id": "f0f6212167378243921d9f38708f4e03",
+  "sign": "uFptgaJX6iwea30amm5btO7mmL1JcPK1eM4kp3v4JQn6Vhb68vAQFtTCwTtcNM0vOw7bMiiL1XQ3WViFOK3sBg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-19T14:42:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d1827ca9285efff7ce971a600a65b46e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "arenarental@ukr.net"
+        },
+        "name": "Konstantin  Titarenko"
+      },
+      "formData": {
+        "generalComment": "В документації до закупівлі не вказано жодних специфікацій, на прохання додати документацію отримано відповідь, що все і так добре. При цьому на аукціон прийшли дві фірми, ціну не знизили. Корупція у чистому вигляді.",
+        "generalScore": "1"
+      },
+      "tender": "2cd10259d01c44d7a55af489bb8ebdbc"
+    },
+    "schema": "tender101"
+  },
+  "id": "2399b19adfab95267296ce21225945f1",
+  "sign": "C5AQIzGQ4gqvNkuc5wLpAb4ot6NoYfqpjCYnaQltbKw4rmuVjSJok0yeViLGcg10B2d0niP2htd5vQaJAgCcCA"
+}

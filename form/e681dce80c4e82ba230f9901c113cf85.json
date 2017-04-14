@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-10T11:38:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "28029dd5ddeaf7b49db9a2b5669d031b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ines.77@mail.ru"
+        },
+        "name": "Inna  Malina"
+      },
+      "formData": {
+        "generalComment": "На засідання тендерної комісії запрошено директора учасника, який доніс документи, які не було додано у складі тендерної пропозиції. За наслідками розгляду вказаних документів було прийнято рішення визнати переможцем запрошену особу. Який смисл в поданні тендерної пропозиції ,якщо можна додавати документи на папіровому носії на засідання тендерного комітету та бути присутнім на засіданні по вирішенню кваліфікації учасника. Це унікальний протокол, який вражає цинізмом та корупцією.    ",
+        "generalScore": "1"
+      },
+      "tender": "a99bc8b9a5ed46c498050fcc85ed6e7b"
+    },
+    "schema": "tender101"
+  },
+  "id": "f6bef356fc06243acce293c635c38de9",
+  "sign": "B+5sbG0ZoQ1OUMyggJXYwINSWMKvjtpLOziy0jvmNV04JLRJzyNc2IPuQK8/7tZ2c7eYvC6wggvFskMMBdxQBA"
+}

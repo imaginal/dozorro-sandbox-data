@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-27T12:27:44+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "За результатами розгляду Вашого відгуку було скеровано листа до контролюючих органів та органу управління, якому підпорядкований Замовник",
+      "parentForm": "a2cf05944e42ff4f53b1fb6840229ce0",
+      "tender": "69d22491280245939e468b2f9bb6ad64"
+    },
+    "schema": "comment"
+  },
+  "id": "dee761ecc3a5661d02e68d31b2142619",
+  "sign": "u/HmkEyN7J7/BNa+NLNLR+jEP2FgjIFMNzIn3082B3Ed3d1qDmIc4wtQpPRsmRKPgl200xy688bFXQiDSL5dAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-05T13:18:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "90db34a8da1ef4fe94fa870229342e78",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "accumulator.opt@gmail.com"
+        },
+        "name": "Дмитрий Мелехов"
+      },
+      "formData": {
+        "generalComment": "1) Допорогова закупівля 199000 грн. \r\n2) При подачі Замовник вимагає накладення Єдиного цифрового підпису (ЄЦП), тоді як в ні в наказі №35 ДП “Зовнішторгвидав України”, ні в ЗУ \"Про публічні закупівлі\" не має правил вимог ЄЦП. В документації також немає попередження про необхідність застосування ЄЦП. \r\n3) Сплутано розміщення типу ASIA. У вимогах це передостання позиція, а у формі цінової пропозиції 8 з 10.",
+        "generalScore": "1"
+      },
+      "tender": "3fccb5f7c3b942e78a6c4f3b84ea3793"
+    },
+    "schema": "tender101"
+  },
+  "id": "74983cb990412d1cff08443d63b2e249",
+  "sign": "SP1/WmW7N+UntyfKm7R8qkn/gYnyNnuWjHMv2rD4cmTEXsifd7f6L1YaO3wkCV222nSySAWO2957V5kC6eGFBg"
+}

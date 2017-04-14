@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-05T19:07:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f4069511dd17355774f3cff9c65b2094",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "testpay1@gmail.com"
+        },
+        "name": "tets test"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "На мой взгляд, всё очевидно. Выбран самый дорогой участник.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Ага, даже две!"
+      },
+      "tender": "d14a980af74b4793a726ff38d35dd742"
+    },
+    "schema": "tender111"
+  },
+  "id": "d2c26a492b54e2f20dabf0d5a64969e7",
+  "sign": "25+RWFziXvoPBXFT/iE6evDJrnYyCp2DsfzUCp44NbrCicP6fNGTMsQWrtHQmuKnJgm+TBEE4SweDUZdQnzgAg"
+}

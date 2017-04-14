@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-11T22:25:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "06d532c2bdb2112d08ce755f35bf104d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "snizhana.lytvyn@gmail.com"
+        },
+        "name": "Сніжана Литвин"
+      },
+      "formData": {
+        "generalComment": "Вимагають довідки, які згідно закону видаються довше, чим строк подачі документів. Тобто, треба заздалегіть знати до публікації, про закупівлю, щоб отримати ці довідки",
+        "generalScore": "1"
+      },
+      "tender": "76262d17d56f4f58ad2e8abb677e694c"
+    },
+    "schema": "tender101"
+  },
+  "id": "24340c81b9b71854cc0b13ac1f410da9",
+  "sign": "xQaaS7wPjrIZrSdSnGeaQduabYq2at5q5bAv+ZygQ9Ntz61nn/WRmLqDTq50GbLJrskyBg9TIQTIB47BRbq7Bg"
+}

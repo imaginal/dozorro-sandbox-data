@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-29T14:28:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ad1a25ca42bc7571042aaf9f5e864374",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "darleo59@mail.ru"
+        },
+        "name": "Tania Darmogray"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Без сліз на це дивитися не можна! Жахливе, просто жахливе відмивання грошей!!!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "b5008cd3529a70d2c9a63ac9691603d5",
+  "sign": "JAybaul53kbbyx2TBrBMljKqxV4Eqfqs+zWqZqwS8UNfj0qNfSAMFi3brxgYta3QKuLim5TJFwO8I+AaHayfAw"
+}

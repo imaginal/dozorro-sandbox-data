@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-28T16:04:01+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "За результатами Вашого відгуку інформую про наступне:\r\nУ складі Вашої пропозиції відсутня довідка про взяття на облік платника податку, а також копія статут завантажена в Систему з порушенням строків, що є підставою для дискваліфікації.\r\n",
+      "parentForm": "6f953a81dc6670f1dcb0cfdce9e7cee9",
+      "tender": "e1fca2578bf647fc88aad4a2db5d1c7e"
+    },
+    "schema": "comment"
+  },
+  "id": "6ae42cd3b5af2dccf3b56a5835670c48",
+  "sign": "qe9CyJeAcf9WULK74fni1Zx3XXMcgApHtUX/4ziV5Pxs2HOFTWUWsy/b9TA447haJ3rIdKzAgASsxgV5R9wZDQ"
+}

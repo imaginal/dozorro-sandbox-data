@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T20:06:18+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4aec8987b8d6486d9f697df48617e990",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vadym.st@gmail.com"
+        },
+        "name": "Vadym Stadnyk"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "5c0206769fa34588bc821f05bfe9c41d"
+    },
+    "schema": "tender111"
+  },
+  "id": "e4a17bd15bf903bad1678999d784cf77",
+  "sign": "H4KEdjuJVLWiMwAyJ17yI6KC83QkW1I9FMsUJWxYUFaaa4Tz6VpEOoKTZGgV2XxiovcLt3ZsfCv1nAya7bo2Bg"
+}

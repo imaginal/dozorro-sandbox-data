@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:12:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "lotsExpediency": "no"
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender107"
+  },
+  "id": "abe270175bc06a984fabda7680bd9904",
+  "sign": "5DPzHxcY32pm3TphLv3JpaIBlaNmAO5JAu7nZTzdyHjcJNXxn/1aattJ7lZKLKGZXTvz253iyo3iqfvBv6RYBA"
+}

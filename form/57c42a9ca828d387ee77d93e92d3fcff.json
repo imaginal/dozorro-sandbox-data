@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-22T09:14:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "26699cb134640abfb0b23c7910301652",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ruos@yandex.ru"
+        },
+        "name": "Ruslan Osobenko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник не надав обґрунтованих причин дискваліфікації найнижчої пропозиції.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовником дискваліфіковано найнижчу цінову пропозицію. В протоколі не вказано про причини дискваліфікації. Наступні три учасника даних торгів є пов'язаними особами які є родичами та працюють або працювали на ПрАТ Вінницяоблпаливо. Від так прозорість даної закупівлі викликає сумніви."
+      },
+      "tender": "35cc484457244ec3bf0698df355e9ec7"
+    },
+    "schema": "tender111"
+  },
+  "id": "64cc8a9f87bbde0658a6220e0607b896",
+  "sign": "AF64W21IDLRRD6BnMurFqUTPW+/Or++lB4Q8sNDrtCysHzD2lz9JjJ42Baf7W2nRI46XPkXKr9ns5axlw0K3Dw"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-27T20:07:49+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5c2b04f1ba37a73ce0f65500d3705371",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dmonin@ukr.net"
+        },
+        "name": "Даниил Монин"
+      },
+      "comment": "Чтобы наполнить систему данными надо взаимодействие с внешними реестрами, импорт постановления 151 и другие вещи ... Они не могут быть реализовпны ни в одной системе\r\n",
+      "parentForm": "09b3d3c792ca2250f30e0dbc3ea64e24",
+      "tender": "a3092df863754d898f9d92b134bcde56"
+    },
+    "schema": "comment"
+  },
+  "id": "64b95d960646197e7c64a7fbdfb20249",
+  "sign": "N8+7Kz2/joC1OAu+b9gUNIYGL7KTYIGiagg8+uwmST5SS9SM+ndiRUg28WYqHossZgAhkWtVy9bNizYJD2vIAg"
+}

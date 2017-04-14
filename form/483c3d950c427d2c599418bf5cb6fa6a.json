@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-20T10:32:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1e842b3bc1dca77388531b63494ead9a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "valieriia.bughaieva@mail.ru"
+        },
+        "name": "Valeria  Bugaeva"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник протримав в статусі оцінки пропозицій учасників менше 4 хвилин, що означає, що він заздалегідь знав, що буде дискваліфіковувати всіх учасників закупівлі.  Навіщо проводити тендер та приймати рішення до закупівлі найдорожчий товар?",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник дискваліфікував всі найнижчі за ціною пропозиції, вибравши учасника, який на аукціоні навіть не понижував ставку.  Одним із критеріїв оцінки пропозиції була наявність електронного підпису на документах, але в законі жодним чином не прописан даний критерій. Прошу зазначити, що цей критерій замовник жодним чином не прописав в тендерній документації до закупівлі.   В кінці замовник із двох  однакових пропозицій прийняв до закупівлі найдорожчу. "
+      },
+      "tender": "6d3de91968ec490a943d206924e2c66e"
+    },
+    "schema": "tender111"
+  },
+  "id": "99fd356e17118e8a610b81dff7b75353",
+  "sign": "5iJmqC/Mr8y6QaL2DuluMjqq0RD3o0MfqJ2LMnKXvINGK39t/3NaT08FgkUt1iwfmf7v7SUI6rHgH70Y+Bc1Bg"
+}

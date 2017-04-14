@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-26T00:14:41+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "51f62ad6d1e2e5b2387dd6aa74486317",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "savchenko.com@gmail.com"
+        },
+        "name": "Алексей Савченко"
+      },
+      "formData": {
+        "generalComment": "\"За результатами електронного аукціону укладається договір. Строк дії договору залежить від вартості місячної пропозиції компанії-переможця торгів.\"\r\n\r\nЙмовірно, аукціон було прописано під конкретного учасника.  ",
+        "generalScore": "1"
+      },
+      "tender": "0c3a901a859b4bcab24e0e480ad7c09a"
+    },
+    "schema": "tender101"
+  },
+  "id": "57fdc5f5a0fba44ce57d7f849506c485",
+  "sign": "t2MZvfv24lDbjHRxLEwKRZnC9rhL0j4P4ZJ7vi74KHCRQb1ypddhOfRLYQQg2NtExV627B6Cxqw/0zSQBW/IAQ"
+}

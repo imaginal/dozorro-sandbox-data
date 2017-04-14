@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:19:31+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "41514cc4423466b39d4c0819820ed5e1",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hetfieldjams@i.ua"
+        },
+        "name": "Дмитрий Дзюба"
+      },
+      "comment": "Бомжи і ті краще зроблять....це пи....",
+      "parentForm": "32b132c6498aa8dd5280d698959138dc",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "31cc293845141aa40158123ebc231454",
+  "sign": "YPBH/n+lnzLBa2OdiFL/tj8eEGyOG8gligi8RFgPRXCiS3OAURdHG208AI4j3L0JqkFFwcOmV12C3DmoGt7hBg"
+}

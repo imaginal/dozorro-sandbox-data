@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-11T18:36:31+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f3a833cced6ca03bb53a06dd7b6daff8",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "karnelia140587@gmail.com"
+        },
+        "name": "Карнелия Войцеховски"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Отклонили всех, кроме последнего, за несущественные ошибки, хотя те, документы, которые требовали нивкоем образом не влияют на качество товара и их можно запросить на этапе заключения договора"
+      },
+      "tender": "bd647a92db5049099d177a23b19e8e05"
+    },
+    "schema": "tender111"
+  },
+  "id": "045c60be408259b1a1782a9f067e8a5f",
+  "sign": "JPAJ0/ZdDE5+9svyNCL3fZjww5N5/C95nhmvqGSMUpyuvGVSQRVDmcUsqbO4aYuK+jjPpQHfaCj21+MMTwh0DA"
+}

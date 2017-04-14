@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-16T17:00:13+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2b9d0b1a9249ad48dfb6acf52ba3995f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "office@spirit-co.com.ua"
+        },
+        "name": "Company Spirit"
+      },
+      "formData": {
+        "generalComment": "По данній закупівлі не відбулося жодних змін з періоду уточнень до прийняття пропозицій \r\nЗамовником не було надано  чіткої інформації про предмет закупівлі \r\nВ договорі не було вказано ніяких технічних завдань та  специфікацій по виготовленню та встановленню паркану \r\nПросимо звернути увагу на данний тендер \r\nСправедливим рішенням буде чіткий опис замовником паркану ,який необхідний для виготовлення та встановлення \r\nТа проведення тендерної закупівлі повторно \r\n\r\n",
+        "generalScore": "2"
+      },
+      "tender": "e5f180515b9b45e291fb11e7c07b4754"
+    },
+    "schema": "tender101"
+  },
+  "id": "43bf7cc3be6be7a1154e6c1709a37084",
+  "sign": "OskT6TxKkeL6fJ1Sa0AdN1oSQudufR1BimGP+IMJgYLZ8QP6skwUvXPmTMMKt306MqETIeNfNTa6L2zVf3rDAQ"
+}

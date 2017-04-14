@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-16T07:52:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Кінцевий беніфіціар переможця - депутат обласної ради .Данилейко Микола Іванович\r\nАукціон відбувся без пониження ціни\r\nЕкономія - 0%\r\nВелива ймовірність пов'язаних дій учасників",
+        "generalScore": "1"
+      },
+      "tender": "10bffe50b6184b0eb67ee9309e4aff57"
+    },
+    "schema": "tender101"
+  },
+  "id": "8133ce420a7b914ddb5bcbe0f5cafdea",
+  "sign": "DnznRueSUR7iwovQ3fE72my0gw1h2tVlToUk61vaIL1OkGrIGUQTZjlO7y83Ye5mjX12MplQXQ/A8FZfUpWgCQ"
+}

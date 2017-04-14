@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-22T11:38:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "34438146f1a0562470659b07a37fa4de",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "poretskov@gmail.com"
+        },
+        "name": "Anton Poretskov"
+      },
+      "formData": {
+        "lotsExpediency": "no",
+        "lotsExpediencyComment": "Викликає великі питання взагалі доцільність цієї закупівлі."
+      },
+      "tender": "7733fa73f2c94b65b80291be4bdd2c6b"
+    },
+    "schema": "tender107"
+  },
+  "id": "da0c028b119004fd6fed6efef0118a51",
+  "sign": "K0FcLMucA20XuWlelf/NDfmQq2hWUBllsonYG4eG7zVeBlnGbym01vqVN9ogkFd54v1nlAzd27M2TU5xQctMCQ"
+}

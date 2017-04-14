@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:16:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "71df5e71c948bfc21be4bb1e3707e501",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "23avgusta23@gmail.com"
+        },
+        "name": "Яна Ганичева"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "На каком основании торги объявлены несостоявшимися? Участников больше 2, квалификация незавершена. ",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "c8544c07d4b04975a1909f411809a679"
+    },
+    "schema": "tender111"
+  },
+  "id": "28bdd7addfe262a1c57aceea56ce5947",
+  "sign": "Hh6FRxrYF0uk430qdmrPS4rRgBGH3EqA1iNS4XpMXARG4jCFfeaclr7waBd1FaAcQ8xYyYoMFDjAbTSNFRxZCQ"
+}

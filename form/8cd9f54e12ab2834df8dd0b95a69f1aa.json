@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-02T15:39:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b68bfd9adc38b466b733d79f298d1cfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yanarada2017@gmail.com"
+        },
+        "name": "Яна Полищук"
+      },
+      "formData": {
+        "generalComment": "Заказчик в устных переговорах  о марке товара нарушает закон \" Про здійснення держ. закупівель\" Разд. 4 Ст.22. п.3,  а именно: в тех. документации  указывает \" або аналог\" ,но на словах наотрез отказывается от аналога.",
+        "generalScore": "1"
+      },
+      "tender": "39db4a75f32149428cf71e6132f1d315"
+    },
+    "schema": "tender101"
+  },
+  "id": "20d7a2ab03b04b7e2dd5cacd50ffa66f",
+  "sign": "0R/cUyXuqqGG2QIWZffCq6V46Qw0QikKvcmH+Y/0cJc1NAZSqGqmLjbUOKne5yXzixmyc4r2OEb/tvSFqdkuCw"
+}

@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-27T20:01:04+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Водолій Галина"
+      },
+      "comment": "Махрова халтураДо відповідальності всі до того причетних",
+      "parentForm": "1c1062c336d2caa0b8e6dad635e49009",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "ad0b2e89645b5a6a4e6f5ace7fe06335",
+  "sign": "So2ZtKq4kqHMrj126fFgNo1ANu4wdOLfngJNZNfmzBBETC0CMbAgmLG7jaP6H8ZO5JO4xj0lwO33rCrMIXQQCQ"
+}

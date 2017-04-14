@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-03T11:25:43+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Дискримінація полягає у тому, що якщо ви не пропонуєте продукцію ТОВ \"Фірма Фавор\", ви не можете прийняти участь у закупіцвлі. Вказане забезпечується тим, що необхідно надати ще й гарантійний лист від Виробника, яку, звісно, даний виробник Вам не надасть, оскільки сам прийматиме участь в цьому тендері"
+      },
+      "tender": "e326743062e74783997cb767df2fc350"
+    },
+    "schema": "tender104"
+  },
+  "id": "6d7dd054a8dae60e89e9e50e1b497611",
+  "sign": "RSwH2mu2jWX2l/n+Drsy9GPjS02DVwnsuteRbw1ei4XzVDN2xDpyy2rospY6bOn4f2GcqsckT6Elq3KgTaIyCQ"
+}

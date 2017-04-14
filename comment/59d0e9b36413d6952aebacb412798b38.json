@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-10T14:23:27+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Константин Лобунько"
+      },
+      "comment": "теперь остается только отслеживать выполнение договора, если будет заключен второй договор на дополнительные объемы по данному договору, это будет уже вообще \"Верх цинизма\"!!!!!",
+      "parentForm": "c1398b59e1719bd92f2ae09da8812bf4",
+      "tender": "f4b3eefd220149ea9f2aaf3358438a63"
+    },
+    "schema": "comment"
+  },
+  "id": "a511bbdddd7fe1cb1c32a5af5a4dff9a",
+  "sign": "G/JTZPza8VC0oIjYSqBzAXgACwQ4bIb1p7bJh/JVcIhNxNaKzhvEdyBCIvMcGi8VqSKGHuPsy7uBPiXf4xtNAg"
+}

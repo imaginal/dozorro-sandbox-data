@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-28T13:04:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fcffc8cb525eb05db42ca4dd74b6e5d9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "varovsk159@gmail.com"
+        },
+        "name": "Dima Sherniw"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Поки очікується рішення щодо уточнень документації учасника ТОВ \"АМК РЕМ-БУД\", і є сподівання, що рішення буде прийняте з цілью все-таки побудувати дитячий садок, а не розкрасти кошти.  Але наступні 2 учасника ТОВ \"БУДГАРАНТ ПЛЮС\" і ТОВ \"Ві.Ай.Пі. Будівельна компанія\" по ціновій пропозиції , це пов'язані особи? які в котрий раз вкрадуть гроші на будівництво дитячого садка і село знову залишиться без грошей з фундаментом. "
+      },
+      "tender": "9ea895c67c784566a80d7c78bdf61556"
+    },
+    "schema": "tender109"
+  },
+  "id": "46f92ddd3696509302f0fe7ed864581b",
+  "sign": "VNORBHZi8bmAOsI/GI3mmqj9D4xjOZnzhy9oBJjuEI8EO4dc9G9eh3UViR3iZlm2GLelb8YIS1gMW719OXcrAw"
+}

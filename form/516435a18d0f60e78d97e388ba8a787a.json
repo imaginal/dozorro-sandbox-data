@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T00:17:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "03c0e08aca1358733c59f470d1cd6129",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dsstepanov@gmail.com"
+        },
+        "name": "Dmitry Stepanov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Жахливо"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "19ce51a44623312a12d78b070e3190f6",
+  "sign": "13u5HCCXd0OiIcqcY+9JKUlWLSnEqkphicdDIUblr+Q4fzqMGPxUMov24SNXBD2jWVUYURFRRGTBQRXCvpzXBg"
+}

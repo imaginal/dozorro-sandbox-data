@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T11:28:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "39898792ccee5492d779dc9d1725d148",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "artkmin@gmail.com"
+        },
+        "name": "Art kamss"
+      },
+      "formData": {
+        "generalComment": "Замовник, \"ненавмисно\" оголосив процедуру недочикавшись рішення АМКУ за попередньою закупівлею Ідентифікатор : UA-2017-03-07-000481-a;\r\nКод ДК 021-2015 (CPV) 38500000-0 - Контрольно-випробувальна апаратура (Код ДК 021:2015 – Мікроскопи/Microscopes, 38510000-3 (Мікроскоп порівняльний для проведення балістичних та трасологічних експертиз))\r\nНові та нові вимоги, повторні оголошення та внесення змін - одним словом \"РЕФОРМА В ДІЇ\" ",
+        "generalScore": "1"
+      },
+      "tender": "8c3ea59668404888ae192108b7481f78"
+    },
+    "schema": "tender101"
+  },
+  "id": "add6969fad12ee6a59a2fee062c43456",
+  "sign": "QR9Rcf/t2yAGHvQZij/AXiEraJXXSP33SE0OHQE9Elh6j6MU9c1RooQYN0QfFtLrGTYXOVa3jVnoLwWCYKcsAw"
+}

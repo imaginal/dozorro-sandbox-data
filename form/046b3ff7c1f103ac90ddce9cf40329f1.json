@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-07T21:03:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0a2f97e74133ee884f2c6cfdbac5423f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tco666@gmail.com"
+        },
+        "name": "Aleksey Dobriakov"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "при предоставлении альтернативного товара да.",
+        "maxCompetition": "no",
+        "productQuality": "yes",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "ddbcca0812e74a30842fb043f669d24d"
+    },
+    "schema": "tender102"
+  },
+  "id": "2f96faac12f94abad9692709dcb6e666",
+  "sign": "lTNNl2VvR3AojubR49DdicSDlL/3xVbARNlx/bqNgw2Kh1rRbmiumEEwS8l8p36rJtAD2+yXiiGvUqLeHWmXBw"
+}

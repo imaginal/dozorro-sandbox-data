@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-29T21:06:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "877ce40311c21660860550be44e8c833",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alenuwka.k@gmail.com"
+        },
+        "name": "Alyona Knysh"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "Условия позволяют то, люди наши слишком жадные ... наворовать сначала - а на копейки закупать",
+        "maxCompetition": "no",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender102"
+  },
+  "id": "3a1aa385862fdc5eb9f06da4c828f78c",
+  "sign": "+kB2ZbCujqoLuA6tERS3PM+et8K6O07f9vzdaNpiKtCJ8P8J4K1yxzGru7V/QntskFTEl+aQldEU0q1i916kCQ"
+}

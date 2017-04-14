@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-31T14:24:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "83dbc9a1b089642c49b1f1ffb6c6ba04",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "medical.lutsk@gmail.com"
+        },
+        "name": "Василь Юзвак"
+      },
+      "formData": {
+        "lotsExpediency": "no"
+      },
+      "tender": "daf090400e8144b5bcca7768b06d061a"
+    },
+    "schema": "tender107"
+  },
+  "id": "51a2e742c56247c97d96c3b9f88369c8",
+  "sign": "2z996qpHzFRQ4fNDcAWSmOEYn7vgvAH5tVLX1x8dtQwcp5b7yB2GIyDC0zrFss8nZPzFoyfM+G6rcZYaqmnSBA"
+}

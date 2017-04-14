@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T20:58:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0b84fbdd053f86dbbcd6327860f821fe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "rusfunservis@gmail.com"
+        },
+        "name": "Ruslan Nedavniy"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "4191b6c7fd7971a13eb92312035eb751",
+  "sign": "ZnoTJyg7NFuro0FKaVjEukRLsCmaEj22UME1uQqWZot/V9DnEv+HORorwGnz8mwztqdf3juKFHssB0Muk1Y7AA"
+}

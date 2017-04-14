@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-14T15:47:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ec4299310fc593f3432eefd803225142",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yurist@mticket.com.ua"
+        },
+        "name": "Татьяна Порядченко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "З приводу цього учасник хоче подати скаргу на розгляд антимонопольного комітету України.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "З приводу дискваліфікації учасник Закупівлі хоче подати скаргу. Учасник нерезидент України. Знайти банківські реквізити для оплати збору за подання скарги наразі неможливо. Замовник виніс рішення щодо кваліфікації учасників 13.03 о 19:30. Період подачі оскарження встановив по 15-03-2017, 19:30. Допоможіть у вирішенні ситуації, що склалась."
+      },
+      "tender": "dee6fc01b06d4c9280a96b1ccf71cd49"
+    },
+    "schema": "tender111"
+  },
+  "id": "a5d4e32f7fe42f11c6df7cfd7cec72d8",
+  "sign": "vfHo5VIkzf3870V0gFNJvu0blQeV16UIWskK3SiK10XaB6CUz/bjXYx4k/N1KZrTSQhNZy9vu5bHHPHZDahxAw"
+}

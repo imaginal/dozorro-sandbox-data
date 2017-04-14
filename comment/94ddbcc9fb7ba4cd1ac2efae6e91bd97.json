@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-07T10:55:50+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Дмитро Кириченко"
+      },
+      "comment": "Що ви маєте на увазі \"Упереджене ставлення\" ?",
+      "parentForm": "50e7eaea5c8568c0dd7a7ba4772e34d5",
+      "tender": "fbaf875ed5ec4bd982560fb6132eb0c3"
+    },
+    "schema": "comment"
+  },
+  "id": "29a151c4d21890d9aaef5d3ff210b41b",
+  "sign": "bNwla8pSocQolepqPx5mpTWlc8yM7ycG79N6Nc64sDnE1IjGjCS81FiXyQn9+SejnsIUCWNhQKZDLeZue3OsDA"
+}

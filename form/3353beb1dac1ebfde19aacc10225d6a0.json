@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-27T01:51:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "71f0826d5557f55c413fe452f707d29b",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vadym.sichkar@gmail.com"
+        },
+        "name": "Vadym Sichkar"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Но, при этом, да же беглый анализ поданных документов показывает, что только \"ТОВ ЕНЕРГОДАРБУДМЕХАНІЗАЦІЯ\" правильно оформили всю необходимую документацию. Все 4 учасника подают документы в последний день, некоторые из них да же в последние минуты, что наводит на мысль, что компании играют роль подставных организай ради того, что бы состоялся тендер.\r\n\r\n\"ТОВ ЕНЕРГОДАРБУДМЕХАНІЗАЦІЯ\" ниразу не понижается, что котвенно может свидетельствовать, что участник знает, что остальные предложения дисквалифицируют по причине не верно оформленной документации. ",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender111"
+  },
+  "id": "340443c45d5636449c6f0aa60c9af95c",
+  "sign": "BlpZMdb6rj3HYTfe0WMsOFczJZhdg2sfVxmVPUFp1/hYyJ3/vcKuSAStwBOkOi0ulGGCehsmd29a+NKXY/65Aw"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-26T13:42:59+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4d8355e2de9b3a48bffb4745e8260de3",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "mishapernarovskiy@gmail.com"
+        },
+        "name": "Миша Пернаровский"
+      },
+      "comment": "\"Чи було дискваліфіковано...?\" - так. (помилково - \"ні\")",
+      "parentForm": "96089e1079829048ed5a0be9c437bac9",
+      "tender": "432786d2b45c4153bf7ea5448776269a"
+    },
+    "schema": "comment"
+  },
+  "id": "d426e48d5af15b4061a190834de5057a",
+  "sign": "y1Hy7ClCrEZej6GvYUsU14VI6xtwiQgNWQJn3z0wNk7xyZKAYjGqXRAxMXurfP9uDxmsoYsWkH4R/zfBZ54CBg"
+}

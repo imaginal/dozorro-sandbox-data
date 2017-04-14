@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-11T17:06:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Передбачено склад засобу та деякі специфічні речовини що не впливають на  якість застосування засобу ,проте обмежують учасників лише одного товару. Також Замовник висуває вимоги що є взаємовиключними або стосуються не якості а ТУ (принципів ) виробництва. Дивним виглядає вимога щодо наявності фільтра ,адже фільтр не захищає від проникнення мікроорганізмів і той де час дивно боятись що засіб який повинен дезінфікувати руки візьме і заразить їх бактерицидним зараженням."
+      },
+      "tender": "2e1f7adbc2bb4d05ae380a2311b68245"
+    },
+    "schema": "tender104"
+  },
+  "id": "45830b355904e4617056599c847d928e",
+  "sign": "amPyZamvoIJvJBaA+fVyxGsoAdkKRA6WYZmbx4WJ6aR9mTiO5aYYJYS6SZ6C+YcHy7+xddhgUuYgYG3LDin0BA"
+}

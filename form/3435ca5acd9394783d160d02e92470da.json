@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-02-08T09:02:57+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8188c2288120cb24ef5967a3a08885d2",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vshypik@gmail.com"
+        },
+        "name": "vladimir shypik"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no"
+      },
+      "tender": "420b0fa9b65b4931b3abe153b1415e32"
+    },
+    "schema": "tender104"
+  },
+  "id": "fcac22f1ef806246b64753831e0662e7",
+  "sign": "T5iJ64/9u+kXGBGFxEJMsynUPAtFMjI0HWZrP9Cyc9Ff4MOyuud2XKYb+SjcYk4hNp3r2tNjlvIPM9rxux5hBg"
+}

@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:00:05+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "023aa99cef244f2f60259d3f1543e2e8",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "borys.stepanenko99@gmail.com"
+        },
+        "name": "Borys Stepanenko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Исполнение так называемой реконструкции - кошмар. Где реставрация старой плитки?\r\nЧто за ужаснейшие новые материалы? Сложно представить худший вариант реконструкции. Настоящий вандализм, хотелось бы видеть наказание ответственных заказчиков и подрядчиков \r\n\r\n",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "14a5969499f0d7b00f90adb9466d56b1",
+  "sign": "ujIHgGeiWk7KZ55jDBdUcfTfxQbZyq0ATABSAJ1vWlEfSwZXJBvW6YUdj9Z+RiKY2kRKkO5r7RUp9SB3yqlrBw"
+}

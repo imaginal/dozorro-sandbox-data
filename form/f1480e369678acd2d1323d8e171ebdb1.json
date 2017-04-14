@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-03T12:45:42+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1ddba05ac866efa2348f2c8c49babfcc",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "anaida.svs@gmail.com"
+        },
+        "name": "Анаида Кабанец"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументація для дискваліфікації не відповідає умовам тендерної документації",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Переможець торгів ТОВ \"СВС-СЕРВІС\"  викладав документи   в тендерній пропозиції  у відповідності з умовами тендерної документації  III  розділ п.1 (стор.3-4). Той, хто написав це зауваження або зовсім не читал тендерну документацію, або робить цей наклип навмисно, щоб ввести громаду в оману. "
+      },
+      "tender": "27cd1cf6d2144a86a952167f7ae9db43"
+    },
+    "schema": "tender111"
+  },
+  "id": "b127c61c04ff28e2314ef95321fc2ed0",
+  "sign": "EPb+ANH80b9mdLOWdZZg8bLnuy61WxVpvve4UjR04jDHYFgVHAjgDnOI7oD1oMmCEqY10LsakNMSFejcSQD+BA"
+}

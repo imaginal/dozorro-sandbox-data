@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-02T21:07:01+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "28029dd5ddeaf7b49db9a2b5669d031b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ines.77@mail.ru"
+        },
+        "name": "Inna  Malina"
+      },
+      "comment": "По закону должны быть открытые торги, а заявлен тендер как допороговый. При единственном участнике таки Днепрводоканал заключает договор. С ума сойти.....",
+      "parentForm": "a2cf783cdd348a65058a83c2e1f47ec0",
+      "tender": "da4d884143e9472a890e7ba2766f89a6"
+    },
+    "schema": "comment"
+  },
+  "id": "7f5444f607d7d62b26a8a3212df9d8ca",
+  "sign": "Tplf+QaMvBZjxtuzEmw5iWis+HNbDSEvbLHy9bM5zSewgygp0DWef9GEOXESJvteAHF57nmdOgUuCAx7TTx6DQ"
+}

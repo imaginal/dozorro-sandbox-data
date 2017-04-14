@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-26T10:06:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7e01d27bcde55f78bf883e0b756b707c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shadejets@live.ru"
+        },
+        "name": "Vany  Voloshyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник надав обгрунтування відповідно до скарги ФОП Науменко, та відхилив учасників з невідповідністю. Проте в аукціоні UA-2017-01-16-000977-b де була скарга від іншого учасника на ФОП Науменко, цей же замовник не приділив уваги даному випадку.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник відхилив аж 6 учасників та визнав переможцем ФОП Науменко з найвищою ціною. Різниця з найнижчою ціновою пропозицією становить 70000 гривень.\r\nА з попередньою до ФОП Науменко 20000 грн."
+      },
+      "tender": "4fdec612ce1f4dabb24d1c9c25f05965"
+    },
+    "schema": "tender111"
+  },
+  "id": "79048f089fe4e586bbc357bceebd6f82",
+  "sign": "CyWjzNgahUEXgu5sdT+xeIovpwDguBEPudmpJfOpQMnUWImCy7diVfhwh2wHQWk9fgdJiwpz++xYxGYwz5BZAg"
+}

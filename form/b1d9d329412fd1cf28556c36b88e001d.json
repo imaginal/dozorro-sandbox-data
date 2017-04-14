@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T22:26:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "generalComment": "Тут вже писали три роки назад про власника переможця... http://nashigroshi.org/2014/05/10/kyjivenerho-rozihralo-9-miljoniv-na-teplovi-merezhi-mizh-ridnymy-firmamy/\r\nТепер зрозуміло, чому ховали цю закупівлю. Миють бабло",
+        "generalScore": "1"
+      },
+      "tender": "534360d9b92343aab7a9261bb514b2f3"
+    },
+    "schema": "tender101"
+  },
+  "id": "b4a70204ddc45c213f7ca8a7920d7c02",
+  "sign": "ubv2VTdyVRDOUq0L4ykUl8c81kxt9To8Q/GznkVelXgVJxbe6jmthmIw2iA/VUIZMbijtwqthPWCcmEcwr4fAA"
+}

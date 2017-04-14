@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-02-02T14:57:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8b8f9966cbf51f4800d92216343ade4f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ivanova.medeng@gmail.com"
+        },
+        "name": "Anna Ivanova"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "yes"
+      },
+      "tender": "b779562ec1934e508bb9253d92b47866"
+    },
+    "schema": "tender104"
+  },
+  "id": "9670a3e100589006846fc097e54e71de",
+  "sign": "L9DDy875lsEOkG/lWp/sX+hWIBZVimeh9agcgz1imPawx3Zs2aGe0+g4ZtyRMSMNdBK+Qi9hIDF3cDt4/a91DA"
+}

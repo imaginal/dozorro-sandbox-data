@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-23T13:24:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "624facd3a97a36401672722706564f8b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annsorokina@mail.ru"
+        },
+        "name": "Ann  Sorokina"
+      },
+      "formData": {
+        "cancellationLegitimacy": "yes",
+        "cancellationLegitimacyComment": "Протокол дисквалификации победителя аукциона  по данному тендеру был скорее надуманной бюрократической причиной для дисквалификации  , а не выбор по проведенному аукциону участников торгов  согласно основных критериев и самой идеей проведения  подобных аукционов  закупок для экономии бюджета предприятия."
+      },
+      "tender": "5b945d4b1be34e62b77139e23affa759"
+    },
+    "schema": "tender109"
+  },
+  "id": "7af3362845abe8da2d22a91de9454df0",
+  "sign": "AP8OOI0+EmML67r7/KkwvgTcMeI5l8ncnO3ZACTUvITtGYIoiwfuTYneA4N+uMa4I8nEvvY5Rz9UrfK4ZxUMAw"
+}

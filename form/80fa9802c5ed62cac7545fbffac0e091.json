@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-02T20:18:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "77015ec42d9d94f60e4edfd167ff059c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "promtexbud@gmail.com"
+        },
+        "name": "PromtehBud LTD"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no"
+      },
+      "tender": "c48c566aa75d469b9543867c88eb081d"
+    },
+    "schema": "tender102"
+  },
+  "id": "f5917ffd3e9cf4a96aaecbeb328726fe",
+  "sign": "zm2rKeKcaVSkFwcVBZd3V3U6GNlCge4v6kySeUAzeJxJYUMxuOSP+1p/s1ka2n/V2He5Mc1cEhN6TJikD1VQDA"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T17:36:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "83dbc9a1b089642c49b1f1ffb6c6ba04",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "medical.lutsk@gmail.com"
+        },
+        "name": "Василь Юзвак"
+      },
+      "formData": {
+        "generalComment": "Шановний Замовнику. Про який гарантійний лист йде мова? Підкажіть будь ласка де прописана вимога на рахунок гарантійного листа? Можливо Ви фінансово зацікавлені у перемозі учасника з найдорожчою пропозицією?",
+        "generalScore": "3"
+      },
+      "tender": "b5667c694f4345be8e7159fef691357a"
+    },
+    "schema": "tender101"
+  },
+  "id": "dff824a63806ec55a1101b6b53506eb2",
+  "sign": "rc1XLwFoHhy8AOSuuf9laQ2FgggzS7t/5AWF5t/Qm+6pMESM4F1670wqCVEe69Mdw+s2kyJZw5lS1UQvtmsCAw"
+}

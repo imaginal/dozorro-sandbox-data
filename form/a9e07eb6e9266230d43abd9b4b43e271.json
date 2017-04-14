@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-01-30T16:47:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ba135b26e0f81ec63737c581e2a67446",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kindrat2014@i.ua"
+        },
+        "name": "Kindrat Pidpilnyj"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "учасник 2 не надав достатньо документів."
+      },
+      "tender": "2eafcb53fccc4178b6cfa7638ed78515"
+    },
+    "schema": "tender111"
+  },
+  "id": "03977f2869b8df0eb05b7233328853d0",
+  "sign": "KwszQsRIjwAoYn6Jn88VnOV6CamW9OUnrzTDElY76u22wYYOIfEV8ZDc/REHwT4DhEiwoGOB/kwWubhaY+OLAA"
+}

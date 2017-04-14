@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-17T11:39:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afb2edf4275fb551fd316b805c82fcb1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "troyanskii.anton@mail.ru"
+        },
+        "name": "Антон Троянский"
+      },
+      "formData": {
+        "generalComment": "Оценка -0, Так как выграл тендер с вышой ценой, а мою с меньшей ценой завернули обратно, а  объяснению этим стало, то что я не подал им документы с своей стартовой ценой на вступления тендеру, и свои документы выписку и т.д. Естественно кто будет говорить с какой ценой он начнет воевать на тендере, и смешно то-что они зацепили мои документы, еслиб их у меня не было яб не смог участвовать через прозорро в тентере! ",
+        "generalScore": "1"
+      },
+      "tender": "fe5b7cd8358540de92d4eb1815cf8db1"
+    },
+    "schema": "tender101"
+  },
+  "id": "5cecfedb71087439f429298f7fd0bea9",
+  "sign": "LS32rID8s337BF1pF4VlV+9Jnwy/9kG302uJdPhFmbwLPmstU+DbIKQWxoMJpYbvhdXHmy4kRwtNMcfwsCuDCQ"
+}

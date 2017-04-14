@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T10:06:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Viacheslav Iolkin"
+      },
+      "formData": {
+        "generalComment": "Закупка отменена по непонятным причинам. Средства за участие, потерянное время не возвращены.",
+        "generalScore": "1"
+      },
+      "tender": "3873af7fcf264be6b19f61d3deee4c4f"
+    },
+    "schema": "tender101"
+  },
+  "id": "05439efa509243fbf180c2bb6094e4e1",
+  "sign": "SyDosyqYLwRSKXZZ4YwW86mo5xhjmVFhFN4TKYFmrb11Jd7K0iM1Ivbbnsl669VCnio9t5n45BYaRP/BxJCCAw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-26T17:14:17+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "554c3a231183c8a367c654216ef19336",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yozh.studio.lv@gmail.com"
+        },
+        "name": "Yozh Studio"
+      },
+      "formData": {
+        "generalComment": "Цена по итогам торгов оказалась слишком завышена.3379000\r\nв рознице этот же набор ПК стоит оклоло  2500000 а тут пришли 2 участника с почти одинаковыми условиями и ценами под потолок, без попыток поторговаться отстояли 3 раунда и все. распили миллион прибыли. Налицо как минимум сговор обеих участников торгов. ",
+        "generalScore": "1"
+      },
+      "tender": "a2296f88505d4d0b8fb8542d402dc0cb"
+    },
+    "schema": "tender101"
+  },
+  "id": "8f5389e2d9c1b9e7ee0859e2b7daa347",
+  "sign": "X/H5uh14RUmjcF9y1IKjiYD//RSr2f5V+QxNVueF0lkB4CmKAzCUS9eo3cSjXf56vm1lwd1zqtPIoUaztZ0KCg"
+}

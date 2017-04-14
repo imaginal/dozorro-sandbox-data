@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-22T11:37:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "34438146f1a0562470659b07a37fa4de",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "poretskov@gmail.com"
+        },
+        "name": "Anton Poretskov"
+      },
+      "formData": {
+        "generalComment": "Ви справді маєте наміри це розробляти?\r\n\r\n\"Основними цілями створення методики НЕПРЯМОЇ оцінки фінансово-економічного стану громадян є наступні:\r\n1. Покращення точності оцінки дохідної частини ДЕРЖАВНОГО БЮДЖЕТУ, що формується з ДОХОДІВ громадян;\r\n2. Визначення ТОЧНОГО об’єму соціальних виплат громадянам України з державного бюджету.\r\n\r\nПовідомте де і коли будуть проходити круглі столи? Журналісти вже хотять про те зняти сюжети.",
+        "generalScore": "1"
+      },
+      "tender": "7733fa73f2c94b65b80291be4bdd2c6b"
+    },
+    "schema": "tender101"
+  },
+  "id": "1a95cbbbbc83f1be29f7beac11e7d254",
+  "sign": "wBoAsmHt1H9aDpbNGXqwu5CLwAa0gMXYxu+5TgidiEn2pzGU9gLSyMKrlxNW/PMpRP5E0F/uBD6k5zr/w3eADg"
+}

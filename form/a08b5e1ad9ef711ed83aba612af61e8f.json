@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:35:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d60cf1771794ec7475f613f4e4d5a79f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "umtsani@rambler.ru"
+        },
+        "name": "Людмила Журбинская"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "Никто ничего более быстрого лучшего и эффективного предложить не сможет",
+        "maxCompetition": "yes",
+        "maxCompetitionComment": "Мои технологии пока непревзойденны и несколько десятков лет будут оставаться таковыми",
+        "productQuality": "yes",
+        "productQualityComment": "Даже пыль и мелкий сор будут убраны",
+        "qualitativeCriteria": "yes",
+        "qualitativeCriteriaComment": "Как только закроют мажора, удерживающего меня на своих экранах и доставят мне пару из его многочисленных аппаратур, я смогу показать все это в действии. Разочарованы не будете."
+      },
+      "tender": "a8ed5c3225c6424b8cf3e204cc74af00"
+    },
+    "schema": "tender102"
+  },
+  "id": "941549f2351109743b0cc9bff72735bf",
+  "sign": "M+PmV/0DuAsrM6CkW4yf9xIvlEqyX9zmGGXKbbp9+z7h5HkEZr09G093g0wMW2TMycQYfuCNduPkI7G4j2DpDQ"
+}

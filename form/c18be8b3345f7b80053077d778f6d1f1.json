@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-22T12:23:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "379ceafb3476e32de7a338d581d2f228",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "schev4uk.tatyana@yandex.ua"
+        },
+        "name": "Татьяна Шевчук"
+      },
+      "formData": {
+        "generalComment": "Ціна, Департаменту освіти та науки Хмельницької міської ради на закупівлю за предметом код ДК 021:2015 - 1510000-2 \"М’ясо\" (Філе кур охолоджене)\r\nє нижчою за ціну, яка склалася на теперішній час на ринку м. Вінниця та Вінницької області, ми готові прийняти участь у держзакупівлу, якщо будуть переглянуті умови закупівлі стосовно загальної суми. \r\n",
+        "generalScore": "1"
+      },
+      "tender": "5cd571aa3aa1496f89d29b258c7ba188"
+    },
+    "schema": "tender101"
+  },
+  "id": "d9a6d13a10159ea0e5d626323976a756",
+  "sign": "aRprYPDBmrA9YX2EHzDUEBrvEouZW2A8sxfpm0Y9vxk5lHH/kr58pGaBoyk+O5ALmPoZyeHO72eaOC5eHy8gBQ"
+}

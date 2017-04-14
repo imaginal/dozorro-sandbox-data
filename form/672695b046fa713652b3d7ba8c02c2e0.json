@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T11:59:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fda1f8396d389f0ac3d573ac0df82517",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "saintman.i@gmail.com"
+        },
+        "name": "Ivan Kralinski"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "совковый отстой! деньги украли"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "a2f46329164f204845f49bc234e18ead",
+  "sign": "+ar9/umFBGyoTdajzBH+qDgPSpiE36Qp3VjnD3osZMBIvvPq+0xdsFig7uJbmYPHqbK0LkrQpSGY5Lug/NkUBw"
+}

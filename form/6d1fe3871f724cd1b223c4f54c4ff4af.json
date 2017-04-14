@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-26T20:26:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "980cd9f40368b1b140cf85e8844f1a08",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "jsk93@mail.ua"
+        },
+        "name": "Татьяна Кориненко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Можно сказати, ні. Замовник вказав ні відсутність документів, які насправді завантажені у учасника.і ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовником діскваліфіковано найнижчу цінову пропозицію"
+      },
+      "tender": "3c3009c530b04b8ca8ac39bb525b0a87"
+    },
+    "schema": "tender111"
+  },
+  "id": "de35c6a7019027be37bffae29a7cf25d",
+  "sign": "5Szd1nqR1muFtRVzS5c0h0NdF5IM3jtDWAE9wR8Fc55dip/Y77VtifK1RXqsA7V+MvEC5J6IO5cTlwMWWDBLCQ"
+}

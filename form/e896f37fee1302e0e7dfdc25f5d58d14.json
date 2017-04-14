@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-03T02:28:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "588f73719b5e33a8fda3fa1817a315a7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "irkinbear@gmail.com"
+        },
+        "name": "Irina Monik"
+      },
+      "formData": {
+        "generalComment": "Змова та корупція!\r\n Замовник порушує Закон та  після першої скасованої процедури не проводить повторну процедуру закупівлі, а підписує прямий договір через 2 дні з одним із Учасником першої процедури - ФОП Фільченко О.Б. з максимальною суммою, яка закладена кошторисом - 61 252 UAH з ПДВ (UA-2016-10-26-000229-b )\r\n Ціна пропозиції ФОП Фільченко О.Б. за першою процедурою складала 31 500 UAH .",
+        "generalScore": "1"
+      },
+      "tender": "f8294c8785d6453dab92699c811fbffc"
+    },
+    "schema": "tender101"
+  },
+  "id": "38d24f18b11ecd93cddd96d864ee12e6",
+  "sign": "UBWLssekN+VfTLIubyQXohJj3mPw0Q7InVBeVfMAdddhPv15zOnabTb0J8m8nyjDrNjardkqONklwW6F52mICw"
+}

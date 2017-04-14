@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:36:16+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "454d8cf97ae96cb68883c8228c33a1a3",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "burningkarma93@gmail.com"
+        },
+        "name": "Nikita Dao"
+      },
+      "comment": "на лавку подсудимых подрядчика, а не переделывать",
+      "parentForm": "04e568ac9d39cb0e856f99c273d26350",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "8c95c968289619e6e8202397889f9ba1",
+  "sign": "S3l/F8ZFvmKVy1OAvKXmB+nREwY6U4MMpQ3bjzWK64kZaA4QsIkuDA3u/8ltqCQex15AGp0GS8Lujnrt57nXDA"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:34:46+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9ddb7f1c5d8dce0847d2bb87556260f4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "1276072@gmail.com"
+        },
+        "name": "Сергій К."
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Якщо замовник бажає не освоїти, а правильно витратити гроші ціна буде в два рази дешевшою."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender106"
+  },
+  "id": "9815ab2012c0ec606cce1ec892f6acaa",
+  "sign": "AZIA9wYUFVmVs/0GFK2tPR05lAvC1PX+KbIe45nkJ7vzDZ5Z5qJCz4tHqdoRG6lt7nUmZvnL1I2038RUOSSfDA"
+}

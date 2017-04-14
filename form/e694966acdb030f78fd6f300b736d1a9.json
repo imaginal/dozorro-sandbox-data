@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-01T14:11:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "035befb2e25841d366fba10bfd2fc796",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "bondar.yaroslav@gmail.com"
+        },
+        "name": "Ярослав Бондар"
+      },
+      "formData": {
+        "generalComment": "Переможець тендеру ТОВ \"ЕЛЕКТРОАДВОКАТ\" (код за ЄДРПОУ: 39391970) свідомо грав на суттєве пониження ціни пропозиції.\r\nПісля ж оголошення його переможцем, відмовився виконувати роботи, що були предметом закупівлі.\r\nЧим спричинив затягування строків виконання робіт більш, ніж на тиждень ",
+        "generalScore": "1"
+      },
+      "tender": "2237594273c549b18bf3aeea6695bddb"
+    },
+    "schema": "tender101"
+  },
+  "id": "eb4721045fabebc2591e637d263ec24b",
+  "sign": "RCvfzV4X0PwRdSz/CmeQPa8S306QcN8jt1d9T5LDysVJGqaVInNlcPJW/xpptbcqhdIuJxc2k50jGiIl9T+LCg"
+}

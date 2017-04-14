@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-03-19T14:43:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d1827ca9285efff7ce971a600a65b46e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "arenarental@ukr.net"
+        },
+        "name": "Konstantin  Titarenko"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Незрозуміло, що взагалі замовник хотів закупити.",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Непрозорий опис, реальні фірми-конкуренти не прийшли на торги.",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "2cd10259d01c44d7a55af489bb8ebdbc"
+    },
+    "schema": "tender102"
+  },
+  "id": "f1b051a9ea8c604afcf78fb2c3a46847",
+  "sign": "IXu07ShE936TPT146rptx/ph0KMXWagTNR/FUJscDWgdUzJ1psFkgccJdqvoBItXTertG2wC7D7b/dw6hHm1AA"
+}

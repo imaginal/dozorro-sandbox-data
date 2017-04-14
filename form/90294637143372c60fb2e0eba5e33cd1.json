@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-02T12:31:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9e37def4b6905d33e45e372785fc51b5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "carter13130@gmail.com"
+        },
+        "name": "Carter Vins"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник посилається на власний розсуд при прийнятті рішення без посилання на технічні вимоги ТД. Також наголошує про те що аукціони йому не потрібні!",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Безпідставна дискваліфікація перших чотирьох учасників за результатами аукціону"
+      },
+      "tender": "74e637ae98b2441d95d5199b998a2502"
+    },
+    "schema": "tender111"
+  },
+  "id": "59eae2f99e4519e3ce131e0eb304745b",
+  "sign": "TQxpogHmRF/sBwYgBQEaw7euEifnCTtNNfm6dxbYkKt3xkP/oq2nH5Ei6ULYNTa1BOrWdXqI0sda5/F8rDu0BQ"
+}

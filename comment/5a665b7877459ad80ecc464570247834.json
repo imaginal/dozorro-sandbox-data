@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-02-06T09:14:26+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "84a023d0f2cf9a979979a03d91747b7d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tsiganenko@gmail.com"
+        },
+        "name": "Виталий Цыганенко"
+      },
+      "comment": "Інформація відображається некоректно. На друге запитання \"Чи було достатньо аргументовано дискваліфікацію?\" була написана відповідь, яка на сайті відображається в повторенні запитання \"Чи було дискваліфіковано найнижчу цінову пропозицію?\"",
+      "parentForm": "bde8e593a2ba18781cd24280404c5d0e",
+      "tender": "2c2cf0f0d4bc4e3ba23be91a0340e5bd"
+    },
+    "schema": "comment"
+  },
+  "id": "b29445959a3ea15381df4515669cf5d6",
+  "sign": "4d9n1Pv0gMtfybXMI3GTJFsXb3wfooHZ1C/GkQzFH2qHmPlINt7uHhnCIQxN8bdzg5wC+qZxC4a1meUxXTEVAg"
+}

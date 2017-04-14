@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T16:28:34+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c989c445332e9ef67fe07fc9329366aa",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lanusya@list.ru"
+        },
+        "name": "Svetlana  Kirilash"
+      },
+      "comment": "Оце так зробили ремонт! Такої халтури давно не бачила. Ганьба!",
+      "parentForm": "d1ae331beb08f76bb57d73c4db73ae0c",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "bdadf4b24cec8cf7d81b5852c5a3d134",
+  "sign": "ibz2JOxTnP9fCOsnWW+MMLEcJ7YEoENB09y1epw4BSQZITIqoJwVEtiQd8bGE+4GFiEAWFwCrDCKVAllyN4ADw"
+}

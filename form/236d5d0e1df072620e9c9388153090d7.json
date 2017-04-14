@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T07:29:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Явна змова оранізатора з учасником.\r\nUA-2017-01-20-001091-a ТОВ «АЛЬЯНС ЕВОЛЮШН (тендерна пропозиція підсутня, ціна не вказана)\r\nUA-2017-02-13-001271-c ТОВ «АЛЬЯНС ЕВОЛЮШН(тендерна пропозиція підсутня, ціна не вказана)\r\nUA-2017-03-30-000440-c закупівля у ТОВ «АЛЬЯНС ЕВОЛЮШН (договір відсутній, ціна за одиницю не вказана). Цікавим є те, що організатором оприлюднено протокол переговорної процедури Гусятинського коледжу Трнопільського універси\r\n\r\n",
+        "generalScore": "1"
+      },
+      "tender": "4cca86e6c488494ea80046ddca702c9f"
+    },
+    "schema": "tender101"
+  },
+  "id": "4354a10c84ce0741958da6fc684d8b17",
+  "sign": "nrnuMw/I+61CqCaJy+OsyO3FjwAa1b8xomIst3IMXVlpmajPf+fJ/OMaV2jSQiWdcG9cg00LjzYb5VKyYOk5CQ"
+}

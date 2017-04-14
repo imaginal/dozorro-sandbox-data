@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-11T16:52:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "stoikiv.ars@gmail.com"
+        },
+        "name": "Петро Стойків"
+      },
+      "formData": {
+        "generalComment": "Закупівля була відмінена після закінчення терміну подачі пропозицій, коли коли Учасник і пропозиція були оприлюднені.",
+        "generalScore": "1"
+      },
+      "tender": "5a74ff5b53524179884e04180aed1709"
+    },
+    "schema": "tender101"
+  },
+  "id": "08b15e7b22d221f88d86da498a65b3b7",
+  "sign": "qn6DmPTkFZzyUC+qJxV9j+Esso2PHDSYIWTExxRd+Z+ivjKoLYtHgi2ni1g1yXIkmLU6gTDNEqClpKCIhQlfCg"
+}

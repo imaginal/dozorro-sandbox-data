@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:36:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fe88240c94d9a4f6fe4a0090e3f8299c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alexjnewman@icloud.com"
+        },
+        "name": "Alex Ponomarenko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "- Вы идиоты советского пережитка! \r\n- Если гвоздь в стенку не забивается вы будете бить по нему ещё сильнее, вместо того чтоб найти новое место.  Главное что нужно понять вашему маленькому хитрому мозгу нужен ли там этот гвоздь вообще?!\r\n- Украине нужно гражданское общество которое будет контролировать эту массу чиновничьих уровней советского бюрократизма. \r\nP.S. Стыд и позор в целом нечего добавить. 1.000.000$ - в никуда.  Пока не будет того самого гражданского общества, не будет сдвига с места.",
+        "purchaserInteractionProblems": [
+          "termsFailure",
+          "goodsReceipt"
+        ],
+        "purchaserInteractionProblemsComment": "Не знаю. Никто не посвящал в подробности. "
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "0dadca48c41caba1ae0b5e99f3dc913d",
+  "sign": "XDh+5+6jmihmdin4OUNh8N6zmURDqdlZAWiB4vC9xRdJd1ak1xzMfRd7hmr9AyWPUFFM6+FCiWYQ1KmFOZciDQ"
+}

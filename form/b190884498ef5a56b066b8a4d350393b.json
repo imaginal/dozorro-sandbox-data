@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-25T07:31:57+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4f8fdf6fdaab4b653bfd13aea71ec656",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sergeykdw@gmail.com"
+        },
+        "name": "Сергей Ивченко"
+      },
+      "formData": {
+        "generalComment": "Доброго дня. Умови закупівлі послуг абсолютно непрозорі.  Як проводился тендер - не зрозуміло. \r\nФирма, з якою підписана угода, вже виконувала такоий же обсяг робіт, можливо не один раз, та тако ж абсолютно непрозоро обиралася. \r\n\r\nhttps://www.facebook.com/photo.php?fbid=819735878085151&set=a.413651922026884.94848.100001462392656&type=1&comment_id=820181071373965&offset=0&total_comments=23\r\n\r\nhttp://www.vikno.com.ua/altfm/viewtopic.php?p=162667\r\n\r\nПрохання надати відповідь з посиланням на офиційно проведений збір конкурентних пропозицій та публікацію про оголошення тендерної закупівлі ",
+        "generalScore": "1"
+      },
+      "tender": "6560b3c59b6f40d490c563839581aeba"
+    },
+    "schema": "tender101"
+  },
+  "id": "e36038a990a06938c5785bc0def87667",
+  "sign": "DeR7HG8kBJooGdzFlFyVfIN0rE8BC1MSqbf1i8VqTVc1BnRk8B+jwIDmbBB9lHuabhwlq0k53pnZOLuLTKK7CA"
+}

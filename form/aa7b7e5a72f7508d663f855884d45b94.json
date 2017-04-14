@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-28T23:01:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6c5078d81d1d46b572ea3d15486499bc",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sericland@gmail.com"
+        },
+        "name": "sergey Lysokobylka"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "131cf7375f9aab5dee13ebe27e9a5a05",
+  "sign": "FL9wk6R4XWIdAus8csC+4ur39poQwsy0y0wxY9JOGE9suXRdrcteDPS+slziCy9K/uR3J9cHaDagx30lgLiEDQ"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:27:56+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "12facc8564297975f141dcc45a39d3b5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vasya.kutsyk@gmail.com"
+        },
+        "name": "Vasyl Kutsyk"
+      },
+      "comment": "Жихливо виконан робота за таку високу ціну.",
+      "parentForm": "dea8f49057d6173ee72b301f60321e11",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "4456e34b47deee2631d0803f24df6791",
+  "sign": "sBCOWxb7a90AsLz5xWoachTxBaa3YazzT9wEYaF2WCjY/gznQwvs9RgHjfIabNWhXS1BjlcetwYVKCra++j6Cg"
+}

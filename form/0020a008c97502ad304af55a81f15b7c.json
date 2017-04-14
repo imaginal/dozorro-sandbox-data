@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:34:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a1e840a73151f1d486c688fbf27d7ca5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "volodymyr.martynyuk@gmail.com"
+        },
+        "name": "Владимир Мартынюк"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Сором і ганьба!\r\nЯскравий приклад того, як за місяціь-півтора можна відмити мільйон доларів."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "6bdd49440ebc28d9909b4249de444535",
+  "sign": "VvZuq5nhultj/spHY5FFKt20HIQhtOvSk/ysAwhRBdwPUu/THAXipWuZVxvdJk3EfAVBZiGWY7MYtQ2/uz+PCA"
+}

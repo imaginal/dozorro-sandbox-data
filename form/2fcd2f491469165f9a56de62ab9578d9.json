@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-29T13:00:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "91b0036963614f580a600851a83fa1c9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kozak67kozak@gmail.com"
+        },
+        "name": "Андрей Москаленко"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Не зазначена можливість поставки аналогів вітчизняного виробництва. Вказано трубу конкретного виробника.",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Торги прописані під конкретну продукцію конкретного виробника"
+      },
+      "tender": "deeab895270947758acabc741fb937b6"
+    },
+    "schema": "tender102"
+  },
+  "id": "63b96b4a76f570667794d02d4613dcab",
+  "sign": "8S5BXeTy2A83tJ0iBQg5ABGEw1b6HcdBiKAnHJbsVYkXwb7t/ePeWE/hFhG8uHtE8qYpUM3DLSRfSbD35jm3Aw"
+}

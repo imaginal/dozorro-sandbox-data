@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-20T13:53:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4aec8987b8d6486d9f697df48617e990",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vadym.st@gmail.com"
+        },
+        "name": "Vadym Stadnyk"
+      },
+      "formData": {
+        "generalComment": "в умовах закупівлі є пункт: \"техніка, яка не була в єксплуатації\". Зазвичай це вимога до процесу постачання, але в даному випадку замовник дискваліфіковує учасника який оуремою довідкою не пообіцяв поставити нову техніку",
+        "generalScore": "3"
+      },
+      "tender": "9cffce64919d40fb900bbb337da797f7"
+    },
+    "schema": "tender101"
+  },
+  "id": "947fcf82ae68b41f459ac97e33bc20d1",
+  "sign": "csRv9PWzlXdU0QWxM9yDAsOdjWlu0DtKpkuMhmYiH1hgUydUwQH/LN4niMt2uPSkRLaubuWqee0LKypNMtTjBA"
+}

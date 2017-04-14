@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-04T16:41:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "43d0e21e82c217d3e8ed02b5f783b150",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ark19780401@gmail.com"
+        },
+        "name": "Андрій Кусень"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "перевага була створена учаснику - ФОП ШКЛЯР ВОЛОДИМИР ВАСИЛЬОВИЧ, який звернувся зі скаргою, на переможця"
+      },
+      "tender": "8040f72e02c74fd0b17d8fc1c76abf51"
+    },
+    "schema": "tender103"
+  },
+  "id": "7c4297206091f40bb1db9e20ee3f27e9",
+  "sign": "JUTM6onuap6q3HbFvsm3idNiRfj/VAtCCJfLMT/fJUQ+3kFaDHhZHmtRTSFHxTA/UpayaFiBTwcNdtR8+SPEBA"
+}

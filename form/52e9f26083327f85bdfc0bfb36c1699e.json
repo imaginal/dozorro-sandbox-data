@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:06:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3e08dedbf501c7fd51c43ed175c2b8d3",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grecha2208@yandex.ru"
+        },
+        "name": "Marina  Grechuhina"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Дискримінація полягає у тому, що якщо ви не пропонуєте продукцію ТОВ \"Фірма Фавор\", ви не можете прийняти участь у закупівлі. Вказане забезпечується тим, що необхідно надати ще й гарантійний лист від Виробника, яку, звісно, даний виробник Вам не надасть, оскільки сам прийматиме участь в цьому тендері"
+      },
+      "tender": "afab81ceeabc4fc69dbb2690b1d8405c"
+    },
+    "schema": "tender103"
+  },
+  "id": "3bc7e4dfdb9ba5f3dda64da206e72458",
+  "sign": "+5kIz7FBiDFxD1uGbF/HYFFOvMSn1qCsgCgHJ8pQfbGN+mSMkbFn0xKANn8JxVgE8SpIvz+yBi7gDe55FhD0Dg"
+}

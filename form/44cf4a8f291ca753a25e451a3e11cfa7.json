@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-01T18:38:40+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3eaf3f1693d69c3923627e44b7827a0f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "igorponomar@gmail.com"
+        },
+        "name": "Igor Ponomarenko"
+      },
+      "formData": {
+        "generalComment": "Замовник необгрунотвано відхилив кращю цінову пропозицію.",
+        "generalScore": "1"
+      },
+      "tender": "d570378a4ae84764a5e160dfc64b792e"
+    },
+    "schema": "tender101"
+  },
+  "id": "106b65f39d59bffddcb7e316bed44444",
+  "sign": "+kLvL4Ut3l2bhVwSp7SFvdvmxvJEjWrjD+oMaGDNzLGD489E2S6jirP0dDyCnLo69mKZJO0VltN0tGnUkR2vAw"
+}

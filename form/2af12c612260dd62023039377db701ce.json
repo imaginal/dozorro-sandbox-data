@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-01-30T21:01:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Хоч дискваліфіковано пропозицію фырми ,яка є моїм прямим конкурентом ,я не можу промовчати: Економія що запропонували вони - це просто фантастика! 60 % !!! І при цьому замовник відмовляє на основі грубих аргументів які не мають нічого спільного з медичною аргументацією та не впливають на жодні медичні чинники використання засобів. Дуже прошу звернути увагу на цю закупівлю ,так як втрати держави очевидні."
+      },
+      "tender": "0cdff9e299b04060a37387094df25b9e"
+    },
+    "schema": "tender111"
+  },
+  "id": "52d05d2e2f7fa032c33857f9a637c244",
+  "sign": "ir7JMtURMZtz7TkvpFsrFuFAHHM66FXuuJOebpBnLAnRtJKBvvcl4+rULMToh/0XFvisEBfBVt7AaGCy8Q9XCg"
+}

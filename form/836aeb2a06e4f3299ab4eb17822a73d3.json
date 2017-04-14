@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T10:32:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a8a9fd06933d5aa753534786a7014972",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "boykoolgaleonidov@gmail.com"
+        },
+        "name": "Olga Pr"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Інших пропозицій не було"
+      },
+      "tender": "c372a7a80fe44e778b11b85f684a4ea5"
+    },
+    "schema": "tender111"
+  },
+  "id": "dfd7cdd7ff9173b1f6a957c7826f5a77",
+  "sign": "dwYkaGEOPoptLun2iJzhYPVXBWFJfcTQd9EjhE6srqt+NoV98W0SNQdz3EluzdqsFxeEOc/SHek9N3mee01nBg"
+}

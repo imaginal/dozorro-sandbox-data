@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-27T11:13:29+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5e23b87b3be1fc10f990d0349f862084",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "viproltd@gmail.com"
+        },
+        "name": "Компанія Віпро"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "ТАК, дуже вичерпана, АЛЕ кожен пункт можна оскаржити.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Всі, крім останього - найгіршої ціни"
+      },
+      "tender": "1ce03df8bf06494187d438802c3a8370"
+    },
+    "schema": "tender111"
+  },
+  "id": "b066a0792051e55d9fcbfc835bad10fd",
+  "sign": "CSk4jpyLicomtdw4+xFz+G++nPNrT4rXfoMZQfdVnvjSk4NgrvBe7F8/TxCDoCQu84+Mp1BF69A0lVv6TWvyDw"
+}

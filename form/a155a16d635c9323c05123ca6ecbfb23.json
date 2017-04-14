@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-29T19:54:17+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6596012ba13700873de459808bd9326a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "normagrease@gmail.com"
+        },
+        "name": "Петро Норман"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "e1824264ee2e43a497de4808b2cde73c"
+    },
+    "schema": "tender102"
+  },
+  "id": "ec6aa13a50e4df737619ad30b5d0bc77",
+  "sign": "xJvv2R5bVyS0bhAOZkRyJpX2VqXZACqn1fdsMCEUDldI2FZ48tp18Tf/0bI0+GlA3kfIkUfDMS+X8Q2PQsAzDQ"
+}

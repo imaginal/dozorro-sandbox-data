@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-27T12:26:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b018c9466c703a3beafe5c8039edc643",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sec.a.kgb@gmail.com"
+        },
+        "name": "КГБ Охоронна Агенція"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник дискваліфікував учасника, без жодого обгрунтування."
+      },
+      "tender": "e3d8ce22775248b190e98e8f6220954b"
+    },
+    "schema": "tender111"
+  },
+  "id": "02c11c332feb47941d093d8f1208c469",
+  "sign": "jOEejw9tqD+06OYs0CopNEP/pq8XI7cnYcLE3DjhkdGU3eF1A+ioRstFs/iUA0Fr5CphAZLo6U0WkMSZYXF3Dg"
+}

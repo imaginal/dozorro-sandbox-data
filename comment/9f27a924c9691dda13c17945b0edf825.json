@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-22T12:46:26+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "db807aaa220229dffeac5b4ced36d98c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "nezhibovska@rambler.ru"
+        },
+        "name": "Татьяна Нежибовская"
+      },
+      "comment": "Чи була наведена аргументація для дискваліфікації достатньою та обґрунтованою?\r\n-Ні !",
+      "parentForm": "4c9dfcba231656282fa7dc129a56b9c2",
+      "tender": "cd99e363b17145e282af120daf3b3a04"
+    },
+    "schema": "comment"
+  },
+  "id": "39840a56ae388cb7a0cfa8bbb8d1d3f2",
+  "sign": "BiqnJNBCBiPbE94y3dYyifkNPXCLPTM/xInb/IZ4xwNb+QKKrsxnOm92ubn/4MMdp01zTb4DjFE18CgOgljsBQ"
+}

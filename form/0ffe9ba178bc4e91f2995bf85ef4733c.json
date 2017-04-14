@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-02T15:44:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "72850da9ebf2423338ef472408104087",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "oaristova73@gmail.com"
+        },
+        "name": "Оксана Аристова"
+      },
+      "formData": {
+        "generalComment": "КЗ \"Пологовий будинок\" №4 м.Запоріжжя провів 8 (вісім) тендерів по закупівлі медичних меблів, в 2 тендерах где дисквалифікували ФОП Ситнік були дискваліфіковані всі участникі. І торги не відбулися, хоч усі документи в наявності. Складается враження що переможець або Ситник, або ни хто.",
+        "generalScore": "1"
+      },
+      "tender": "f10b63fc623a4c4ca3f34c033ef26089"
+    },
+    "schema": "tender101"
+  },
+  "id": "8f04cfd170b8f8a8013b614968440c08",
+  "sign": "EHPFx4oat9Hov9IhOhNby+phLxuuFgIOMPUK6fa9OfCh0wwvXtoLe9PZ2aBAcLra8zkmTNtpxPcQZSKCSUO5DQ"
+}

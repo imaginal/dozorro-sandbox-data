@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-10T14:39:34+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5511a3ec5fb65e9b16f2b9d3ea72d62c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "paindemonn@gmail.com"
+        },
+        "name": "Богдан Півень"
+      },
+      "comment": "Доброго Вам дня. А дивилися ви що це саме таке ??",
+      "parentForm": "7da1071115fc1121b208e851c35230c9",
+      "tender": "f5394728fb664af48c0b9e0f7c85a467"
+    },
+    "schema": "comment"
+  },
+  "id": "2bdba18d18454812bbe58aa12e1216d8",
+  "sign": "xsAaPuw3uNUadaf7PsZQh/x9IlMVPgicpfHyAfOqFxs/18mqFOs1SsleDCL4xFGxA6LTgj73z9Wv06OsWqpQBQ"
+}

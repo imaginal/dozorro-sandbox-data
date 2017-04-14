@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:15:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "cb1f24dce5fa364460b608049f51cc10",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "istagroup75@gmail.com"
+        },
+        "name": "Иста Групп"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "974a44597759449c888f04d941b6378f"
+    },
+    "schema": "tender111"
+  },
+  "id": "9afe1d4681d273cea885672457146ada",
+  "sign": "XCqeLrU3DzliEHYfmAlVlTYA5XCsTrNd+0h3elhfV3N/GPrOcT2Tb91T2o/P4nJInKArPlnMQSPYGDyS2w7SCg"
+}

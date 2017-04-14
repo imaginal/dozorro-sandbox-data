@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T17:47:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "87c5394084ea70f93d38a2e159847e76",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "a.v.polivanyy@gmail.com"
+        },
+        "name": "Aleksey  Polivanyy"
+      },
+      "formData": {
+        "generalComment": "В умовах закупівлі нічого не сказано про передачу прав власності на ПО веб сайту НБУ, самому НБУ. \r\nТобто ПО змінило правовласника, а НБУ повино оплачувати ролті.",
+        "generalScore": "1"
+      },
+      "tender": "ebd39759e80843bc9be89ecc2d0450a7"
+    },
+    "schema": "tender101"
+  },
+  "id": "bce3ac407fe7568f6d531b8e69382645",
+  "sign": "Lnrpd/YTdDURlmdbodvVYG1jGwMIpJLu3Hcx1ZJrBfnJD/HGmdrMVjQSfj/tVenrUaApKDAEATFom5Qs/dPRDw"
+}

@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-21T14:08:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "84a29b960edcde3a6ab0acfa7a6bbbfd",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "fatum_in_life@ukr.net"
+        },
+        "name": "Kurta  Alexey"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Ми, ТОВ \"ХАЦЕНТР\", що брали участь у цій закупівлі надали свою пропозицию. Виконали усі умови, вказані в закупівлі. Замовник безпідставно відхилив нашу пропозицию. Нами одразу було написана скарга, потім іще одна. На жодну зі скарг Замовник не відповів та не аргументував своє рішення. Резолюції, що надійшли від комісії Прозоро повністю згодні з нашими скаргами та рекомендували замовнику визнати нас переможцем. На це Замовник ніяк не відреагував та швидко підписав договір з ФОП Островський, хоча його пропозиція не повністю відповідала кваліфікаційним критеріям, та були вища по ціні. Усі недоліки пропозициї ФОП Островський нами було викладено у скарзі."
+      },
+      "tender": "d05942a5102645678a89359a4370e51f"
+    },
+    "schema": "tender111"
+  },
+  "id": "44928b9df3c3b423bd1852b340141e3e",
+  "sign": "vm6uPqImR8GEB+o3MCfxME+zy/4TkEkDpb07pvJXRYGZrlqe1YuPNkZ7tKhxLKzZrGy4UHHVxa7dAxoqJ5ZDCQ"
+}

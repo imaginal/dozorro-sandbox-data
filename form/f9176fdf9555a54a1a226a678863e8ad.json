@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2017-02-16T09:54:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "81d9da03ed087865dbdae52110c9874c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@ozone-music.com.ua"
+        },
+        "name": "Maksym Tereshchenko"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Данное тендерное предложение не позволяет приобрести услуги за оптимальную цену, так как марки оборудования четко прописаны в документе.",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "productQualityComment": "Не понятно техническое задание, даты предоставления услуг. Задачи.",
+        "qualitativeCriteria": "no",
+        "qualitativeCriteriaComment": "Процедура оценки качественных критериев предмета закупки не предполагает проверку технического состояния оборудования."
+      },
+      "tender": "9a231532754d490080fd5f7fb4738b1e"
+    },
+    "schema": "tender102"
+  },
+  "id": "b28c9df993d3956509644e83a539d86c",
+  "sign": "KpuavW4P6c977lQt6x8CbV6OFxNVdigNZl8vVQ/8shoMUurg+7kMkyiIfUcw/vJWZPGWoZ3+90g2/YTqnoA0BQ"
+}

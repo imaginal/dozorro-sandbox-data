@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-03T05:40:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "f3ab26c780bc4af7bfa3a2dd6531a0bc"
+    },
+    "schema": "tender102"
+  },
+  "id": "1c71dc5e2731544a95367cf71f7121df",
+  "sign": "pboRmZoY3iL8Re+LmjcTh/ezzerFhWeKbeW3MuVGkxNUd4sMzt7zI3E+T9Aq5mduvJgU6hKAgVq7H2IdxdtpAw"
+}

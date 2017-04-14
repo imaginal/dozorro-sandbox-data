@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-31T10:25:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5949505130803860a482547095b93236",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "steb993@gmail.com"
+        },
+        "name": "Богдан Столбовой"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Очень жаль, что ошибка в документации, приводит к тому что с Гос. бюджета будет заплачено на 140 000 грн. больше за аналогичный товар...\r\n"
+      },
+      "tender": "44ef0f04a68e481ba4fb73e2582caec4"
+    },
+    "schema": "tender111"
+  },
+  "id": "771b56e354c1cda52d8e451c5b833a5e",
+  "sign": "CJPIBTbI92wT1XPDEipGKvsPgcFg37AumjIEjQQCzK+h3mZ5HMJeH9wB8dK3vkEP25py1e2OOTqgktYVZVaSAQ"
+}

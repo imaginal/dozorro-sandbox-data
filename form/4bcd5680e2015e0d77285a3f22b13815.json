@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T17:57:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3bee52ca6084b38759485cb7e9fe7680",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "galelza@rambler.ru"
+        },
+        "name": "Наталья Иванова"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "З документації видно, що учасники - повязані між собою особи. У першої учасниці документи взагалі відсутні, у другої - не всі позиції мають сертифікати якості. Як висновок - аукціон договірний."
+      },
+      "tender": "f35b44ed6f504c5eb963e21088dedb7c"
+    },
+    "schema": "tender111"
+  },
+  "id": "2bb0ce1ccd1897a6779846ccdea164f9",
+  "sign": "83W32SM4elfgbloboAKMNIR3SrL/qZezyrhAxiFp515sSG1aflSLplwDj+dxWEaOQ9rdTwBWl57U0IuqthgUBQ"
+}

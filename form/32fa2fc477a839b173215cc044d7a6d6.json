@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-30T13:30:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fef9c459bfa465edfb1c515fae1a4c55",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "karapetyan.gurgen@gmail.com"
+        },
+        "name": "Gurgen Karapetyan"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Совмещение в одном лоте наркотических средств и средств для наркоза является не рациональным и не оправданным. Потенциально такое сочетание увеличит стоимость препаратов для наркоза не менее, чем на 10% по сравнению с закупкой, которая может быть проведена отдельными лотами (расчет проведен согласно действующему законодательству - постановления КМУ № 955 и 333)",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "См выше"
+      },
+      "tender": "440fa737e93c45aa866fb42bb7b66f84"
+    },
+    "schema": "tender102"
+  },
+  "id": "11627b5e888f49d8731547415c784d11",
+  "sign": "OgmTLOjHe/Ow71t1DrMUFypJIqfPUIQjXD47CVrA+LoDWhsmCLAVZWy0mYe0iNCd7h/ZkG2JRHLH8qj0taSCDw"
+}

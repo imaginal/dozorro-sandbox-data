@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:55:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3b176cf38225ec3bf1aefe13a06cfab7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "donkrim111@gmail.com"
+        },
+        "name": "Дон Прайм Уголь"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Тендерним комітетом Замовника взагалі не визначено та не встановлено саме за яким пунктом вимог тендерної документації  наша пропозиція є невідповідною та на підставі чого відмовлено у намірі на укладання договору",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "e7efb397b52747ddb7579534abde132b"
+    },
+    "schema": "tender111"
+  },
+  "id": "13da1daeb01eaa9cff675c0b433b55c5",
+  "sign": "Zwr3R7ORiD9VmMXsOUvXy9IFow9HlxWFdPlf8y0PmpUnXLhyVIfSF7cAMXGMVwwblJemFed9Po1T8HCz3yO5BQ"
+}

@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-15T09:33:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "86ea4a4ab88b1dc6ee7363a6e8272d27",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "liberty.andrei@gmail.com"
+        },
+        "name": "Андрей Андрей"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Характеристики являются аналогом того что было в тех задании",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "ТОВ \"АКМЕ-Трейдинг\" было дисквалифицировано по причине того что как нам сказали по телефону, непонятно кто потому как не представились, \"То что предложили мог купить у себя на рынке\" на вопрос зачем нужно был тогда вообще заводиться с закупкой ответить не смогли"
+      },
+      "tender": "88c2419217bd4122880e2d8f04435d6d"
+    },
+    "schema": "tender111"
+  },
+  "id": "e978e3fc4861da39fecd3ad558a5dad1",
+  "sign": "sJI7yHguYQFh7xnL7HkoN+ENZ/ojfLixiECZMjyTv4fzGKP2dQUF76v9EsiYHMpXJ3FGtKfq4tGBBOtpsLSOAA"
+}

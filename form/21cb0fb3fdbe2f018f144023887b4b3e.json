@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:04:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9de6549dbf7b3ee9566e039425b07c36",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sylavsali@gmail.com"
+        },
+        "name": "Александр Вист"
+      },
+      "formData": {
+        "correctClassifiersCodes": "no"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender105"
+  },
+  "id": "b29112ae1bbc837699355527c834bdf8",
+  "sign": "yvbdqmmvGMuMY4J7PC3eef8VCBUOX0GOpDgQyW53ojZx+UIFjIV2z98l0ZUzvOCx2mUhxF9ozWO2QoU3IIYbAA"
+}

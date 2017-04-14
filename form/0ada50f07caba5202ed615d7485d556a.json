@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T08:02:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8be9c52f549fa60ae0fedf33aced36bd",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "menia.zdes.net@gmail.com"
+        },
+        "name": "Volodymyr Volkov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Хол метро Лівобережна - невимушений стиль \"та нормально\"\r\n"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "09f8ee839baa46d02106396747b0e8bf",
+  "sign": "8nQVAfWXGpyOiMlmHfSunOus2dcP5gIFvnEKiFYDPlF7Jv+Yi/sV5vjsFvZDDW/NexxlSEOrwGQKOdt2kdqYDg"
+}

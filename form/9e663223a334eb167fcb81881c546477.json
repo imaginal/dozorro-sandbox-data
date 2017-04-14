@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-11T21:45:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c6f6ece83d1339d59a5024fd660fd3fd",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "rouge_alex@yahoo.com"
+        },
+        "name": "Oleksandra Marchenko"
+      },
+      "formData": {
+        "generalComment": "1) На чому базується \"Очікувана ціна\" (127125)? \r\nЯкщо взяти для розрахунку роздрібну ціну цих товарів із першого-ліпшого інтернет магазину - то очікувана ціна виходить 119650.\r\nhttp://dezmedtex.com.ua/p5470831-sanidez-500-tabl.html\r\nhttps://www.3d-farm.com.ua/product/%D1%81%D0%B5%D0%BF%D1%82%D0%BE%D0%B4%D0%BE%D1%80-%D1%84%D0%BE%D1%80%D1%82%D0%B5/\r\n2) Тендерна документація наявна лише у форматі .p7s який звісно не може відкрити ніхто, окрім отримувача цього імейлу. Тобто переглянути немає можливості.",
+        "generalScore": "2"
+      },
+      "tender": "82e6b3eea5264c37b997fb76340add4c"
+    },
+    "schema": "tender101"
+  },
+  "id": "abfb932fbf89249e33338ee8a28ca52e",
+  "sign": "gv3FyS3vBn5RZEbPSkZThLlxXHbq7aw4f/giRnCdBq4smOzHD2noZNv0RmRty4iI3OvNZkyt82HNylyLsqoOAg"
+}

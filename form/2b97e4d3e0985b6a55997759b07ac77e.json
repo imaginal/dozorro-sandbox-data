@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-06T10:24:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "21fa0ded651d701132056bf8e27529a2",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "maksymmobile@gmail.com"
+        },
+        "name": "maksym tereshchenko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Нет ценового предложения победителя! Как он победил? На основании какого документа? Где это видно?"
+      },
+      "tender": "fe6e47cb58f641b4b870b524bcaa50c8"
+    },
+    "schema": "tender111"
+  },
+  "id": "892565a9fa7f044a80ec02a8d05bd1d0",
+  "sign": "aY7pD7lZhhwL42LbIKMM3+bo99LakAEBS3V5aQvrlmNAocFgD7+0DgmOBJGE3UYu9TYfWnyLeXeFY5N7W/7TCg"
+}

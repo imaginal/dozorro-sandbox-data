@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-31T14:39:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "09d7a0071978d2550c6d9089d1fc1638",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kutssergy1234@gmail.com"
+        },
+        "name": "Сергей Куц"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "3",
+        "purchaserDutiesExecutionComment": "ВНИМАНИЕ  Данная структура не оплачивает поставленную продукцию ",
+        "purchaserInteractionProblemsComment": "БУДЬТЕ ОСТОРОЖНЫ  "
+      },
+      "tender": "e8be94fc88414ec296373f9d2bdc7187"
+    },
+    "schema": "tender112"
+  },
+  "id": "f2dda2f7b12070384e86c3c3264185df",
+  "sign": "dbRpucwIl9E90Yv1QYQ2MKJO5wFTKWH1OEX5S3aRTpTWO51uVd+QHbs2xKTgb/XwkxM//yUhF7Yd7sAksF0YBA"
+}

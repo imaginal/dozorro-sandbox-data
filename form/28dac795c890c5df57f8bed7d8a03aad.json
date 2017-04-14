@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-17T14:33:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ef366bca59a9070aab9c3376c3271409",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "oleksiychornyy@gmail.com"
+        },
+        "name": "Oleksiy Chornyy"
+      },
+      "formData": {
+        "generalComment": "В умовах тендеру були дискримінаційні умови. Також були порушення під час відхилення учасників. В результаті тендер роздробили на чотири десятка дрібних договорів і оплатили без тендеру взігалі. Подробиці в статті за посиланням - http://nikorupciji.org/2017/02/16/dorohi-podarunky-vid-dorohoho-mera-yak-zakupovuvaly-solodoschi-dlya-ditej-v-odesi/",
+        "generalScore": "1"
+      },
+      "tender": "1fbe2dd33611476b9be69c4b982497d4"
+    },
+    "schema": "tender101"
+  },
+  "id": "3f6788d577b4253541c60c3c098d1428",
+  "sign": "NdsULQ6TVZqMrPfKJHebuFPx764+adMAXXXQEGtnjMX052ZhOUlWz+A9omtBvzEh8ZI/vNFu/ofq9Ew/j5KKDg"
+}

@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2016-12-01T22:41:19+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "063cf50a59fbaaa487148f58ec311265",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Wladyslaw Nazarenko"
+      },
+      "comment": "Подкину пару историй на рождественских каникулах. Оживлю интерес разочарованных. ",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "af97564ba02d1365da66f2942eaedce5",
+  "sign": "frp4xQlFpZ02GMbwAqk62qD1xEKs38YH7OrPZOGgkC4DtVgt4LNairLPG47LbpTcvuUEMGStVcZysB6KgOEsBQ"
+}

@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-27T09:43:27+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Алла Павлишина"
+      },
+      "comment": "Составить акт о куче недоработок и в судебном порядке вернуть в казну 2 млн.долларов и честно найти ту компанию,которая сделает раза так в 5 дешевле и за державу стыдно не будет за такое качество. А эту компанию сразу внести в самый чёрный список воров и не профессионалов",
+      "parentForm": "2ec4b8c9678e88bbd0b1d57180913cf1",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "7380ca33e33db0316ffcbecec374054c",
+  "sign": "dDTNp1JXqFP5XomR7L73EOOhdIkgePppDRyMsA/7G5VRFtASxr0EYs0eU2M3Ezhxt9VCnm+9b+4yE3vXTPhCCg"
+}

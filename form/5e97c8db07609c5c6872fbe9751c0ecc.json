@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T02:38:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b275e707fbb569aa05185ea7c5341662",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "astappev@gmail.com"
+        },
+        "name": "Oleh Astappiev"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Европейское качество..."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "6722657dcb53202025fc8c319837be63",
+  "sign": "55l61vNXQJ1xaTMVVXX++AJ4/XRq8IIT6Eirjp/n/xfdJWSNfFIDBC4pV6hjJiv1sXkSYm00hDbU1FnyfvQ/Aw"
+}

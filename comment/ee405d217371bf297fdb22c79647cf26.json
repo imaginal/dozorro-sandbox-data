@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-29T12:11:45+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd78f2816b57cf1d5c8b0660e487c433",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annagirina.ag@gmail.com"
+        },
+        "name": "Anna Girina"
+      },
+      "comment": "Ви добре всі розібрались!!!!!\r\nСтосовно категорії будівництва об’єктів IV і V категорій складності:\r\nhttp://zakon2.rada.gov.ua/laws/show/557-2011-%D0%BF\r\nhttp://minregion.info/stroitelnaya_litsenziya_kategorii_skladnosti_i_rivni_vidpovidalnosti_ua.html\r\nА якщо враховувати, що дані з технічних вимог треба було прорахувати підрядником та самостійно вручну внести більше 200 позицій у програмний комплекс АВК - 5.\r\nЯ не співробітник - я за справедливість!!!! \r\nА Ви , по всій суті, так заробляєте на життя!",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "0389bd58bd508cbc16a29832a016f63e",
+  "sign": "/G2ysSH5Plv48eHDnvYoFu99VjTSPtMdJf9BbdvEsHjTWeKzZbpyiGue5Iev+23U3fVkzSNxFS791YJtuF/eBQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-19T14:04:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "generalComment": "Абсолютно порушено принцип вільної конкуренції , оскільки Замовник поєднав дві вимоги у одній закупівлі : 1) Еквіваленти не пропонувати ,- отже можуть участь брати тільки товари одного виробника і 2) Надати лист авторизацію та гарантію від виробника про те що учасник поставить товари в повному обсязі та вчасно ... Який результат? Один товар , без еквівалентів ,один буде й учасник із листом авторизацією ( не буде ж виробник сам себе демпінгувати)  і о диво , економія - \"0\" .",
+        "generalScore": "1"
+      },
+      "tender": "943cbb071ca1482e90bfb41f9887f32e"
+    },
+    "schema": "tender101"
+  },
+  "id": "be67ac4a400270820671b1dfe5303c28",
+  "sign": "GdDjKKiafchH7xsGmytO7UgKxLj5AfSQ4B7BG5nmS/XNPTOk+BV3xcOLZN1tvEXSYWHf7lboaxzcyl/Dt3q1Cw"
+}

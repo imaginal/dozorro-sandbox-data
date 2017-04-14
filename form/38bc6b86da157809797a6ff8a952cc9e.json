@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-04-04T15:48:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "efeda5d31cce841b4047f20afb5419a9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "neangelo4ek@gmail.com"
+        },
+        "name": "Ekaterina Serebryanskaya"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "Вимоги до предмету закупівлі дозволяють придбати якісний товар за оптимальну ціну",
+        "maxCompetition": "yes",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "6a2e019746c94a369cda670a3ccadec2"
+    },
+    "schema": "tender102"
+  },
+  "id": "734cc6e510867961c99c5e732a9011e6",
+  "sign": "lTX/TWyAd4Qfmm8ACqueufcHS+ICExpleeSCN2axFUuEDwiyjxwzBbDL3GKwNWmRdWTrsAhYjw9e0uhRQlznDw"
+}

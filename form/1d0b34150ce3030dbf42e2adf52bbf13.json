@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-01-05T10:14:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d2a4a014bee9cf74dba79fe70e1c730d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yevgenom@gmail.com"
+        },
+        "name": "Євген Овчаренко"
+      },
+      "formData": {
+        "impartialProductRequirements": "no"
+      },
+      "tender": "a6b7defe41d74c2ab6773d8829a7f728"
+    },
+    "schema": "tender103"
+  },
+  "id": "73880106d0bdc57b3f6a0006992a1b62",
+  "sign": "v3mnAJJgvui9m+JCtLuy78APDM0JDt9/TuePDNfVm1BooW/FVFJXDUwdF5nwC3VatKXWRikIf1zthga1+mmsDw"
+}

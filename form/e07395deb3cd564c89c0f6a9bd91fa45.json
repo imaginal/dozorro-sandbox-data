@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-17T16:07:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "71cf91a41d6dbc6391efaa81d4fc8132",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "opt@lf.dp.ua"
+        },
+        "name": "Татьяна Жувака"
+      },
+      "formData": {
+        "generalComment": "Закупка на условиях отсрочки 90дней, с такой отсрочкой не работают фарм.предприятия, т.к. поставщики дают аптекам отсрочку максимум 30дней.",
+        "generalScore": "1"
+      },
+      "tender": "e6002e2010bb4552bb71e8bef22b899c"
+    },
+    "schema": "tender101"
+  },
+  "id": "1210dbc091affbb1cc9d4577adb59ad1",
+  "sign": "QDl8C4SdMyLbRnPLaeJAE2tRwcXTC4cAMggJ6hZb/B2SEN3D/ez53XvgoQedfM3+eFGi6s8GDfzqmx7pcrjwDw"
+}

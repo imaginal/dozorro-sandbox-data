@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-09T13:14:48+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "790f43c5a9f909330c03abdad61df294",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lilya.ilchishin@gmail.com"
+        },
+        "name": "Лілія Ільчишин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Аргументи були необгрунтовані,відповідь на оскарження не поступила",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник дискваліфікував учасника з найнижчою ціною в 10800 грн. різницею "
+      },
+      "tender": "44b5372208594ac0a90a0879072c2af6"
+    },
+    "schema": "tender111"
+  },
+  "id": "b1f3c55c152af600470f11e212b323da",
+  "sign": "DVC2Rp4nqxIUfX4Gh91trkhvOYM3ZT/y8s86ovlypMqJK4pz0/LI9L35W4aswDheiBGIqahGmB/kU1PDmp1ZCA"
+}

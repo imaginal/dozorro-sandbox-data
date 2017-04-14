@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-28T08:44:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e98d95bb5de010cb4c2fa54d2449fd4d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shvechikov90@gmail.com"
+        },
+        "name": "Anton Shvechikov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "85ba81bf31a69763ad210457bf3523b8",
+  "sign": "4RGf2U1NwfkdxqJoGT0D0LER7RmPET1AdQGQkzDHqOPXko2NoXpiL/+KmYl3Dq8/pg7vcbcv0viVKimcHh2PAA"
+}

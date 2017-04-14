@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-06T12:19:01+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3ef96f327d52c426eb4413eb516c7829",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "karazinuni@yahoo.com"
+        },
+        "name": "Антон Каразин"
+      },
+      "formData": {
+        "generalComment": "У річному плані замовника (від 07.02.2017 на суму 199900 грн) зазначено процедуру закупівлі – Допорогові закупівлі. Чи не є порушенням, те що замовник не проводив Допорогові закупівлі, а вказав лише 03,03,2017 про укладений договір (процедура – Звіт про укладений договір)?",
+        "generalScore": "1"
+      },
+      "tender": "ae486d4d68414761b75900485f285b36"
+    },
+    "schema": "tender101"
+  },
+  "id": "89f8c0e517f724e39a37cc107750926e",
+  "sign": "/cAgoQoqf0NUkYEZ9qoboQI/4ZvCZXb4RwyweieZdIJHMyjDV41QkQNyPRXDwgyxkjTtjsDNtVmQ7VkvcQ5wCg"
+}

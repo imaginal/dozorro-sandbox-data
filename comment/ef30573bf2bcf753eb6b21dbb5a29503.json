@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-23T14:09:28+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2093439f5f4b16818a9326518ef055b1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gunkoboris@gmail.com"
+        },
+        "name": "Борис Гунько"
+      },
+      "comment": "І на додачу до цього предмет закупівлі не поділено на лоти, хоча місця поставки по всій Україні.",
+      "parentForm": "8c588d5003d4428aafe16bb865f1c508",
+      "tender": "591d87748e3c4af6a290935a694ea630"
+    },
+    "schema": "comment"
+  },
+  "id": "ade1e529cc4a9e78914fb50962b2fb31",
+  "sign": "zo4xF+oHUm+QDhh/yvDpQxzqUENmF2c2Q4YXuYfF9nkQ1BFjobhAjCx/CuBvLWel2MQlhitF9Mjl7aU/EwOZDw"
+}

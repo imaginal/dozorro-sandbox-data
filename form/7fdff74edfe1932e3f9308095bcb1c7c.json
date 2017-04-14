@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T09:56:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "98cf9ee329a9794c8d6d2eb3311c02f5",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "long90@ukr.net"
+        },
+        "name": "Сергій Довгий"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "5c119883239359a36c46ef0275ea344b",
+  "sign": "jXXE82N/8m6Bo/MMm9gZweaIZ7TjB4BUY4xcVr0IcdaPccX3Z7uI9ATubEWKIv72CsokfrKCRs4Pckj8OkejBg"
+}

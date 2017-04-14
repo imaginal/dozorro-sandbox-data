@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-03T11:30:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Ринкова вартість значно менша за запропонований бюджет. Ймовірно, Учасникам, які вийдуть на тендер з невеликою різницею від виділеного бюджету, потрібно буде подякувати за \"гарно\" виписані під них умови тендеру"
+      },
+      "tender": "e326743062e74783997cb767df2fc350"
+    },
+    "schema": "tender106"
+  },
+  "id": "2c2fb99f66f13e4ed7abb7eb52d83099",
+  "sign": "7mlxVZaMjGPpmGpyxYwt87+ueSi/p4wNpTW5JvGG2DcB2j3/xYM2i0XofNc68XEzvZHfrur3BP7+yRuSWvmdDw"
+}

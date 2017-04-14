@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T17:14:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "39898792ccee5492d779dc9d1725d148",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "artkmin@gmail.com"
+        },
+        "name": "Art kamss"
+      },
+      "formData": {
+        "generalComment": "Замовник, \"ненавмисно\" оголосив процедуру недочикавшись рішення АМКУ за попередньою закупівлею Ідентифікатор : UA-2017-03-07-000263-c\r\nКод ДК 021:2015 – Мікроскопи/Microscopes, 38510000-3 (Cистема для балістичних експертиз на базі цифрового мікроскопа)\r\nБеручи до уваги попередній \"досвід\" проведення устновою закупівель, можна передбачити що одна із закупівель оголошена \"випадково\" .",
+        "generalScore": "1"
+      },
+      "tender": "efb8c098168744419822ad7b13d1948b"
+    },
+    "schema": "tender101"
+  },
+  "id": "ec35a3af2e7df3e45ec5f2d447d16417",
+  "sign": "CQ7pL09x0SjugMS4fvzF1Sfrfk23wxmBo/PxPDLo/g7Ian8XKL4vM6GopueAceP6bsJo6YcBR4EUFeJKKNGlCQ"
+}

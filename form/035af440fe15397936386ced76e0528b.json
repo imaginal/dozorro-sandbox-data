@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:19:45+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "yes",
+        "impartialParticipantRequirementsComment": "Усі вимоги до учасників є доцільними і неупередженими. "
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender104"
+  },
+  "id": "9a88c3e26dbeae8aeed8e489178727b9",
+  "sign": "YxD2HTZg+wlqx22q8bSiQQTB+EhdJioh+c4Pos3gSv79tF0kWoV6rL0/Fx1+d9Wdk8Y8qnXIzWrFg/FOhkhtAg"
+}

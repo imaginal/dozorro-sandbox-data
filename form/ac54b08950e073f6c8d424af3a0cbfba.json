@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-23T19:33:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3e13cbdddf1301a3b920d97d86e8c1f9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "svgor79@ukr.net"
+        },
+        "name": "Svitlana Gordiienko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "нічого взагалі. ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Так! Також 2 учасник. якого вони хочуть взяти, не надав жодних документів. Замовник телефонував і вже на етапі розмов погрожував, що нічого за роботи платити не буде, а всі гроші на рекламу мають іти безпосередньо їм. Такого маразму ще не бачили. Треба покарати Замовника, дискваліфікувавши назавжди від участі в держ. тендерах "
+      },
+      "tender": "a64fe5a0a7a5401b8062d65725f02ee4"
+    },
+    "schema": "tender111"
+  },
+  "id": "cac6a9d2b9826d2e7d18ef3909a4db4a",
+  "sign": "fMhwCgnQZYLNNQArw6c2wGzKQod0LyBy6vl6o3oYRlTJRumIa83u+KOckNvdvIrjLmfz+cAaueG2mltCek7BCQ"
+}

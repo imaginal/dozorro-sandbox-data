@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-03T02:25:13+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "588f73719b5e33a8fda3fa1817a315a7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "irkinbear@gmail.com"
+        },
+        "name": "Irina Medvedeva"
+      },
+      "formData": {
+        "generalComment": "Змова та корупція!\r\n За попередньою процедурою закупівлі ID: UA-2016-09-29-000238-c  Всі Учасники Закупівлі були дискваліфіковані.\r\nЗамовник порушує Закон та не проводить повторну процедуру закупівлі, а підписує прямий договір через 2 дні з одним із Учасником першої процедури - ФОП Фільченко О.Б.  з максимальною суммою, яка закладена кошторисом - 61 252 UAH з ПДВ.\r\nЦіна пропозиції ФОП Фільченко О.Б. за першою процедурою складала 31 500 UAH .\r\n\r\n",
+        "generalScore": "1"
+      },
+      "tender": "924fb8743943442c89ec6312cc278990"
+    },
+    "schema": "tender101"
+  },
+  "id": "d70dd90a5f2b46b16ad10f63c00c0816",
+  "sign": "mBbGwNKZ0Wl5y7lZgKHGzvUv4FDSt9y4tdUlQIXHyWCQL/KN4SF/D0GVHn6ukqcJEhGCDSQeg4sSWT9OgRSUAQ"
+}

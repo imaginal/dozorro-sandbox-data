@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-01T20:13:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "324134ea35b72684f58ac7b0110f822a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yasyarada@gmail.com"
+        },
+        "name": "Yasya  Rada"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Абсолютно халтурне виконання робіт з низькоякісних матеріалів! Особливо, беручи до уваги вартість цього \"свята життя\"! Це просто дикий жах і сором - так безсовісно тирити бюджет та тримати всіх за дебілів! \r\nВиконавці та приймальники такої \"якості\" робіт мають бути притягнуті до відповідальності! А те жахіття, що назвалось \"капітальним ремонтом\" має бути терміново виправлено! Хоча, навіть не знаю, як можна виправити ТАКЕ... "
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "5b4f8bb64fd7255412edcc188f3acdec",
+  "sign": "ARrQ0kK82Btstue06yN53QHlKpf20JaLnqF8k/avix2PCcpKlh4DNWaERQJiOd85iRpnWe9WDRkWoF6e9bYkAw"
+}

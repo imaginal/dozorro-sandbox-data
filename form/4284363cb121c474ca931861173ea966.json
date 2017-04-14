@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:22:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "correctClassifiersCodes": "yes",
+        "correctClassifiersCodesComment": "Код товару визначено правильно."
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender105"
+  },
+  "id": "749b4becaa7081b8214ea79e45ce5901",
+  "sign": "W07U1g30uKgzppQ0MWsIiVFx5XkeS+DOJrIfxBrAXLU4EKdWy4E6+eALfnWDy0Z0/WGLh6AFuzOgcK5Y87ykAA"
+}

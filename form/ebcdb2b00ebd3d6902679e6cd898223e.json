@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-07T21:01:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0a2f97e74133ee884f2c6cfdbac5423f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tco666@gmail.com"
+        },
+        "name": "Aleksey Dobriakov"
+      },
+      "formData": {
+        "generalComment": "Детальное описание предмета закупки, явственно говорит о том что тендер писался под конкретного поставщика. Так как на каждую позицию прописанную в списке имеется альтернатива на рынке, по техническим характеристикам. Заказчик же прописал даже название тросиков тормозных. Это не позволило принять участие многим поставщикам.",
+        "generalScore": "1"
+      },
+      "tender": "ddbcca0812e74a30842fb043f669d24d"
+    },
+    "schema": "tender101"
+  },
+  "id": "6bd02d2afbd5fc6905833239c0c7764b",
+  "sign": "5DdaoptwjN4KV1xywu8eRrR3bBvpjdp3upyI65B5tsBhf9ZyteFI1AtzYhFo5Dy2hc5pscxhfaS95IMyhHL9Aw"
+}

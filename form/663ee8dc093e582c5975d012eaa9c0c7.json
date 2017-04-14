@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-30T17:52:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3bee52ca6084b38759485cb7e9fe7680",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "galelza@rambler.ru"
+        },
+        "name": "Наталья Иванова"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "yes",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "f35b44ed6f504c5eb963e21088dedb7c"
+    },
+    "schema": "tender102"
+  },
+  "id": "1a47469814b50bf1c0e597c59b38f19f",
+  "sign": "VfejloFM69/fAUJdIT98oWdqmRI1nAcWlRbrs9NTzh8OBub3NQm1ePq/81UzX/rt0ffmMU1Y0c4auXTOEyrDAA"
+}

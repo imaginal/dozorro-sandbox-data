@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-01T10:11:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9f3dfa3d9414f9d94d92ff99ccf99c32",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olsoker@gmail.com"
+        },
+        "name": "Олег Сокоринський"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Был дисквалифицирован участник Нобель-Агрохiм Товариство З Обмеженою Вiдповiдальнiстю с наименьшей ценой, из-за не выполнения условий подтверждения выполнения аналогичных работ на сумму 90% от указанного договора (90% от 1000000=900000 грн.), но в тоже время выигрывает участник  ПП ВКФ \"Дезсоюз \"Астрал Н\" который также не предоставил актов на указанную сумму, предоставлены 3 договора на сумму 122267,46 грн (значительно меньше 900000 грн.), причем один из них з Зеленбудом совсем не на аналогичные работы. То есть условия тоже не выполнены, но стоимость в 2 раза больше. "
+      },
+      "tender": "6feb18e472224c07823d2879a0d3b4b5"
+    },
+    "schema": "tender111"
+  },
+  "id": "261324a7e9fef469cef9d23966cca472",
+  "sign": "hDmYY4siObHbXMMZCKrtYL+AOsgTenAUwoZ40Ayn1zrWJpD3E5ymMwRgd7/LTGHHJ1EPZWL0mEffgE9/IHd2Cw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:21:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Не зрозуміло, яким чином визначена очикувана вартість. Нема публічних посилань в інтернеті або ще де небудь."
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender106"
+  },
+  "id": "c8a3f6c2fcf7f0a25362eae8f19f98ff",
+  "sign": "/m0+LRCZlOqEtUX2r0leMeMrCA5f42ysxMV+0L2RxcXc3NhF4iauPkM1h4l3tas0IcCgxSAveBkiKuzAIkudBQ"
+}

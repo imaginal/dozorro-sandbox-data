@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-21T12:36:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "182eede554c59e88280dd364bb2f8493",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "z.n.2@yandex.ua"
+        },
+        "name": "Nikolay Zhukovskiy"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Да признаю дисквалификация \"обгрунтована\", 700 тис. бюджетных денег ничто по сравнению с недостаточностью 2-х отзывов по данным работам.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Найнижчу......?  4 !!! найнижчих. Антимонопольний Ауууу."
+      },
+      "tender": "305c83d8783f4d42a961235dc0a2e308"
+    },
+    "schema": "tender111"
+  },
+  "id": "4379fd9603a3c939bb288410c81465bd",
+  "sign": "jXnkcc40rw92FsV0jANtGe0/OtU0QDpmFNiKR4grBracCFNNeC6yp1c7RzIb7V9GK84EcHtOV4RoLBeHFIXiAw"
+}

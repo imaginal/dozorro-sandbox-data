@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-24T12:01:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f8ea84ef377ad213403c14f25e921a80",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zebrusan@gmail.com"
+        },
+        "name": "Андрей Ювченко"
+      },
+      "formData": {
+        "generalComment": "По результатам этой закупки вне Прозорро бюджету нанесен ущерб около 70000 грн.\r\nСравним цены договора с рыночными.\r\nЦены договора:\r\nSnaige CD 350        2 шт по 19900 грн\r\nNord NRB 139 030    6 шт по 9980 грн\r\nCooper&Hunter CH-S09LX7  6 шт 14700 грн\r\nИтого на сумму 187880 грн.\r\nРыночные цены:\r\nSnaige CD 350        2 шт по 9869 грн\r\nhttp://bt.rozetka.com.ua/snaige-cd350-1003-00snw6/p228582/\r\nNord NRB 139 030    6 шт по 6199 грн\r\nhttps://f.ua/nord/nrb-139-030.html\r\nCooper&Hunter CH-S09LX7  6 шт 8180 грн\r\nhttp://bt.rozetka.com.ua/10216987/p10216987/\r\nИтого на сумму 106012 грн.\r\nНакинем 10% на доставку, отсрочку и т.п. и получим реальную стоимость закупки около 120000 грн. ",
+        "generalScore": "1"
+      },
+      "tender": "c86da5428e6443a8a710e2bc1b45acbf"
+    },
+    "schema": "tender101"
+  },
+  "id": "83d537f2797b532faf8412f7629f7821",
+  "sign": "e7RlXLEJ8Y3hwHMTC57efLVUf9P7SfmK65FIU6wLaxcVWeMaS1f3zMExi7T5oSk7Zf73Oqn9SnkZ7CPNNzrFBw"
+}

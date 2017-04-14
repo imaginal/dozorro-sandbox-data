@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-04-04T22:16:46+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Володимир Ракочий"
+      },
+      "comment": "Де ж це таке бачено? Туалет коштує як новий BMW X5!!! Ви що там в залізниці з рейок(глузду) зїхали?Попахує крадіжкою",
+      "parentForm": "b640c470b9a88940bc2392583bddb56f",
+      "tender": "2dfafb6bf0e846319908f83d17c95549"
+    },
+    "schema": "comment"
+  },
+  "id": "59ef16c71edfc671a94fe651c1791033",
+  "sign": "vQYmPHWSOpS6ntnERUqUjdfUDHf8iyIIrA4NYGJaERnC5ySBwJvp+6S5PhEuerHXz5HQyaGX/GrfdLI7DMqOAQ"
+}

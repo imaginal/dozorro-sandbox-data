@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-03T11:31:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "lotsExpediency": "yes",
+        "lotsExpediencyComment": "Замовник закуповує різні види сиру, однак, щоб захистити потрібного переможця від конкурентів, здійснює закупівлю в цілому"
+      },
+      "tender": "e326743062e74783997cb767df2fc350"
+    },
+    "schema": "tender107"
+  },
+  "id": "620ea4e85a9923c8252688393f7698df",
+  "sign": "jGjoll+yhc6oU5gChpuUwkIwgTIQgVfRJ2ooxIqG9y0pCDXZVauJ4oN9O9g2fXCvnu/TP5Lpq4wgTe48DO/VAg"
+}

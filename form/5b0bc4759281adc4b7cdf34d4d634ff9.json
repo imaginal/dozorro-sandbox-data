@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-28T17:34:41+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9e37def4b6905d33e45e372785fc51b5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "carter13130@gmail.com"
+        },
+        "name": "Carter Vins"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник не навів жодного законного аргумента",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Дискваліфіковано безпідставно"
+      },
+      "tender": "10afbdfd0ba14da699e167ec44d3dac0"
+    },
+    "schema": "tender111"
+  },
+  "id": "86396bb779dc1bbe59916e1bd22d8981",
+  "sign": "/H7qFnKCOHdDefB0b3LW/Cj+/iT3IXzr0O+xhhF4kC36y8x+hKyEZ9KVjUZxcAtde+xR7B+AHHZIibKmN2SUDA"
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-04-05T21:18:48+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1f8dd7287de9c3ac4861bb118e6a6d60",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "budekspres@gmail.com"
+        },
+        "name": "Будекспрес Новий Яричів"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no"
+      },
+      "tender": "d6c76a23ed464ef288229bd60d0c459b"
+    },
+    "schema": "tender104"
+  },
+  "id": "6fcb165c95bc00b23a9d0df46946d5d5",
+  "sign": "I4cLGsd3ZQ43evuXqmGmAnlCH5lpqYFI9kN1ohdjRY8K0Mr/II0fq49AYTyM7jaMVqkUAhXRuwbRLFeh/YXuAg"
+}

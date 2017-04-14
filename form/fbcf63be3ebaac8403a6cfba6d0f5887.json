@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-11T19:14:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "78aa7c9080d05a32e0bccdc89d9ca026",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "upibnv@gmail.com"
+        },
+        "name": "Дмитро Єгоров"
+      },
+      "formData": {
+        "generalComment": "Не правомірна вимога: -\tнаявність документально підтвердженого досвіду виконання аналогічного договору з аналогічним предметом закупівлі, який зазначено в даній тендерній документації. Зі слів юриста має бути договір на поставку САМЕ консервації, а не продовольчої групи товару.",
+        "generalScore": "1"
+      },
+      "tender": "dbca69eed4f64f1db6647077e873e3a1"
+    },
+    "schema": "tender101"
+  },
+  "id": "e54e5edbf5f6efb656ad781615a12b32",
+  "sign": "E1vHt4+nE8UTWVlNxGj0EOfjcAOJ9wgEQmqe903vk24/doh/on1TwjNum2LmvUJwY8v6G4ECrL/6TZRsBWn1Bg"
+}

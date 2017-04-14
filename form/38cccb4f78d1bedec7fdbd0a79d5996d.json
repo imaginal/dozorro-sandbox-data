@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-03-27T14:54:05+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "67317ea88e258b35ea0f7c37817e9684",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "iokonoval@gmail.com"
+        },
+        "name": "Iryna Konoval"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Некачественное выполнение заказа показывает, что в очередной раз система не работает и ответственные не понимают, что больше отмывать деньги и не выполнять свои обязанности нельзя. Требую разбора этого кейса и жёсткого контроля, чтоб вторая часть бюджета, выделенная на второй вистибюль, не была так же некачественно реализована. Криминальную ответственность бы на головы виноватых!",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Некачественное выполнение гос заказа"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "51befd38673781802abe5ffbc02e051d",
+  "sign": "jLzFJ8hArz53hnIrcK41DK4XxH0FuaQl+K8AczYkEUqPluHzwmYosUEZffIOF3wDd4N0cgk9SatJtN6TtsqIDw"
+}

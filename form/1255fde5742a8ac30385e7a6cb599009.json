@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-01T09:24:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ce92fd79f2272f2b18396463382dc2aa",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sokorynskiy@gmail.com"
+        },
+        "name": "Анатолій Сокоринський"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "договір на 900000 грн. по вказаним роботам навряд чи існує взагалі в природі, а збирати тисячіі актів виконаних робіт, листи по багатьом договорам оцифровувати і відправляти це \"сізіфова праця\" на місяці "
+      },
+      "tender": "6feb18e472224c07823d2879a0d3b4b5"
+    },
+    "schema": "tender103"
+  },
+  "id": "b724241cb6c4f1d0806c6d886419e0f7",
+  "sign": "hCYkVBtDWr+0KJZv7xo/6MvUEf1q0Tli2qEN3+cgNyRCcN/YpNGVK0IpKwpwGRNnWxySaz8iHzrpBExMw38JCw"
+}

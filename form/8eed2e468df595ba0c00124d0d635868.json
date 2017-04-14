@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:17:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Закупається застарілий товар, який є в Україні в одному екземплярі. Немає публічних посилань в інтернеті на ціну, характеристики чи наявність товару."
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender103"
+  },
+  "id": "1541042f6c8f9ffd5d63ce393af6664a",
+  "sign": "35ir5l+HWWYLLERB8CLu4wwF5S5u8W6m4sBxrJqNlrSiFJmNQcpkrx5RW3ZiLKw45QRDAwHnMp+YAmzkPg0QBQ"
+}

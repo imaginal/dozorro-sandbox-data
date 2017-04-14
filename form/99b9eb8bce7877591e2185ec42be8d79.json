@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-07T21:50:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Инна Нараевская"
+      },
+      "formData": {
+        "cancellationLegitimacy": "yes",
+        "cancellationLegitimacyComment": "4 профіль не дасть можливість виконати норми дбн по теплозбереженню.про армування і склопакети мовчу взагалі"
+      },
+      "tender": "dbb73d6249be45d384b050445162d767"
+    },
+    "schema": "tender109"
+  },
+  "id": "03f9e42a505441e06dfce14a72eeec4b",
+  "sign": "l08ZoGlXCZFDLsKe5Xu7iG5ZTm7gf36yXQgrd9M9aaKK31mQ1OdCJD1CN14NM/Z0PLtQsT+SNxbOgWMT4GhLCw"
+}

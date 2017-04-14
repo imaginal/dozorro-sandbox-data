@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-20T04:04:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f580b1fefd842adda75a1c17be567db6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "seoadvertpp@gmail.com"
+        },
+        "name": "Vasiliy Pereverzev"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Насчет дисквалификации не знаю, но выбрана не самая низкая цена"
+      },
+      "tender": "380fbe02e9a643089325e4903b61fce4"
+    },
+    "schema": "tender111"
+  },
+  "id": "e25c018d9495ec5db955e6fcacd523e0",
+  "sign": "/jqFMGGLwz6twdsQgl133+m08Ba6b24pBS76jXeavnJJRxOmi1pp+RZfoZofOT+kliHdCMAfFG9orAc3hw8MAA"
+}

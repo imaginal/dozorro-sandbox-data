@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-06T14:19:46+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "68729269b67e9d58681c01238573b946",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "promelektro011@gmail.com"
+        },
+        "name": "Stanislav Stanislav"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Поставщикам необходимо быть осторожным сотрудничая с компанией -предварительные договоренности не выполняются, объявленные тендеры на поставку комплектующих не являются гарантированно реальными закупками."
+      },
+      "tender": "8d513b8da5ab4aa987931aee6f5a46d0"
+    },
+    "schema": "tender111"
+  },
+  "id": "b845343c9ce965cb7afe1bcf00777156",
+  "sign": "p5Y1oTZPPXcLrpqwD5ZvX7gWuBSgDeY8Qah3oDNHiIQ/FP28FpwMqej8mrrSXFe245WGxPUsujxNO/gS8xdvBQ"
+}

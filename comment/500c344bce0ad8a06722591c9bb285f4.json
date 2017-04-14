@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-28T14:33:09+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a4d72766512a801fed8819481f7fd19b",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "egorov777dark@gmail.com"
+        },
+        "name": "Humor Club"
+      },
+      "comment": "Какой 1 миллион долларов???? Вы что с ума сошли!!!!!  В целом начиная от дизайна и заканчивая его реализацией,  выполнение на твердую 1 по 5 -ти бальной шкале. Противно!!!! ",
+      "parentForm": "02fb7d51fe4841b5ff016b1f6f2e2ceb",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "4606f4813c3731389dd1b45d2249f104",
+  "sign": "HtsK9Qm9DaSiaK+hmG30/agPpUFiavI/17a/FrTpqQhV1b+B4pkFW9dKppkLniISyGIG5UKRoTuza9rxMWMtAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:46:23+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Anastasia Caezar"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Ремонт в стиле \"срали-мазали\". Очевидно, что это очередное отмывание денег, и кто-то смотрит на эти щели в стенах и дешевую плитку, а кто-то уже ездит на Ленд Ровере за выделенные на ремонт деньги. Стыдно. ",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "6e08b512b53b56c3e5cc2330b4c3b444",
+  "sign": "gV5A1qw7XWjrL+6WV4FzXufqY4yufFfUGRwJqL6izufBv/UD7QFvdyrjzZt8gQ4aso8YTeY29CTEtrUB0RtkAA"
+}

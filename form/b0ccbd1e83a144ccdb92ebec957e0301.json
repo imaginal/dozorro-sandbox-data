@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-13T18:00:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7c4f9a690ab7254131861f11c0b54dfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tigorr007@gmail.com"
+        },
+        "name": "Igor Tigor"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник не кваліфіковано підготувавши документацію, неправомірно відхиляє найбільш економічну пропозицію",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Для можливості проектування об'єкту: «Реконструкція водопровідної мережі по с. Мшанець Козятинського р-ну», необхідні наступні вихідні дані:\r\n1. Технічний паспорт існуючої свердловини.\r\n2. Дозвільні документи на арт. свердловину.\r\n3. Звіт з тех. обстеження арт. свердловини (дефектні акти).\r\n4. Топографічна зйомка під артсвердловину з НС.\r\n5.Технічні умови на електропостачання вузла водозабору.\r\n6. Топозйомка по трасі прокладання ЛЕП.\r\nДокументацією не передбачено отримання вищеперелічених даних за рахунок Виконавця проекту. \r\nЗамовник не кваліфіковано підготувавши документацію, неправомірно відхиляє найбільш економічну пропозицію"
+      },
+      "tender": "d2b8ea2a34294cdfbd6a4f955d69c4ce"
+    },
+    "schema": "tender111"
+  },
+  "id": "adae2a9d7c6b19cf09cd449ddc1a7649",
+  "sign": "3x8pfmDeJTUdBlDpUXlf96v9HTqLJWnPvwecKsXZ6V4JqMQmd5aj1QGCn/8nitvitqS8th068wFForDx9IpdBw"
+}

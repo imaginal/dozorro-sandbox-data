@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-01-10T18:45:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Закупівля була заздалегідь спланована для відмивання бюджетних коштів:\r\n1. Ціна завищена більш як у два рази\r\n2. Кваліфікацію затягували, Переможець додавав в той час якісь документи та виправляв помилки\r\n3. Протокол (рішення) засідання Комітету Замовника про визначення Переможця\r\n№  639 від  23.12.16 опублікували тільки 27.12.2016р.\r\n4. Підписаний договір не опубліковано\r\n\r\nАЛЕ!!!!!!! ПРИ ПРОПОЗИЦІЇ 346 475,00 грн. по цьому договору 29.12.2016р. ЗАПЛАТИЛИ АЖ 688 00,00грн.  \r\nПризначення платежу: ;100102;3131;Кап.рем.iнжер.мереж. по вул. Вербицького, 11,зг.дог.№ 373 вiд 21.12.2016;зг.акту КБ-2, КБ-3 № 455 вiд 27.12.2016;ПДВ 114668,00;\r\n\r\n"
+      },
+      "tender": "13880b062cc34d6f9df0f730db3fb635"
+    },
+    "schema": "tender111"
+  },
+  "id": "f8daa7cc3d8d2ece68908ca59e9601d2",
+  "sign": "3VHBfacH/VAxTDsYMlEgQjmL7pkjqhGE+h1sCY3kDB8SKECkxt2Mfz/jsqcmSE8AXBEe+dB19rUnB3q8aH0jDg"
+}

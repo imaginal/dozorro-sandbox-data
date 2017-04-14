@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-02T11:23:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4611fc38c830ee1a59c12354b48eb8b6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "amukrainets@gmail.com"
+        },
+        "name": "Анна У"
+      },
+      "formData": {
+        "argumentativeDisqualificationComment": "лохотрон",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "617f6fdb124c4ae29c0cad09f7d4242d"
+    },
+    "schema": "tender111"
+  },
+  "id": "715a2601d43bdffd9c9df750808a7e18",
+  "sign": "CcnQZX9W3DZ2dSdaeHsfLEROPKdYkS/ZbUN4WZcB6asyooVTWCZ1faloo5tmzehQQxQgY0tQORTGcPGbvjaFBw"
+}

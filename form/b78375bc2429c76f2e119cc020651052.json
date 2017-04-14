@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-03-03T15:04:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "624ff7fe92d6421c87281cda92479cbf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "amatevita@ukr.net"
+        },
+        "name": "Татьяна Гуменюк"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Не має чіткого визначення щодо предмету закупівлі, а лише загальні формулювання.",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Під таку пропозицію можливо підтягнути зовсім інший товар, ніж тий, який мав на увазі Замовник.",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "abd3bfc033a34e6cb756b2964b84a7b7"
+    },
+    "schema": "tender102"
+  },
+  "id": "6ab8d6da9763dbeee211a0df27043eaa",
+  "sign": "4SD3Gm2H52mJx2svVDsFvs4qSbW3bhHpcIpXZrIPQHIKB698PQN4/jZ7I9voOcyTvFUgz6lHMouUoOSkZwT7Dw"
+}

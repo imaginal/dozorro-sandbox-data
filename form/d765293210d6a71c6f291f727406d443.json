@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-23T05:23:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Закупівля здійснена у ТОВ \"Анір коомпані\" Зареєстрованого по місцю проживання (36007, Полтавська обл., місто Полтава, ПРОВУЛОК ШЕВЧЕНКА, будинок 5, квартира 53)  19.09.2016. \r\nСтатутний фонд 1 000 грн.",
+        "generalScore": "1"
+      },
+      "tender": "51ff631ff55e47a1a94bdd57b4f8a4af"
+    },
+    "schema": "tender101"
+  },
+  "id": "fe6c6128aaadf9db6c561c48b3cb2426",
+  "sign": "ZyLay35/t3qOZA3cQ5f03czQJDLchKyFV0h95sOLBbfEcA3+1ago7rtkVEeAsXKhEFnPP4BR4stKumK95t5RCw"
+}

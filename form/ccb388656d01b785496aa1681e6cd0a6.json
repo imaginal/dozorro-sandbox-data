@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-23T11:58:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "generalComment": "Замовником встановлені вимоги для обрання переможцем потрібного Учасника",
+        "generalScore": "1"
+      },
+      "tender": "8d513b8da5ab4aa987931aee6f5a46d0"
+    },
+    "schema": "tender101"
+  },
+  "id": "c46b22caa46291c837f70c73ff971d5c",
+  "sign": "Nd/U0XcOSZZ7+2DLXOJt1mT2aehUvjRS7psP4GUt+A32tSwq4eWfrH2hcr8UJGEB/LhaNng2Bfwe8C4SoihLDA"
+}

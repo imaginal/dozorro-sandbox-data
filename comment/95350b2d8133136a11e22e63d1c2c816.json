@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-26T00:23:11+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "51f62ad6d1e2e5b2387dd6aa74486317",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "savchenko.com@gmail.com"
+        },
+        "name": "Алексей Савченко"
+      },
+      "comment": "Вартість тендеру була вказана загальною сумою, аукціон проводився з розрахунку на місяць. Кількість місяців не вказана в пропозиції.",
+      "parentForm": "57fdc5f5a0fba44ce57d7f849506c485",
+      "tender": "0c3a901a859b4bcab24e0e480ad7c09a"
+    },
+    "schema": "comment"
+  },
+  "id": "f01703b4b4fa3bb6b60e469a001ab478",
+  "sign": "xAw/VC2TRlb5FNzirlA5HqyCSDQVbbYxR/wzDJpMGnZVa3kt6zpAaHOvRjAADJlnzpIR7hOf09NrZSVq/TC+BQ"
+}

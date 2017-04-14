@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-29T18:27:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "31728ee6df01a68c990b64fa63c795e3",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "edyardina@rambler.ru"
+        },
+        "name": "Ed  Ko"
+      },
+      "formData": {
+        "generalComment": "Повністю виключено можливість участі в процедурі закупівлі інші компанії виробники. Цей автомобіль купується  у максимальній комплектації, що сказано в документації, а це є економічно не обґрунтовано та створені неконкурентні умови. За 1 300 000 грн.  купувати такий автомобіль в максимальній комплектації для підприємства це є підло в умовах кризи в країні.",
+        "generalScore": "1"
+      },
+      "tender": "8335bf57ce554a39b5767f9d28d87700"
+    },
+    "schema": "tender101"
+  },
+  "id": "db235246dde3a4fb061b1cb4d67082a6",
+  "sign": "XQEBa/t2+4OUEpqkOq1pMoKYE2sQUok1JTNJNqztLgunzp0cO9mCXqgkbjCFispqsyuGG+0uOvEE9Kf75fF7Cw"
+}

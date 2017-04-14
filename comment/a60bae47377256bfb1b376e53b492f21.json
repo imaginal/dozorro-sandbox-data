@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-05T20:56:10+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "35f6325246590eb317964d8c9608ca48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "trotsan.timofei@gmail.com"
+        },
+        "name": "Тимофей Троцан"
+      },
+      "comment": "Вопрос  на второй вопрос был следующий: Считаете ли вы причины дисквалификации достаточно аргументированными?",
+      "parentForm": "6a2adf0e855b34a1f540cc9cc1b8f517",
+      "tender": "c124ea26e8ed44dab9c5060310589861"
+    },
+    "schema": "comment"
+  },
+  "id": "ed21c7362d92bb79496d2ff139b79c48",
+  "sign": "O5sLUPj/2VQeWYtAr6vkO+JMFxw7sEDMMIIO6miIF6ZpCiKdc4VsmxnXwoafzP1PfMkgl4Yh+wcDNij3eVDYDw"
+}

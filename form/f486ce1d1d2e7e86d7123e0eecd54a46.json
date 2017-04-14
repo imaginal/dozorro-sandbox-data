@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-20T22:05:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5a98e1027533cc145ca711ec30f832f1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "1212123tundra@gmail.com"
+        },
+        "name": "tundra tundrivna"
+      },
+      "formData": {
+        "generalComment": "поділ предмету закупівлі\r\nUA-2017-03-09-000981-a\r\nUA-2017-03-15-000109-a\r\n\r\nзамовником передбачено встановлення малих архітектурних форм в технічному завданні на відкриті торги, в той самий час укладається прямий договір на встановлення тих самих архітектурних форм",
+        "generalScore": "1"
+      },
+      "tender": "12332a409bd04470a3ae66763a4bf864"
+    },
+    "schema": "tender101"
+  },
+  "id": "867a454fc98525e6284e9bb80b9b754c",
+  "sign": "9Hl0wZ9dA2qdLL5zsDi3RQi92A3cVPLWN09QqZsVfDsErcoPdWmRmLfVrfK7DLwtKFvuM1c5lwM8FZp4ixj8DA"
+}

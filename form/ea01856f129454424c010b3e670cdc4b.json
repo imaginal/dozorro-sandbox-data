@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-27T11:23:00+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "554c3a231183c8a367c654216ef19336",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yozh.studio.lv@gmail.com"
+        },
+        "name": "Yozh Studio"
+      },
+      "formData": {
+        "generalComment": "Закупка разбита так что бы поставщики компьютеров не могли принять в ней участия",
+        "generalScore": "1"
+      },
+      "tender": "55b5fad479ea43c5bef6f22e750751cd"
+    },
+    "schema": "tender101"
+  },
+  "id": "454e01019854803f02a76137694a1a1f",
+  "sign": "8j/skhcWKt6f1J0593QaeM61Qv1hEgQsONuomT5cN8nLXXGrB/jxjZMqt9jtojCDI4PQSjWNzLAArp+MGVqLAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-01T11:31:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Перевага надається багаторічним друзям ЗАмовника - ТОВ \"Фірма Фавор\". Встановлено вимоги і до Учасника і допродукції, що унеможливлюють запропонування іншої продукції інших виробників"
+      },
+      "tender": "15675afee3984db5b5ab86ae037a9aca"
+    },
+    "schema": "tender103"
+  },
+  "id": "46c3f1b13a96dcd6d1bca45cddd1a549",
+  "sign": "FGUBkZke0WQSfUyYlu/bt6CKH4kA9LYvPaysd22PZJKlm+ynuh2CrVXCX43XP61ejeJqCrE76vZHIUbdaUbPDQ"
+}

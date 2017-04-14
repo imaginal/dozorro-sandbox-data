@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-01T10:49:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "generalComment": "Замовником було створено черговий тендер для своїх Учасників - ТОВ \"Фірма Фавор\" та дружніх до нього підприємств - ТОВ \"Переяслав-молпродукт\", ПП \"Торгпродсервіс\" чи Ніка-1. \r\nЗамовником включено до тендерної документації усі можливі документи,які є у потрібних підприємств та для забезпечення відсутності конкурентів",
+        "generalScore": "1"
+      },
+      "tender": "15675afee3984db5b5ab86ae037a9aca"
+    },
+    "schema": "tender101"
+  },
+  "id": "1a79816ba319e8c84f76d006f82831e4",
+  "sign": "KEJputbpd7baHxgo6a9xDCHR42g15+Qe6MDQYEdowvSLQFF2tspu8vUFXgXJbALZLATrzQNXdZ56S1/g8hr8Bg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T16:44:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "generalComment": "Замовником створено умови для участі лише потрібних для нього Учасників, встановлено вимоги для закупівлі асортименту, який виготовляє лише один виробник, а ціни, які закладені в закупівлі, знначно перевищують ринкові",
+        "generalScore": "1"
+      },
+      "tender": "16858fb5a8624c9dbc26ea4e89873410"
+    },
+    "schema": "tender101"
+  },
+  "id": "8ab7f321d4a953d24f1563f153ab520f",
+  "sign": "ULRD1W+6FVx6djFP5DvBuaJIxUiD1mzjtH/5X0JCDsv8rRtCfZS7bRetSljHxeIfgk3NJEDDs6WA/LVKr+mnBw"
+}

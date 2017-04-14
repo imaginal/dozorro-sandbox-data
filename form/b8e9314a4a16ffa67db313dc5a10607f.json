@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-20T12:45:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0dbf2dba7cf25ec76353f6f42a680695",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@rally.in.ua"
+        },
+        "name": "Maxim Slivnyy"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Закупівля оголошена на диво для такої суми прозорро та пропозиції оцінюваличь чесно то неупереджено. "
+      },
+      "tender": "38f84cf67955485b91ac870562b8fb4e"
+    },
+    "schema": "tender111"
+  },
+  "id": "022e9d09712ed8c57860e3a8452fff8d",
+  "sign": "O/4VtUs5M2bQzWtUZzvW11J/frQ79bQRLnWLd2MJ2nqjh6YXkSRZx3MNSeyv1SY8zPCXYOYAI4KyxmCvDcnaCQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-01T23:16:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7b54bfde8cd1f54f9c32c84b11691bd6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alexantropov.business@gmail.com"
+        },
+        "name": "Алексей Антропов"
+      },
+      "formData": {
+        "generalComment": "Тендерний комітет явно підігрує учаснику ФОП \"КРИВУНЬ\" і одноголосно затверджує еквівалентність операційних систем Microsoft Windows та Linux, пакету офісних програм LibreOffice та Microsoft Office !  Але різниця в їх вартості - кілька тисяч грн за одну ліцензію! (в тендерній документації чітко вказано необхідність програмного забезпечення Microsoft) ",
+        "generalScore": "1"
+      },
+      "tender": "9cef00c760b44799a1c563405b574490"
+    },
+    "schema": "tender101"
+  },
+  "id": "a81268858e19a783f92f7d6f06ec9297",
+  "sign": "V2aqLr9oQ0JJfLgzSYvRTLSMZSa3vyQ8RgiE1KOD6SuOIUuCtOL6b4CJcmXDhmkYwdcZDOmdDlSANti0pSZkCw"
+}

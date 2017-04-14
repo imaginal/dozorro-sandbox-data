@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-04-03T22:58:18+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "af69539c1ac29341832e2c64b763410d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "petromahinko@gmail.com"
+        },
+        "name": "Петр Махинько"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Завищена ціна!!!!! Ціна зовсім не ринкова!\r\n\r\n"
+      },
+      "tender": "5a19acd2a37043a7abe0fb25c2e2cbaf"
+    },
+    "schema": "tender111"
+  },
+  "id": "04c0c978b672ba1a0c635385398dc9d8",
+  "sign": "4cco92PQjNBmfdZdr2rh1H5Jt/1jQvWHSRm3fZpz+hNQG7jj5XWqUPNg7qWIkbixNDLMWBpGyQ/iWYEos8syDA"
+}

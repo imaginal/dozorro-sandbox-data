@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-14T14:26:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e7cf40cd35cf29d7c209f669c56079e9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "killstor@gmail.com"
+        },
+        "name": "Кирилл Сторин"
+      },
+      "formData": {
+        "generalComment": "Обоснование выбора переговорной процедуры по данной закупке, тем фактом, что у СП \"Стан Комплект\" отсутствуют конкуренты - не соответствует действительности. В текущем году проводились торги на закупку высоковольтных вводов для южно-украинской аэс. (UA-2016-07-01-000533-c). В данных торгах принимали участия полномочные представители ООО \"МАССА\" -  СП \"Стан Комплект\" и  СП \"ВАИК\".. ",
+        "generalScore": "1"
+      },
+      "tender": "d9380134123149278349da866c471725"
+    },
+    "schema": "tender101"
+  },
+  "id": "c358fd7d53ef2917f85fc98c6327e4cc",
+  "sign": "MqbUhego2dILdd0lk8ONTY7jiaFR5NLtMh6i4XKcWSz+jc/v5rFod7tEKtf2uIMvMQvuLinMbnOjc7a6X0N5CQ"
+}

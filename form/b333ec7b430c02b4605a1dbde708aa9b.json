@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-10T11:44:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4aec8987b8d6486d9f697df48617e990",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vadym.st@gmail.com"
+        },
+        "name": "Vadym Stadnyk"
+      },
+      "formData": {
+        "generalComment": "Переможцем визнано учасника, який запропонував техніку, що не відповідає технічним вимогам тендеру. Рішення комiсiї з оскарження було проігноровано.",
+        "generalScore": "2"
+      },
+      "tender": "cfeb279e357c43499ab8a0c6f55df15b"
+    },
+    "schema": "tender101"
+  },
+  "id": "501eae0545a764a78d3bbc57c67473ae",
+  "sign": "qWVHTS4MfUji3ew3R4pZs15bdejdtzJmysTy2WYF7OUHH561ivEQdo99IO9C3PxhlYL18WooJaTtzEu1SnhUCg"
+}

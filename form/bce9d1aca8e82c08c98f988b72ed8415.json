@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-15T09:55:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "13278c126a03d43f5141be3d7753b8d4",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ponomaleks@gmail.com"
+        },
+        "name": "Александр Владимирович Пономаренко"
+      },
+      "formData": {
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Виставлені вимоги додаткових послуг, які не входять в коло умов основної послуги:\r\n-  Надання наступних безкоштовних сервісів по забезпеченим ТЗ Страхувальника :\r\n-  Евакуація при ДТП та поламці;\r\n-  Запуск двигуна - заряджання акумулятора;\r\n-  Заміна пошкодженого колеса;\r\n-  Доставка палива;\r\n"
+      },
+      "tender": "82c8720569e04b999dec969ddc74af9f"
+    },
+    "schema": "tender102"
+  },
+  "id": "5a2e2b35ae5c73bf210f3bc916f52463",
+  "sign": "jKsU6c4+GvqrZFcm2Qx3aIbxdtWZfgHcIeZBjgq1CqkgC5WzTqoayflvdJ4N/O/i+WHfbtIsWVQmjmIRl7J/BQ"
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-07T12:57:05+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "660429313bfe8abfe9f2ef4aa4fe3950",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ozon59@mail.ru"
+        },
+        "name": "Саша Шмырев"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "d0bd84fb36f447a591fa44ac4518651e"
+    },
+    "schema": "tender111"
+  },
+  "id": "ef6f1b99ff0f5f828fd6e0fe52ff761e",
+  "sign": "egYGfQN0n3HN9ai3PDd5L/QtFgHfzdEB3+P0Bh+myoPQieeTN3Vyfki/uJtXwvmI+pqZsiQV3//b2/H3Jj61Cw"
+}

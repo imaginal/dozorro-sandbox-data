@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-11T11:58:58+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "Ваш відгук розглянуто та не виявлено порушень зі сторони Замовника",
+      "parentForm": "cc975a9f42836349600c31cfdd2cb362",
+      "tender": "8040f72e02c74fd0b17d8fc1c76abf51"
+    },
+    "schema": "comment"
+  },
+  "id": "2012cc450e34f419a144db02288c6681",
+  "sign": "tjX1KDzw2jI33n5cvPHd/Pu12nfkrpBNovLuRwyAbkNTuM4ZFPkZ1H6m7oXc2pjWnDGi43ZWe8DUc96/pzC0CA"
+}

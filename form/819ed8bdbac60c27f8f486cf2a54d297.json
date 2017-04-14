@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:56:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "adbfb8197fd6f13da85e07c2f5d9e0da",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vlytko@gmail.com"
+        },
+        "name": "Lera Lytko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "0586048aa55a7a85c10ff7b19fc8144a",
+  "sign": "TTDrZhrgMHcnIzBb0YkCBJ6yhUFkGhUlQS84aIvQVotoxGL0qGyzZ2ADsuessTLkOjrqRMZidRKMkLHH4mI1Cg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-10T10:43:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d0be291cfb0145726e5a940d9e34c186",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "a.b.legionmail@gmail.com"
+        },
+        "name": "Андрій Горшков"
+      },
+      "formData": {
+        "generalComment": "В даний час це вже можна з впевненістю константувати той факт, що в м. Дніпрі по лікарням вирує епідемія з подібними вимогами доучасників, це можна дослідити по оголошеним тендерам UA-2017-03-07-000447-a, та UA-2017-03-09-000012-a, та UA-2017-03-01-000148-a\r\n",
+        "generalScore": "1"
+      },
+      "tender": "8b94d767cd53493d9344b52e182aa683"
+    },
+    "schema": "tender101"
+  },
+  "id": "65160369c0a71f9ad40fe452b95e6f0c",
+  "sign": "TqLRoQDn2MtizdU+p11/8O4td6ChgMLrBctADgs+LyBi5K4D3X8lreRSrrn6MtWDjBxy6h47XaJvkvGLiuidDA"
+}

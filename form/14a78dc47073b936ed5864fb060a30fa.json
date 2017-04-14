@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-01T13:19:57+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00246cacbb81b80c65a1885ed7bc68c1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ussplav@gmail.com"
+        },
+        "name": "Укр спецсплав"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "3",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Доводимо до Вашого відома, учасник даної закупівлі ТОВ «ЮНІК СЕРВІС» надав підробні документи, а саме Сертифікати П0361 та П0425, які являються недостовірними та не відповідають дійсності.\r\nЗгідно внутрішнього реєстру ТОВ «Укр-спецсплав» дані документи були видані не на запитувані Вами, згідно даного тендеру, матеріали, а з іншою назвою, датою виготовлення та хімічним складом. \r\nМи можемо надати оригінали Сертифікатів якості П0361 та П0425, якими вони є насправді.\r\nВелике прохання, звернути увагу на дану ситуацію, та поставлені Вам матеріали не вважати продукцією виробництва ТОВ «Укр-спецсплав».\r\n"
+      },
+      "tender": "f0b2583c670142e4be8bb5f47e28c9a1"
+    },
+    "schema": "tender112"
+  },
+  "id": "23b7a9758288d46f339b5d707416f21f",
+  "sign": "XbPdLMEyXajGEe54jHbfEUMlry8rG/xhXvDqVWCvNPeoBsf8fBSxzL38VZwmWryadUaQqfUgYv42R7y4t34cAA"
+}

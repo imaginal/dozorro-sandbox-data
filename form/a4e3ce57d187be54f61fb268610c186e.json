@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-24T15:29:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e10f7277f7845dc589f4b27b491b312f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "innochka2910@mail.ru"
+        },
+        "name": "Inna Yeshchenko"
+      },
+      "formData": {
+        "generalComment": "Тендер на ProZorro: https://prozorro.gov.ua/tender/UA-2017-02-17-000621-b На аукціоні прийматимуть участь дві \"харківські\" компанії: * ПАТ \"УПРАВЛІННЯ МЕХАНІЗАЦІЇ БУДІВНИЦТВА №23\" * ПП \"БУДГАРАНТ-7\" Ці компанії тісно пов’язані між собою: http://poltava.to/news/41685/ А це тендер, який вже відбувся, на утримання вуличної мережі — там ситуація абсолютно аналогічна: https://prozorro.gov.ua/tender/UA-2016-11-11-000432-c. ",
+        "generalScore": "1"
+      },
+      "tender": "c62d2171a1af410daf547a56ad751c9d"
+    },
+    "schema": "tender101"
+  },
+  "id": "6776d61eb13df6a1e34906654a1b7536",
+  "sign": "143VLZ2MRAi70oonSJVBev3jDs8jht+hA/N6BTlA6iyba21JoV7oVtW/ZYHsMzBWrBln23Gs5rbvsZZxFsd5CA"
+}

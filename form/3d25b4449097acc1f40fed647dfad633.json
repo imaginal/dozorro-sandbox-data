@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-15T17:21:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b15c2e1ec89c88a00c34c3d067d48889",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tk.domashniy.tekstyl@gmail.com"
+        },
+        "name": "Домашний Текстиль"
+      },
+      "formData": {
+        "generalComment": "Акредитовані НААУ лабораторії (як це вимагається тендерною документацією) які проводять іспити за показником «еластичність по відскоку» за ДСТУ ISO 8307 в Україні відсутні (і на момент проведення тендеру також). Жодної можливості провести іспити за вищевказаним показником немає. Яким чином ЦРСМЗ ЗСУ затвердило зразок єдиного учасника \"Інтерфом-М\" без відповідних випробувань - НЕВІДОМО!",
+        "generalScore": "1"
+      },
+      "tender": "d06098833a7c418787378edc169739b6"
+    },
+    "schema": "tender101"
+  },
+  "id": "80329de17ae9f8033398eea845ffd0ce",
+  "sign": "O3RtI77k9KVzPmQAMCvWT/VzmEb260kSZYCKXmB5AzGUQ8UXr0vBKmvDCMnC+H4+S3aluEZxFV0nOIdnBEdJCQ"
+}

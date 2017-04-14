@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-24T12:12:44+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d2c6bca3e52f2a98f90ca07357a352dd",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vr2519510958@gmail.com"
+        },
+        "name": "Volod Ross"
+      },
+      "formData": {
+        "generalComment": "Щодо завантаження технічної пропозиції - Замовник не відкрив доступ до завантаження Технічної пропозиції. Після завершення аукціону з 16.03.2017 по 23.03.2017 весь час був стан \"НА РОЗГЛЯДІ\" у учасника №1, інші учасники не мали змоги завантажити Технічну пропозицію. Вважаємо дискваліфікацію неправомірною",
+        "generalScore": "1"
+      },
+      "tender": "8fb070de57204e05a2f9a84bf0c3b549"
+    },
+    "schema": "tender101"
+  },
+  "id": "4f74b7b24595d28d39820c727081228b",
+  "sign": "hha83fZ+gI8FuoKlgz6p0GFaoYoOVgoQxGZlyCbd+OkhWhL+rgwPK86+LKSZgFToqPZDwJDbGPUZeJZN1b7eCw"
+}

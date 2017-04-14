@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-31T10:58:12+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Андрій Світпласт"
+      },
+      "comment": "Вимоги до якості визначені, але не визначені кількісні характеристики, в умовах кваліфікації прописана дискримінаційна вимога, щодо магазину/складу в м. Новолинськ",
+      "parentForm": "125a7a59a0384109d344221eba4206b5",
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "comment"
+  },
+  "id": "f8b2f123e384c7806b3420e3eed58f38",
+  "sign": "Gat9KxTnhmSFP8hn94LL5pccveTLJu7XF7x6uJPa/rLwrzwcFOKj70Vr7c1l3VPLB6m1S829ZK1yl9lWQnmWAA"
+}

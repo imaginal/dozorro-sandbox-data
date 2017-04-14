@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-26T16:04:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ffcaf97fda13500082f1dc8710028bcf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dennis.baranets@gmail.com"
+        },
+        "name": "Dennis Baranets"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Замовник вимагає, щоб постачальник був з м. Києва, чим обмежує участь постачальників з інших міст і регіонів."
+      },
+      "tender": "96fef10bae1947d1acac9d25942fccc0"
+    },
+    "schema": "tender104"
+  },
+  "id": "51cd9b7594e2d59b847d8f07397878b3",
+  "sign": "oR/B7OXjSm0htlkBTQwZmWpgkf+8xz6dJZL7BDUieH93xi8//H2UZSIGd/1vv0xrb5HuqhsX7eWs0GDXx5SUBQ"
+}

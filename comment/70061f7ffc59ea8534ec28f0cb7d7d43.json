@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-22T12:46:57+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "db807aaa220229dffeac5b4ced36d98c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "nezhibovska@rambler.ru"
+        },
+        "name": "Татьяна Нежибовская"
+      },
+      "comment": "Чи було дискваліфіковано замовником найнижчу цінову пропозицію за підсумками аукціону (одну або декілька)?\r\n- ТАК!",
+      "parentForm": "4c9dfcba231656282fa7dc129a56b9c2",
+      "tender": "cd99e363b17145e282af120daf3b3a04"
+    },
+    "schema": "comment"
+  },
+  "id": "ead96ace626805bf389b5959812eabed",
+  "sign": "nDQMBpLsYxJpP++MIuy8WzK0zbUOjE4a9NxDcCcrrZyfAS4wBywek58WeYFd/OkHXmBIivmQwkqAkpu9vHcvCQ"
+}

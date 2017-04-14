@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-04-04T14:49:46+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd30929d1871c93ca3bed3f667a1ab71",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vetal.polak@gmail.com"
+        },
+        "name": "Vitaliy Voytovych"
+      },
+      "formData": {
+        "qualitativeCriteria": "no"
+      },
+      "tender": "8a97e673c24941169c1610e6a0f2862c"
+    },
+    "schema": "tender102"
+  },
+  "id": "c20486adac5f47357d35794ac8c6e704",
+  "sign": "UtWCyOQMOcZE5VOKgexR0UkI0Z62DBG+DqzHZLFj97wUBUEqfVf3TthfVfaCqHHU9juYNcH/mcNFhpJGCw9IAw"
+}

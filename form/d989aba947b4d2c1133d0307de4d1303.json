@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-07T11:37:42+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "355d351008db3bf24bf16b831c0ffa78",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dimus82@yandex.ru"
+        },
+        "name": "Дмитрий Волосовский"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "аргументація не достатня",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "ще одна закупівля разом з закупівлею UA-2016-11-14-000994-b, ціну завищено в 3 рази."
+      },
+      "tender": "ade9235f1ebf4a15980e45f2980af0e4"
+    },
+    "schema": "tender111"
+  },
+  "id": "3d4c155e9a536f7c940ad76d46a23853",
+  "sign": "PZh04QjHROnxz8hkyUKMLYq7RP2VbwNpJ4eGWFYcSX44c47BbnLWQOgmj0FB7jeFA3ZBTjStuzEJryIS3lFZCQ"
+}

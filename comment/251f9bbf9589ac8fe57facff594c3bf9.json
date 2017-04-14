@@ -1,0 +1,23 @@
+{
+  "envelope": {
+    "date": "2017-03-01T11:05:58+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Марина Белоус"
+      },
+      "comment": "Учасник, якого визнано Переможцем  цих відкритих торгів не надав докуметів та розрахунків , які передбачала тендерна документація. Тоді, чому ж його визнано переможцем?",
+      "parentForm": "50e7eaea5c8568c0dd7a7ba4772e34d5",
+      "tender": "fbaf875ed5ec4bd982560fb6132eb0c3"
+    },
+    "schema": "comment"
+  },
+  "id": "a8940938ef5f2b9cb28172746c7814d7",
+  "sign": "cGxlwPpAVfiym2gdHdJad8wFrhnICPXJizQsQQLWmlQ67giqjf6uUL+n4Lk+NxXg62A/aV0xSD6blhMlmYn5CQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-21T10:50:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0f3b4bfacc7172a8e3556a32e9edd2e7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lightningman1406@gmail.com"
+        },
+        "name": "Lightning man"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Учасник не відповідає вимогам"
+      },
+      "tender": "3019fee836e24306b1b1cb30ad601299"
+    },
+    "schema": "tender104"
+  },
+  "id": "434d0f49cf9b63a26f64cd2fbc519ca1",
+  "sign": "/kSpLnEzCNDKlgLa0Vi2c/47X/+S6SK0ypHp0rfV9taNMQ2x99at55QLBHqEXGhxDnDIJgEKP+ylYAs9gsb+Cw"
+}

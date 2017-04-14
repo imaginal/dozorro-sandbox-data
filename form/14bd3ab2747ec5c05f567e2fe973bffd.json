@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-16T09:37:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "81d9da03ed087865dbdae52110c9874c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@ozone-music.com.ua"
+        },
+        "name": "Maksym Tereshchenko"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Победитель не предоставил всех документов, для участия в тендере. Однако это не помешало ему стать победителем. В частности в файле - Dokumentatsiya_el_torgiv_zvuk_svet_2017_r.doc пункт 5. Інша інформація."
+      },
+      "tender": "9a231532754d490080fd5f7fb4738b1e"
+    },
+    "schema": "tender111"
+  },
+  "id": "3b265f223d432ad8c6527c80c9d72005",
+  "sign": "t35HcpYTdwHFwqkyrpoeq8d8L5C1hrOoxWt/Z820XvjjpW9vYXZjAviSgvPH/1ntJdYnv1OvA9YwGA8gNfy3Dw"
+}

@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:48:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8b847d52ec9b22d5dd7300614577de21",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "avmtoronto@gmail.com"
+        },
+        "name": "Андрей Маршал"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Это разве ремонт????\r\nЗа такую халтуру руки отрывать надо!!!\r\nСколько можно воровать сволочи и ваять такое уродство за наши деньги????\r\nЗа такую халтуру и обман в китае Вас расстреляли бы в день сдачи!!!\r\nЭто ремонт на миллион долларов???\r\nГорите в аду, суки!!!\r\n",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Ужасные материалы!!! Ужасное качество ремонта!!!\r\nХалтура редчайшая!!!!\r\nНич го общего с проектом!!!\r\nКто заплатит за такую \"халтуру\" или подпишет акты выполненных работ - садить на пожизненное с конфискацией!!!!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "3731b0454b07f6cd104e4bbfbb6fdebc",
+  "sign": "MPIISVlB1v7YmBZJ6tGflqEE9L4phN2ggZ/EmXQ2Ekdp+T4ysMDUevPBHnS7IwUduyz/l01+6XxxpouVJ+tuDw"
+}

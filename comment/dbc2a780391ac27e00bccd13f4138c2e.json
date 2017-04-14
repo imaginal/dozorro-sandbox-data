@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-25T18:12:14+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "58d81917d2fe94574c089e4ba56601c0",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kaminskii.art@gmail.com"
+        },
+        "name": "Artem Kaminskii"
+      },
+      "comment": "Дуже сподобався коментар. Сам особисто звертався, щодо порушень допущених Замовним у допорогових закупівлях, у відповідь почув лише запевнення \"Розібратися  з кричущим випадком\". Проте ніяких реальних дій. Проект дійсно створений за принципом \"нехай говорять\". Шкода витреченого часу на коментар",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "7955945cf19b4f4913257b2d8be2bdbb",
+  "sign": "aMyarqtA2CNczj7u8AZoUMQ2UQRsScMt0lPB2FRN+Bta1UaJhUDF3+47V+t2eIz4E35bEi19PGj35FuxnBabBg"
+}

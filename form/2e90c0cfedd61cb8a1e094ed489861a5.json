@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-31T13:54:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "12f71dc5332299b7d4b8ae86e71a883c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "fum.office@gmail.com"
+        },
+        "name": "Денис Лаврищев"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Причина відхилення пропозиції зазначена як не найнижча ціна, із посиланням на \"не відкриті\" джерела. \r\nЗамовник вважає за доцільне зробити закупівлю за пропозиціями отриманими за телефоном, а не через процедуру закупівлю на майданчику https://prozorro.gov.ua",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Пропозицію за найменшою ціною відхилено."
+      },
+      "tender": "cc59fb0011d24162bc159440661f0559"
+    },
+    "schema": "tender111"
+  },
+  "id": "e5deb7fad1d867d1a4d27fbb2cf6689f",
+  "sign": "1UXFLzmhmbnPVsJjJA53oBTDWeTlDmWkT4YAAFcfU1qCr4WWcvxa8afQI0VMi8Qt97EvqSCh6RE/FcPLpXAbAg"
+}

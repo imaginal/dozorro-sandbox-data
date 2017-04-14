@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-15T00:02:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "410a04b85d7a473d8f08c00575add6d4"
+    },
+    "schema": "tender102"
+  },
+  "id": "b2656a10b0000ffbcea6b88e000e366c",
+  "sign": "QlXgdc2sOvnIQEE9lTZaPf6eGkUKJOm6sXOGlAJUZu9mTieDoi1ZdEVuvu2LOTlflljLUkfTXkfSqavNBfsaDA"
+}

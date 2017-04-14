@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-15T14:25:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "873d2420a9a5ddc32755c1594f7fea19",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "10021963ss@gmail.com"
+        },
+        "name": "Федор Белый"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Відхіляв Замовник учасників щоб перемогла його організація.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Змова між учасниками та Замовником. Дискримінаційні вимоги були виставлені Замовником. Докладно: http://away-traitors.livejournal.com/651.html"
+      },
+      "tender": "bb87bbb9212e4e12a224524831e48276"
+    },
+    "schema": "tender111"
+  },
+  "id": "500968c41decd6f3cac95c514a9dada3",
+  "sign": "twyE9iZw4r5C76nPObvzunt+4XVHrf09axRG2qk/cvCQvnjLk8v0Xf2lWH1fm72X37i0OsrdS0OEbBWzmJ55DQ"
+}

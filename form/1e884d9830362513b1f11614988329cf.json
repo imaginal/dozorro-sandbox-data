@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-09T17:20:07+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "28029dd5ddeaf7b49db9a2b5669d031b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ines.77@mail.ru"
+        },
+        "name": "Inna  Malina"
+      },
+      "formData": {
+        "generalComment": "Замовник не відповідає на запитання, повністю ігнорує скарги. Визнав переможцем юридичну особу, документи якої не відповідать тендерной пропозиції. Протокол взагалі не оформлен належним чином ,жодного прізвища, жодного голосування членів тендерного комітету, ані печатки. Так враження що це не відділ освіти, а школяри документи складають.",
+        "generalScore": "1"
+      },
+      "tender": "af85fc3c3f9947c5821826ba473e4505"
+    },
+    "schema": "tender101"
+  },
+  "id": "d7b9588abb3b204476a65226a190ee8e",
+  "sign": "DYAYyeELpAOqNB3ngoVGdq0O9LUk/HWUPrqI2V1pWQldVoZKpWFQWzxPaL5gOBX35apCptA2lnGaDwFdB1RTBg"
+}

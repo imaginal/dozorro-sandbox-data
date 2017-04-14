@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:15:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "43993a9cdba0ba06e767820a78d6b1ae",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "coill@mail.ru"
+        },
+        "name": "Коля КАрдашов"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Позорище. Сколько миллионов???",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "d38f12e0b78a01128cbc210d5b67c595",
+  "sign": "IWPwZzGn/xyLlyMuElBEIGFWeoKluFUKOuu7QAL+iqGf+zlWyy+2Ku5EsRFL1KTxBQyo+cVWAcyB9GNxDn7WCw"
+}

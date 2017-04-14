@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T11:42:12+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3814b134df4e5b7f2f30417b9c941a97",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "anitka@bigmir.net"
+        },
+        "name": "Anita  Oleynik"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Вимоги до відповідності системних блоків системі Energy Star (яка не є обов'язковою в Україні) є дискримінацією учасників. Можливо встановлена під конкретного учасника.   "
+      },
+      "tender": "5b9f7c4733684eb784f0dd79134de4c9"
+    },
+    "schema": "tender104"
+  },
+  "id": "a4cde2dcb4a163ce991d160b742a12ff",
+  "sign": "HUFwZQ7SC8XegGQZMY8e/GTgq1/w6elElq3CAZi1vruA+4I1Ps7Baq6iYVRnuOmMNT8t9//uOQMof952REmjDQ"
+}

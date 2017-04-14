@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-13T10:58:21+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Учасником \"ТОВ ВКТ-ремсервіс\" надано лише першу та останню сторінку Статуту! Рекомендуємо надавати скан-копію всього документу, який вимагається замовником.",
+      "parentForm": "3d4c155e9a536f7c940ad76d46a23853",
+      "tender": "ade9235f1ebf4a15980e45f2980af0e4"
+    },
+    "schema": "comment"
+  },
+  "id": "ea2f3b72269c42aad0cd4fe82ea62d76",
+  "sign": "sPa7TYim9wjfaVLMXbSw46CDX+BlwqPAKKFnWHtnAAh/E9/tkRVrH7k0krPoDbMT1zrFl5nbvcZciJWXEZs8AA"
+}

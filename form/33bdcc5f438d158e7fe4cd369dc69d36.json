@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-06T12:22:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "88aaa059e254e86fa0aa0d1fac857288",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "unc.mps.2016@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "bestPrice": "no"
+      },
+      "tender": "d2629056161341adb59a590a36c40146"
+    },
+    "schema": "tender102"
+  },
+  "id": "71e31f4f68522294295a71671a775acf",
+  "sign": "c1iyfDia8i1hMeeifXhQ8p3mcp6DayMg8+uKZnqEHDYrs4VV7uTVuOfjiqfpiGp2nX9sKtpj3g8qsuVprJunCg"
+}

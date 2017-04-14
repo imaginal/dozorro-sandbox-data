@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-23T11:25:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3e13cbdddf1301a3b920d97d86e8c1f9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "svgor79@ukr.net"
+        },
+        "name": "Svitlana Gordiienko"
+      },
+      "formData": {
+        "argumentativeDisqualificationComment": "Взагалі ніякого обгрунтування.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Наша пропозиція,яка на 50% дешевша наступної, - відхилена на основі необгрунтованої скарги 2 учасника. "
+      },
+      "tender": "42feea4736154401846a67746773a6b5"
+    },
+    "schema": "tender111"
+  },
+  "id": "0da7358e26a4c97a9ec15a798cfb9794",
+  "sign": "P4+Lnyp8QMk9lUPcZ9gi+6T29qTZlB+8SQCkjEu2ssgzdT7gNO9v8+mPqjTWO1alpBXHsAA13R3ePHpXRuBBCg"
+}

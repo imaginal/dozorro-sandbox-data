@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-18T09:07:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "afc4c316b1f352cc5f83cca8baf97ea6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "foil@ua.fm"
+        },
+        "name": "Вячеслав Йолкін"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Закупівля застарілого устаткування за завищеною ціною. Дає перевагу власнику товару."
+      },
+      "tender": "6d4f61402b7b41f7905fd8771bd5c562"
+    },
+    "schema": "tender104"
+  },
+  "id": "dd1a9f228bdca726aa17fd86e46abc25",
+  "sign": "mj5zXJ7S4QL7SfWhVPlT1Nw51hBsIUS7cyCDshExyM47h0vyE2FbrXawJb4VxuxTagjpV/zjDbFlXtDlETGTDg"
+}

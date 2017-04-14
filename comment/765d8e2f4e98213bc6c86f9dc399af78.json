@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:39:33+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c2879d04664382b8522e9a397da9ba01",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ugvkomkonf@gmail.com"
+        },
+        "name": "Борис Овчаренко"
+      },
+      "comment": "Договір з додатками завантажено у систему «Prozorro».",
+      "parentForm": "e264c6620c99f38af0bfcb4446a9eb5d",
+      "tender": "ff625a593f4b4af08e9496324a6e34af"
+    },
+    "schema": "comment"
+  },
+  "id": "73f00eb04d4348e4ff36e9989c514c5a",
+  "sign": "F10Rax94pSOyHwg2kD/SbP/HFBud+2lFZ2zQBhihKdzwGSEV7cspsQq1l4vvjpHAfEhfP0V7pvly6bHK98FaCQ"
+}

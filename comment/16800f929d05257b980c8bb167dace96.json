@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-15T09:46:50+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "17b78f88e11900e59c042596114426f7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "532274889s@gmail.com"
+        },
+        "name": "Sergey Sidruk"
+      },
+      "comment": "Завдання було змінене шляхом перекреслення старого і написання нового. Як приклад: тендер на закупівлю побутового обладнання (мікрохвильової печі). Весь термін замовник відповідає на питання, а за декілька дняв до кінцевого строку подання пропозиції змінює ТЗ на холодильник, просто переписавши документацію.",
+      "parentForm": "6c6e26a89c2985e9db110a0f8e385118",
+      "tender": "b4a8c64c1cc44cedbb5e7fd90e267c66"
+    },
+    "schema": "comment"
+  },
+  "id": "fdf37bc11043a84ef5d75807940eaf73",
+  "sign": "1KkRfyFtGVEq9pz2N4V2UCd4s49wWOkSjdiXLQTya0jDyYrNEuy7cxRhD2/eZYU7NmYrIyshlP/JwgNAFhTGBA"
+}

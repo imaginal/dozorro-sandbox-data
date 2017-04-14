@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-04-05T20:50:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "35f6325246590eb317964d8c9608ca48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "trotsan.timofei@gmail.com"
+        },
+        "name": "Тимофей Троцан"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Заказчика не интересуют выполнение ни технических ни  квалификационных условий. Заказчика не интересует цена. В выискивании каких-либо зацепок в оформлении тендерной документации наши бюджетники достигли невиданных высот. АМКУ на высоте. Из трех причин дисквалификации признал недостаточно аргументированными аж целых две. Оставил, правильно, третью последнюю по счету.  Убыток госпредприятия 667 тыс. или 42%. ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Дисквалифицировали первого и второго участника. Оставили участника который снизил цену на минимальный шаг от начальной ожидаемой. Уверенность в победе и дар предвидения. "
+      },
+      "tender": "c124ea26e8ed44dab9c5060310589861"
+    },
+    "schema": "tender111"
+  },
+  "id": "6a2adf0e855b34a1f540cc9cc1b8f517",
+  "sign": "1dTWudWmaXVJWHO+8h69Om9jtXTugaMIY8570w8w3dOGbQbbFsH8lp5JvG1WD63euYjILe5IdUbHJMljj3yPDQ"
+}

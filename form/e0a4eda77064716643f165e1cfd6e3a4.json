@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-18T07:00:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "generalComment": "Закупівля відбулась з порушеннями Закону України \"Про публічні закупівлі\". Не проведено тендер.\r\nВ оприлюдненному договорі не вказана ціна за одиницю товару, найменування товару теж не вказано.\r\nПосадові особи постачальника ТОВ \"ГПЛ\" були фігурантами справ по ухилянню від податків та підозрювались у вчинені порушення екологічного законодавсьва.",
+        "generalScore": "1"
+      },
+      "tender": "2aa48fc3c973439aa51b0e30e5f05636"
+    },
+    "schema": "tender101"
+  },
+  "id": "cdf312f88658152fa349e9adf934873d",
+  "sign": "ms3+S10jnlfyB6u+lj6N9ebc+F6lG5PLW5F5L7BLe2RXlt18EM2Ung/o42CD/wB5p2kYybLS74Wb86FqAbH/Bg"
+}

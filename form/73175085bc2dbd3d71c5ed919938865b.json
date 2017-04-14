@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-10T18:15:58+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6ca13a2a63706d61ff6378d18efe9d2f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "slivika@meta.ua"
+        },
+        "name": "Vika Slipenko"
+      },
+      "formData": {
+        "generalComment": "Оцінити дану закупівлю не видається можливим. Замовник навіть не потурбувався, щоб скласти та оприлюднити тендерну документацію. Єдине що зробив замовник - це встановив дискримінаційні умови щодо потенційних учасиків - все для перемоги і участі санаторія з Кіровоградської області. На сьогодні у Кіровоградській області функціонує санаторій \"Гусарське урочище\". Інших немає.",
+        "generalScore": "1"
+      },
+      "tender": "87ae9f9a4e234a789893a86398826c2a"
+    },
+    "schema": "tender101"
+  },
+  "id": "e3d66031bb7566fda6ac72e99c105910",
+  "sign": "FWWemyaxmHR/atZnJE0pKF1WiVr01jiq+LQFYHnFxlvjotXdpZnQymnWuHmslO1lxu4VTj/BH+opTQv1D38RBw"
+}

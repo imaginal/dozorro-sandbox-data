@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-15T14:28:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "873d2420a9a5ddc32755c1594f7fea19",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "10021963ss@gmail.com"
+        },
+        "name": "Федор Белый"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Не належна аргументація",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Вибрали переможця який не відповідав умовам тендерної документації.\r\nhttp://away-traitors.livejournal.com/651.html"
+      },
+      "tender": "9918179d9ea24f5d839c08fd160af364"
+    },
+    "schema": "tender111"
+  },
+  "id": "99358ff583357b00718ab6c49a6a7bf2",
+  "sign": "J7ATfJGI7KvhmgbhnCdZswgdBjQ22xP1XMrcNTkCgiU/rA4SG1JMCkOSpCSzgFmhUOiUzfZtWhUXEROW6Mx+Dw"
+}

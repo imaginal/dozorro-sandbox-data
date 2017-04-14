@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-05T10:38:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d2a4a014bee9cf74dba79fe70e1c730d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yevgenom@gmail.com"
+        },
+        "name": "Євген Овчаренко"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Вимога наявності СЦ у місті Львові - створює переваги окремим учасникам. А той факт що у Львові немає сертифікованого сервісного центру AOR наводить на ішні думки."
+      },
+      "tender": "2fe48080da4e4d129a81be3ea66a1c0d"
+    },
+    "schema": "tender103"
+  },
+  "id": "ca214ea6d01db9fa33f506fcaba44b76",
+  "sign": "E57qP6St1UqOL2m2vDtzcdKB7hFl983ehUzxiJeOdb6NsRy5BTGKYmy2k6acU/nJ8Kiu8CiqCqbesKKJpfx4Bg"
+}

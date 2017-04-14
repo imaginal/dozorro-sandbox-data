@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-02-28T21:27:03+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "comment": "Якщо ви вважєте, що така докуметація не передбаена законом, пишите довідку з посиланням на дані норми закону і подаєте в складі своєі пропозиції.\r\nЯ давно так роблю, але звісно це не гарантує, що вас на дискваліфікують за щось інще.\r\nПорада для всих учасників, пишіть довідки, им більше, тим краще.\r\n",
+      "parentForm": "e1f1becfaee94804bcb1745782bde6ed",
+      "tender": "052c134cb7be48a4beee7a43198a250b"
+    },
+    "schema": "comment"
+  },
+  "id": "7a9bd26a3e9ec5b8dab5995c462f2f4e",
+  "sign": "r0SkjT3ElOqmD2SnNqb31GRM1tePeANFQMpZAczkAzJY6JtHRr4jM2QZYFp3b4IiV58PGE3Moge9jz9QS9piAg"
+}

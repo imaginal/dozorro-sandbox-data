@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-11T22:29:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "06d532c2bdb2112d08ce755f35bf104d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "snizhana.lytvyn@gmail.com"
+        },
+        "name": "Сніжана Литвин"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "По аналогічним предметам закупівлі даного замовника в 90% переможець одна й та сама компанія, із за відсутності конкурентів. Спробували подати свою пропозицію і очікувано нас викинули. Підстава: відсутність довідок, які не можливо було отримати за 5 днів (ми подали гарантійний лист, що в разі перемоги надамо дані довідки до підписання договору)"
+      },
+      "tender": "76262d17d56f4f58ad2e8abb677e694c"
+    },
+    "schema": "tender103"
+  },
+  "id": "0038ad3e5447fceca5eccab161b5519d",
+  "sign": "nyvWVazFpGG+ITwnAKbv+2hPCP4anJeA8hMeYJNwpktPPLOLbKM/Hawh0hc0V+9+BJ4+JdejLNqkC9p+5oV7Dg"
+}

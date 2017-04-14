@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:29:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "df61e9c9737776d7472d5d29d5fe5152",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "5263669@gmail.com"
+        },
+        "name": "НДВ УКРМЕТРТЕСТСТАНДАРТ"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "Щодо лоту № 6. В протокольному рішенні   формуліровка  відміни торгів - допущення до оцінки менше двох тендерних пропозицій . Але до участі в аукціоні були допущені  двва учасника  і акціон відбувся. Відміна суперечить  ст.28 п. 4 "
+      },
+      "tender": "ddc36caf66c743d29b5ed37e24087ab0"
+    },
+    "schema": "tender109"
+  },
+  "id": "65bdd2889a4640f9e13bd3be293c9958",
+  "sign": "ljiiuLPAr8um6zi99W4z9oGC1eakcy2wp/GwfThLgwujU7QwNnysP45sp+jNB+S6/0ApkomvxjgkiSweV9TYCQ"
+}

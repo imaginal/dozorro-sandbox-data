@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-17T14:23:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f814563da128c37dbda77c811b4e9e3d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "rezervistka@ukr.net"
+        },
+        "name": "Aleksandra  Peremetnaia"
+      },
+      "formData": {
+        "argumentativeDisqualification": "yes",
+        "argumentativeDisqualificationComment": "Відмінили торги, із-за того, що учасник зробив помилку при кроку пониженні під час аукціону. ",
+        "cheapestWasDisqualified": "no"
+      },
+      "tender": "0972cc36a90245418351894a5fce9ee1"
+    },
+    "schema": "tender111"
+  },
+  "id": "64799c6b2519f1e6d08844dd8ac11555",
+  "sign": "OvFmYYl46cCSv+UFQWZXQOxrpqX/5zvdDl5k1P91dvTQnVASMGwnJZV9u/+gzwod9VRrVcMa9crxByJ66KYVDQ"
+}

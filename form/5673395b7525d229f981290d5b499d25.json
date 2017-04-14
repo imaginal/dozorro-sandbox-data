@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-15T14:40:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "81d9da03ed087865dbdae52110c9874c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "max@ozone-music.com.ua"
+        },
+        "name": "Maksym Tereshchenko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Непонятна процедура дисквалификации. Просто фраза \"не відповідає вимогам\" не является аргументом и причиной. Нет конкретной технической причины. Похоже на предвзятое отношение к участникам тендера. С такой формулировкой можно любой тендер отменить, и это не отвечает целям Заказчика.",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "bf3986dea2a44a8fa2994b132135e10e"
+    },
+    "schema": "tender111"
+  },
+  "id": "8786ba3b82e3b98858cbd15a793f126c",
+  "sign": "e3qS1+REsTGsMkId2ebh4rNI79VqrJGYt1MiOamFEdWZToBP37BwZ+SYbfhk2bZp+K41l5e11WfEqTGQOHv3BA"
+}

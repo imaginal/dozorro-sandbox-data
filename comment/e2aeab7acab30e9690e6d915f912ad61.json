@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-06T13:14:39+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "Відгук розглянуто!\r\nЗамовнику скеровано лист з вимогою усунути порушення, а у випаду неможливості - розірвати договір",
+      "parentForm": "4d78e9d9672afe28416fdbc548617328",
+      "tender": "884539bcb8f043fa8bc95908fbe2e31b"
+    },
+    "schema": "comment"
+  },
+  "id": "b4a2ca573b0680de587754f08d0cdb23",
+  "sign": "lrTyth49CbfgEtCwYmEh3zV1OdxHJYffwcMaYIUpAMh+Ik5MM3Q2bmNBCCtfs/JFDcVCvMHlyj45oDydrOd9Dg"
+}

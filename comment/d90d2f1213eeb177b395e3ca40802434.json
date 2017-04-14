@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:57:48+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "daa49f130ae3c2a350ee2a12a33cffbc",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "onovlennja@i.ua"
+        },
+        "name": "Zuva Istota"
+      },
+      "comment": "ганьба! зробили простий косметичний ремонт. та ще й ногами замість рук. усе потрібно переробляти.\r\n\r\nі де хоч мінімальні покращення? де вихід до мвц? чому людям потрібно далі штовхатись під містком, через тц і базар?",
+      "parentForm": "d1ae331beb08f76bb57d73c4db73ae0c",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "126d0081e447eb7956f52831e72928d0",
+  "sign": "oLTOEht/vvb+hyq14z9IqAcPd610jl5xIcHWdxqpRQZGsT7h8TPO4VDF4UXgXyINDbAFBlsEHi+gfHbDmIJRBA"
+}

@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-02-28T17:49:43+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9e37def4b6905d33e45e372785fc51b5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "carter13130@gmail.com"
+        },
+        "name": "Carter Vins"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "На нашу думку замовник досі вважає що введена система електронних закупівель для нього не показник і можна приймати рішення на свій розсуд , головне щоб система не вплинула на його гаманець!",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Безпідставна дискваліфікація. Замовник вже більше місяця відмовляється повернути зразок товару!"
+      },
+      "tender": "55b7514604904102afc56555b72a9b30"
+    },
+    "schema": "tender111"
+  },
+  "id": "258544278042714e63efe1a783a89417",
+  "sign": "0JFay2mFT+QREkJqbbElfGnIodgoaCHmRBEsfZWoqkiNMgKdnbdmbbdmdtvMwksnfUvsyRnITx14GwM/wq4qAA"
+}

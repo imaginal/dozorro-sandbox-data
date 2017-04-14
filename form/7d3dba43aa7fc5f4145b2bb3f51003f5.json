@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-10T12:30:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник відхиляє пропозицію з підстав неможливості перевірити якість та безпечність продукції, хоча Учасником було надано усі підтверджуючі документи. \r\nЗамовником було відхилено пропозицію першого Учасника з формальних підстав, та прийнято пропозицію іншого учасника з купою порушень ",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник відхиляє найдешевшу пропозицію, яка дозволяла отримати економію більше 20%"
+      },
+      "tender": "1d76aa7da32445f7b9ad2a84bf571980"
+    },
+    "schema": "tender111"
+  },
+  "id": "4b9cb585f77fee0843a0b4881763765a",
+  "sign": "QV9ImZdodPsTWs4IoaVZ6YTYyOPNI/wKr1zsOnHhl94LFjBuwHdbO5HiLcYuuo74mtZiA1fJrncoBm8sM60fCg"
+}

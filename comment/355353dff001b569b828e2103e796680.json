@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-08T11:09:33+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "67e032035a1298bd0f381422320f5e9c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tatkovua@yandex.ru"
+        },
+        "name": "Tatkov Yuriy"
+      },
+      "comment": "Явное нарушение Заказчика. Интересно как они себе представляют нотариальное заверение оригинала документа. Или может они знают такого нотариуса, который ставит свои печати на оригиналы документов ? Пусть дадут контакты. Надеюсь специалисты Дозорро уже проводят проверку по данному факту. И мы скоро увидим их принципиальную позицию.",
+      "parentForm": "1181cea6f194b3af93ba280935304749",
+      "tender": "021f79cff06b430e990dce21b329c28c"
+    },
+    "schema": "comment"
+  },
+  "id": "1d7c3234f045082e3c223d71666fd6ad",
+  "sign": "b7tKCdjRPWaCrF8OKEoEckti3ltE9lmtserNJxNb/fe5Peg5OQbptaJzKlrZSRD74tGPt1Jk7A9uO9cAkVW7CA"
+}

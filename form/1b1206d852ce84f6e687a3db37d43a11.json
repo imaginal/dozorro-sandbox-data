@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-26T16:02:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ffcaf97fda13500082f1dc8710028bcf",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dennis.baranets@gmail.com"
+        },
+        "name": "Dennis Baranets"
+      },
+      "formData": {
+        "generalComment": "Замовник порушує п.3, ст.5 Закону України \"Про публічні закупівлі\", оскільки в кваліфікаційних вимогах вказав безпідставно пункт про необхідність постачальнику бути з м. Києва. Товар є достатньо стандартизованим, а технічні вимоги до товару достатньо чітко прописані в тендерній документації, щоб прив'язувати кваліфікацію переможця до його географічного місцезнаходження. \r\nУ зв'язку з цим звертаю увагу на дискримінаційний характер умов закупівлі та необгрунтованість дискваліфікації ФОП Тохтамыш К.П. ",
+        "generalScore": "1"
+      },
+      "tender": "96fef10bae1947d1acac9d25942fccc0"
+    },
+    "schema": "tender101"
+  },
+  "id": "4872042769563b39858f1cacb9170e56",
+  "sign": "cCWDQymQWi/5XUr948eucOG5jorKdFwvysSfMJMtwEn+c38TtIao1txA8J2V1o+OpBcH9xC293q2wWyt5texBg"
+}

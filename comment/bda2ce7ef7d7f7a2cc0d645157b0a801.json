@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-22T11:49:52+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "63889eada639f37967661135322e202c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "verunu@mail.ru"
+        },
+        "name": "Anna  Belayavskaya"
+      },
+      "comment": "Ответ на отзыв: Вы ошиблись. По результатам аукциона выиграла компания ТОВ \"Софт Линк Украина\" с ценовым предложением 98000 гривен, с ней и заключен договор.",
+      "parentForm": "becbc821177d338a1d0851b2752b225b",
+      "tender": "2c2efe3c68444f71bfc1c42020fc0a45"
+    },
+    "schema": "comment"
+  },
+  "id": "5215792527beacc3d4b025d3013ae782",
+  "sign": "Kk2h9OtyIO5sCCEpFFgWdOugvvlkg3czMEZoItRBnTyH1sUsNIaPQWWBg2/AWAjGrsFJiCnMprQ5PYR2nSIYAg"
+}

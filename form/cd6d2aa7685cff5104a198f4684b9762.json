@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-16T13:27:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "cd627200b319ceb1701ff78beda8c128",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "memetovainna@gmail.com"
+        },
+        "name": "Inna Memetova"
+      },
+      "formData": {
+        "generalComment": "Доброго дня! Закупівля привищує пороги допорогової закупівлі (товари та сфера непідпадають під діяльність в окремих сферах господарювання). До того ж в тенедерній документації не пояснено чому саме потрібні конкретні марки миючих засобів, навіть з вказанням ароматизаторів (по типу \"Лимон\" або \"Альпійська свіжість). + з логічної точки зору в Україні не знайдеться багато постачальників, які б змогли здійснити доставку за всіма регіонами задешево. Прохання верифікувати.",
+        "generalScore": "1"
+      },
+      "tender": "f53302a9a7654231979e8c32fa9ad86f"
+    },
+    "schema": "tender101"
+  },
+  "id": "e72e20d8877ce88c9ec98dbb09fc07ca",
+  "sign": "mAP7DiFqBEG8iQ3WCzYovjh/MSJyYFAzIeNAwHiMoSskUfkG5AOriQu2sWfENl3w5Rr6b8VKpk74VZoyHBW6Aw"
+}

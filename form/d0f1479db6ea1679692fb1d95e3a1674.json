@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-01T11:00:15+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Марина Белоус"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "В тендерні документації прописано, які саме документи повинен надати Учасник. На мою скаргу, Замовник відповів, що ці документи повинен надавати переможешь. Але в тендерній документаціїї прописано інше. "
+      },
+      "tender": "fbaf875ed5ec4bd982560fb6132eb0c3"
+    },
+    "schema": "tender103"
+  },
+  "id": "35b9862ffa4499cb99f2b5cd66f03438",
+  "sign": "nRaAAtVTA0JQWysmzxYYvrTUP9qZwYzQOw8EVGb/jNpM4Ms1mFHghCSd33OJFKLWBZ+FPLAkfMWrASb3ybV1BQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-16T17:06:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2b9d0b1a9249ad48dfb6acf52ba3995f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "office@spirit-co.com.ua"
+        },
+        "name": "Company Spirit"
+      },
+      "formData": {
+        "cancellationLegitimacy": "no",
+        "cancellationLegitimacyComment": "закупівля відбулася "
+      },
+      "tender": "e5f180515b9b45e291fb11e7c07b4754"
+    },
+    "schema": "tender109"
+  },
+  "id": "d90204d87b67db14f5a0c541659369ce",
+  "sign": "CwUPBHG0DBooBA6kpw9d1uJiyJeB0BOBUU4ZLjJ4JFp1+Y1djvNpo7oEOhc3ee0gTkSdiwoM5Bz8H2uFnnS+Bg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-28T10:48:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "381863764c72e0c2dcc0c956aac620c6",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ose4ka@ukr.net"
+        },
+        "name": "Olga L"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Заказчик не надлежащим образом проконтролировал качество выполненной работы. Такие работы нельзя было принимать, они требуют доработки, что видно не вооруженным глазом."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "671a31b44f1ff94b1c3b38751a06bbd5",
+  "sign": "hAPOndeEfDXxZqJrC1ZEdeh18k8UNyDGpk0CAZ32vJs2fcyvbruG2Juwezs3i0TSU5IT7e6+iNMl2mrXLfisBg"
+}

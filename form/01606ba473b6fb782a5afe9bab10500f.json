@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-11T19:16:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "78aa7c9080d05a32e0bccdc89d9ca026",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "upibnv@gmail.com"
+        },
+        "name": "Дмитро Єгоров"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Не можливо взяти участь в тендері, якщо раніше не поставляв саме предметом закупівлі"
+      },
+      "tender": "dbca69eed4f64f1db6647077e873e3a1"
+    },
+    "schema": "tender103"
+  },
+  "id": "8a650ec1fd43b1b2af07a83442f5311f",
+  "sign": "9kRtpGMbZ04kWihgTxpcDTMjOTNUyxRZqzeazo6Nn105QWpakqNqoKAlU15ZqLCHl6OTxrSsWcSxHsauRs5eDA"
+}

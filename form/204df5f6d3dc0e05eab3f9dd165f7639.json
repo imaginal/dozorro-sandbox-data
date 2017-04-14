@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-15T00:14:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d4b14684d734f967f80023dfae280533",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pridorozhnya@gmail.com"
+        },
+        "name": "Tatyana pridorozhnya"
+      },
+      "formData": {
+        "generalComment": "замовником поділено предмет закупівлі з метою уникнення відкритих торгів.\r\nа саме:\r\nUA-2016-10-14-000052-a\r\nUA-2016-10-23-000006-c \r\n\r\nоб*ект будівництва - пр.Богоявленськийвул.Гагаріна. її розбито на частини, що є порушенням порядку визначення предмету закупівлі",
+        "generalScore": "1"
+      },
+      "tender": "4595f04efdb84f6d92a72648976f99da"
+    },
+    "schema": "tender101"
+  },
+  "id": "f5cf4f09d63632bc766896d658c1fc82",
+  "sign": "O5Qn4iAQYqHoh61vzUqJUQeP4tN6SB61gvnixsNzatbnrSs7W/xLCGGP+BofRy5APzuoy7sfaCR3s48s+tUXAw"
+}

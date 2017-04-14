@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-12-16T20:12:32+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a858f53ef6ea00806db4bf6fe21885c9",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kinal@mail.ru"
+        },
+        "name": "Володя Кіналь"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "підстави відхилення пропозиції ФОП Кіналь В.І. : Учасником торгів надано тендерну пропозицію щодо товару «перетворювач оптика-мідь TP-LINK MC200SC», який відсутній в асортименті офіційного виробника товару.\r\n\r\nобгрунтування : Порушено вимоги ТД.  Згідно ч.7 ст.28 Закону України «Про публічні закупівлі» у зв’язку з наявністю факту зазначення у тендерній пропозиції недостовірної інформації, що є суттєвою при визначенні резуль-татів процедури закупівлі, Замовник відхиляє тендерну пропозиції .\r\n\r\nпояснення: в тендерній документації ніде не зазначалося, що товар повинен бути в асортименті офіційного виробника\r\n",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "bc36d8ddcf0e461d9626826251b33354"
+    },
+    "schema": "tender111"
+  },
+  "id": "70aad5f894c23c0195a29f003fe62269",
+  "sign": "P82MNasXFetAsOLu2SVtc/5/x0EM+6OD5fCe9dPKknZRIevD8YP03AAMBF0RE/en1BefekxLf1HI4aip9kunAg"
+}

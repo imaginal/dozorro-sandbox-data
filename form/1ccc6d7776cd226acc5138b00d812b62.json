@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-07T11:33:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "355d351008db3bf24bf16b831c0ffa78",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dimus82@yandex.ru"
+        },
+        "name": "Дмитрий Волосовский"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументацію мабуть писав учень гімназії яка вказана в закупівлі",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Поводження замовника стандартне, ціна завищена в 4 рази відносно нижчих комерційних цін по Україні. Ціну завищено на 144000гривень при реальній вартості 37000грн. Виходить у нас самі багаті відділи освіти, навіть банки можуть позаздрити таким фінансовим можливостям.  А батьки нехай збирають на ремонти класів, купують підручники, кладуть діткам бутерброти замість нормального харчування в столових. "
+      },
+      "tender": "d58e92bb78ce46c5878024c0a178f542"
+    },
+    "schema": "tender111"
+  },
+  "id": "776dfd647158c49742431aa4abd96f5b",
+  "sign": "peMfdBKeB/uB7gQuxRto5H85ZKjun2VdxTBON2ijJ43+gKMsgVibAYXSV844rMul1yNkbiiNUfSA74PEn0AWCw"
+}

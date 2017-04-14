@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:24:35+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00aa12d714366a638531d812c4f4e800",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "amyskovets@ukr.net"
+        },
+        "name": "Андрій Мисковець"
+      },
+      "comment": "Це просто жахливе та брутальне знущання з міста, його образу та культурі. А ще постає питання чи справді такий \"ремонт\" коштував 24 000 000 гривень? Хто за це відповість?",
+      "parentForm": "c1b8a541cf70c3d72c04269abaebfd71",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "e60f4f0653475a0fe725c796d410a17d",
+  "sign": "V1rMrPWnr4uDOHa/1k9ZrnlSzcxwI9lxqn8bvitcsRaxChFOWaug28OgmTCcmJk2Fs6D9kyCW3b8Ss0PGuV1Dg"
+}

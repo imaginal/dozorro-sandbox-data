@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2016-11-30T19:09:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "cd369d806f191a4df724520c00aaa74e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "nick_bobuh@ukr.net"
+        },
+        "name": "Nick Bobukh"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовником було допущено до торгів компанію, ТОВ \"ЕС АЙ ЦЕНТР\", що не відповідає кваліфікаційним критеріям (відсутні сертифіковані спеціалісти та авторизація виробника лише на продаж ПЗ). Таким чином інші учасники торгів були поставлені замовником в неконкурентні умови. Оскільки відсутність спеціалістів фактично означає неможливість впровадження рішення, маємо підозри щодо особистого інтересу представників замовника у перемозі даного учасника (адже закрити договір, виконавши проект компанія-переможець очевидно не зможе).",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "d99d91ff6adc498a8b2e6d33bee60880"
+    },
+    "schema": "tender111"
+  },
+  "id": "2328ae4963cc2490e413db4483562f6c",
+  "sign": "FWjr1XwE1dPeRpnJwpc+TX61urAoY99meN6AakUE4FiZbIb/Uu8Blx7nkYL4pbidrfJrIzxDrIsn9zXGJDmbAw"
+}

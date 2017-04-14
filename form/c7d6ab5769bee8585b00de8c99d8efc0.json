@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:14:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "generalComment": "Умови закупівлі відповідають законодавству, що регулює електронні допорогові закупівлі. Інформація про проведення закупівлі складена з урахуванням вимог ст. 2,3,4,5 Закону України \"Про публічні закупівлі\" (далі - Закон). \r\nЧітко визначені вимоги до якості товару. Кваліфікаційні критерії встановлені згідно ст. 16 Закону.\r\n",
+        "generalScore": "5"
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender101"
+  },
+  "id": "125a7a59a0384109d344221eba4206b5",
+  "sign": "o0ui42Z7ZAVeYks7vc1UkOIGRcg8QZdb+xFjxgOq0pecefINFU1ci+Mqyi15H2iajwT66V1RbgjEUe7f94N+Dg"
+}

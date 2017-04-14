@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-07T11:03:56+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b52d3aea29cba521b1f9b426966b7d1d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "likarnya27@gmail.com"
+        },
+        "name": "Ольга Ломакина"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Постачальником ФОП Яма Віктор Олександровичем були недотримані строки поставки Товару (спирт етиловий), пункт 5.1 Договору № 56 від 27.02.2017 р., згідно якого Постачальник повинен здійснювати поставку Товару Покупцеві - КЗОЗ \"Харківська міська клінічна лікарня № 27\" протягом 2-х днів з моменту отримання заявки на необхідний товар, але не пізніше двох робочих днів від часу заявки. Постачальник ФОП Яма В.О. отримав заявку 28.02.2017 р., але станом на 07.03.2017 р. спирт етиловий не був доставлений в КЗОЗ \"Харківська міська клінічна лікарня № 27\", що негативно сказалось на діяльності лікарняного закладу.",
+        "purchaserInteractionProblems": [
+          "termsFailure"
+        ]
+      },
+      "tender": "a31fb8e71bb5479cbdbc45c315b26fa9"
+    },
+    "schema": "tender112"
+  },
+  "id": "19f5b3461e94b5ab291c1397cb3ea253",
+  "sign": "dMkkUt1GBI0vrIxYprcub2IjCULhg+jWyLj0WWcm2qeq5K92y+hxScxDJiFL2n44TSJykdZ88Q756hEdXw+uCg"
+}

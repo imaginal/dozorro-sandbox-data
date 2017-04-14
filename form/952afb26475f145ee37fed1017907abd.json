@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:41:11+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f4d4bf177278ce1e48f7a253d825f0a5",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gudzenkozh@gmail.com"
+        },
+        "name": "Zhenya Butsykina"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "b5a5c9ca22a011c55cd655194d8b2166",
+  "sign": "6a4FPx3YWDJyzW1igagy0Bf7MZIyTWFhuakSOU3eYn5inJh0JINAOyrOrWLzcQ+LEiVeinVKMY4nO+sbEnTwCw"
+}

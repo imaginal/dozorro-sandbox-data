@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-27T01:24:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "842c7e9f412ec19743b32cf6061b2c2a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "el.garmash@gmail.com"
+        },
+        "name": "Олена Гармаш"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Один миллион долларов, Карл...",
+        "purchaserInteractionProblemsComment": "Воры!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "9c20fbde8eb49ed3a5f9c8fe6d1d02bd",
+  "sign": "4oWKpkNudI0UaLh3sqRUCC56ZXa0ZcOAa1FCUF3p6/BbwLLJDYTXBn9/fHnJnjD4ggHCul5Sj6FtUd8DLk7KCg"
+}

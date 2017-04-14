@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-15T16:36:59+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5c0174d09555f9d62bec8361623b41b9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hpzr42w@gmail.com"
+        },
+        "name": "Ігор Гордійчук"
+      },
+      "comment": "Мені цікаво чим ФОП відрізняється від виробника? В основному виробники мають своїх представників у регіонах, серед яких є багато фізичних - осіб підприємців, через яких і реалізують власну продукцію. У діяльності ФОПів немає ніяких обмежень порівняно з ПП чи ТзОВ. І якщо учасник (ФОП) приймає участь у тограх, то думаю він має можливості поставити запропонований ним товар.",
+      "parentForm": "0ae9f0342d7c82b85df6f5e364c6786f",
+      "tender": "b251372220b8498db179a50118bf17a1"
+    },
+    "schema": "comment"
+  },
+  "id": "02689469b87ff19eed0e3de9dfd34f88",
+  "sign": "Qi0VRNfvuHBUvTXgRNBeAmstOzoyN3Oz6i7MqevV4uYW19gFPQ2XPyUPUOlHHe9qPxIZnf9ZSbaQ8+ddnwWTDQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-27T16:59:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f3a833cced6ca03bb53a06dd7b6daff8",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "karnelia140587@gmail.com"
+        },
+        "name": "Карнелия Войцеховски"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes",
+        "impartialProductRequirementsComment": "Оскільки Замоник може \"закрити очі\" на недотримання умов поставки і якості товару для \"улюбленного\" постачальника"
+      },
+      "tender": "80c78d502b4e46039cb96e7089a81d64"
+    },
+    "schema": "tender103"
+  },
+  "id": "78647f80ac2a8d708a0d53452020868e",
+  "sign": "C2ZGu08Oghr7Em/nya9qJcoHWZMyOgt+UXpDWb24506cUON3s3QRKofqxChClmntkyusXAwUiApLRO/QQrMRCA"
+}

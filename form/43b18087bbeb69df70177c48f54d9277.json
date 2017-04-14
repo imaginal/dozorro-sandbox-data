@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-14T22:20:17+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "86ea4a4ab88b1dc6ee7363a6e8272d27",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "liberty.andrei@gmail.com"
+        },
+        "name": "Андрей Андрей"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "yes",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "88c2419217bd4122880e2d8f04435d6d"
+    },
+    "schema": "tender102"
+  },
+  "id": "384d7f1ee3d03897c63b21fefbe4b748",
+  "sign": "XTt53L9graRJmlreqH+FQXGKgxOpOcMBTmGTcdF7P5vXH6RNQgbE/6euvciPMcRag+p5PDDoen8DVCsT0SypDA"
+}

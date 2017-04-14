@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-15T14:45:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "1b2fb66940dd077a7a4fcf9366b3edf8",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "290677julima@gmail.com"
+        },
+        "name": "Юлия Матвеева"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Доброго дня, \r\n9 березня за результатами  аукціону наша компанія подала найкращу цінову пропозицію за даною закупівлею.\r\nЗ того часу ми не отримали інформації щодо призначення точного часу наступного переговорного етапу. Станом на сьогодні 15.03.2017 повідомляємо про те, що час спливає,  роботи ми розпочинати не можемо. А на виконання повного обсягу робіт необхідний час. \r\nПрошу посприяти в прискоренні проведення наступного етапу закупівлі.\r\n\r\nЗ повагою,\r\nВіннком Україна"
+      },
+      "tender": "03d59f9b17ff4770a18b32524253e441"
+    },
+    "schema": "tender111"
+  },
+  "id": "6523c3b15fc435af0208888132b1ca59",
+  "sign": "fFRH9TZB9xaX6pQZykdB3rK7VVo6rk6dY2b1ynd7xxncojqWTdb5iviylpydB+d8NEYVNTDOJXJIQKFltF+aCA"
+}

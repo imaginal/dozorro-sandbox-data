@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-22T18:08:51+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "dc2a92d473e2edd30374252fe5cfa6e7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vladpitaychuk@gmail.com"
+        },
+        "name": "Vlad Vlad"
+      },
+      "comment": "А ще, Замовник був вправі не скасовувати закупівлю https://prozorro.gov.ua/tender/UA-2016-11-24-000699-b/ із причини не надання копії паспорта керівника учасника і роботи вже були б виконані.",
+      "parentForm": "ce900356dfc5b146d051af81ca617395",
+      "tender": "2285555385ca4e7b9ba1800115ccadd7"
+    },
+    "schema": "comment"
+  },
+  "id": "cd1c9dd3607b5b84a57642e17e43565f",
+  "sign": "g/CvXABVe2qCN3dktWNe58huLVPqF+xI/uNa53IpxXZi+HZ+apLmaTewuLWEg0L/AVENMMavDfDNouRbhH5ADw"
+}

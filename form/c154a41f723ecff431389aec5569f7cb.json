@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-15T09:55:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "13278c126a03d43f5141be3d7753b8d4",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ponomaleks@gmail.com"
+        },
+        "name": "Александр Владимирович Пономаренко"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Частину вимог до учасника можна  назвати китеріями якості (позитивна оцінка МТСБУ, наявність представництва в місті надання послуг, франшиза, контактцентр), але виставлений явно дискрімінаційний критерій - вік компанії не менше 19 років"
+      },
+      "tender": "82c8720569e04b999dec969ddc74af9f"
+    },
+    "schema": "tender104"
+  },
+  "id": "e2238858cdd6dc623dc556c33e33e881",
+  "sign": "rNhc8vnc4VPHFRGMgWQ9wpkW+UbSCFgU8HsDYQGgEaBX967AkIlPCgPE9MG8TkfCVLCSrdQ0NbQvo77rhrfNBw"
+}

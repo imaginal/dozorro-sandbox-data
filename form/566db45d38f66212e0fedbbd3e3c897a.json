@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-04-04T18:34:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6222a74a0b8f543bb4b597164a8667c1",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "maslovskii88@mail.ru"
+        },
+        "name": "Жека Женя"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Цікаво буде поспостерігати, чи буде виконано Замовником вимогу абзацу третього частини п'ятої статті 28 Закону України від 25.12.2015 № 922-VIII  «Про публічні закупівлі», де встановлено, якщо за результатами розгляду тендерних пропозицій до оцінки допущено тендерні пропозиції менше ніж двох учасників, процедура закупівлі відміняється.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Цікаво буде поспостерігати, чи буде виконано Замовником вимогу абзацу третього частини п'ятої статті 28 Закону України від 25.12.2015 № 922-VIII  «Про публічні закупівлі», де встановлено, якщо за результатами розгляду тендерних пропозицій до оцінки допущено тендерні пропозиції менше ніж двох учасників, процедура закупівлі відміняється."
+      },
+      "tender": "d852ddac4e0e457b92205788d45ba1a1"
+    },
+    "schema": "tender111"
+  },
+  "id": "a66a93d66d1fc00271e4c14eb5cb2ae6",
+  "sign": "wqwOUKCu4B92fiCAVn9t1r6b2bxgS4xvcRQPJPPRJ0aGhhKP4noxiEMX321IaGn6TpQg35CMOBajmGbPHQQ9Ag"
+}

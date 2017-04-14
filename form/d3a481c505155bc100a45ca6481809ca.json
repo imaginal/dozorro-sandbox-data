@@ -1,0 +1,32 @@
+{
+  "envelope": {
+    "date": "2017-04-04T11:30:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "39898792ccee5492d779dc9d1725d148",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "artkmin@gmail.com"
+        },
+        "name": "Art kamss"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Процедура оголошена \"під одного виробника\"",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Процедура оголошена \"під одного виробника\".\r\n",
+        "productQuality": "yes",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "8c3ea59668404888ae192108b7481f78"
+    },
+    "schema": "tender102"
+  },
+  "id": "79e5c07d4c1f129d8e8682c74a083b66",
+  "sign": "M9RuyKJ+AFeClQXn1Wu7FrIh54j462MBXLZCIzzrL1ez6L4dhik1OARf2OtvPrJKpPS86hUoc+CB1tiVPlm1AA"
+}

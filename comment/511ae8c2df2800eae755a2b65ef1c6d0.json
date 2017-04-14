@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-13T13:20:23+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Вами допущено помилки при формуванні пропозиції. Проте, Ви маєте право звернутися зі Скаргою до АМКУ.",
+      "parentForm": "fc6f676a0249acf89597116fd2bae8e0",
+      "tender": "9c0fe5b1ab694ea49edfe11413eb8dea"
+    },
+    "schema": "comment"
+  },
+  "id": "74ca16911926b3f794c24cf6f0d8a9f9",
+  "sign": "DyGW0wZSLEiRBeG4EWbv+vV+SRQy/wrRVoJiFsNjO1ZlRkzSw817FpNP/a3AFJChoLHZL8Uon13MMIepRkeSCg"
+}

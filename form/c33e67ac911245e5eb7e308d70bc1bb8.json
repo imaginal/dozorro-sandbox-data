@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-03T11:37:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3814b134df4e5b7f2f30417b9c941a97",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "anitka@bigmir.net"
+        },
+        "name": "Anita  Oleynik"
+      },
+      "formData": {
+        "generalComment": "вимога до якості відповідно до стандартів ISO - зазначений стандарт є добровільним згідно норм чинного законодавства. Вимога надати документ з посиланням на інтернет-сторінку про відповідність міжнародним стандартам - зазначені стандарти не є обов'язковими до застосування в Україні. Сам сайт не містить інформації щодо техніки в Україні.",
+        "generalScore": "2"
+      },
+      "tender": "5b9f7c4733684eb784f0dd79134de4c9"
+    },
+    "schema": "tender101"
+  },
+  "id": "80deb753e4cb00354cd163bf848e2130",
+  "sign": "TTMftedqM4LR5sIjskGuJK9LHg4LU0RojuqHS2+D7ABQ3p5QcY7/EDkbLxxUcNzzuaNO/l4s3q1WW8XYy9fGBA"
+}

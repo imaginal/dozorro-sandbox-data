@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-15T13:26:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "dbf9a66102565aed05ccf40ebf581a7e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olechka._@mail.ru"
+        },
+        "name": "Olga Kovalenko"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Обгрунтування замовника про дискваліфікацію учасника з найнижчою ціною не є правомірним, так як сертифікати якості на товар надаються при поставці товару відповідної партії. Переможцем визначено ТОВ Західмедінвест з найвищою ціною, який навіть під час торгів не знижав ціну. В кваліфікаційних документах переможця, які завантажено в систему Prozorro, не надані всі документи на товар!\r\nВпевнені, що є корупційна змова між замовником: Костопільським районним центром ПМД і визнаним ним переможцем ТОВ Західмедінвест. ",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "70d375a910044d4db52ece7b1eca2ca5"
+    },
+    "schema": "tender111"
+  },
+  "id": "33fb23d41eb0caf6c90bf6ed22cf3e03",
+  "sign": "S7CDvKVI/hi7hTOrzAj560xNM/uH82KJTi779KA5WE7wv/4isThuFpZFhku/a3M07EBCBz3/vixqGTj8LFgcAg"
+}

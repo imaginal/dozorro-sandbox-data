@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2016-12-05T19:15:13+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "da813e2d56b11434609116c78337fe1b",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "moroz1290@gmail.com"
+        },
+        "name": "Андрей Мороз"
+      },
+      "formData": {
+        "cancellationLegitimacy": "yes"
+      },
+      "tender": "a3b729edd0334c3cb6759c70cb9c45ff"
+    },
+    "schema": "tender109"
+  },
+  "id": "20bfb090929234de8ce088cb6e5f55f7",
+  "sign": "7S5/4mkCNOKFy/eN4JYMQHGx7uf2f8NjHG5w1pJKgCEy7Ld+xNkAAVNVBmnSpayy4q2sKDUA022hFy6rIyK6BQ"
+}

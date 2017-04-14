@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-02-23T14:27:05+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "97ee172f9ab7b49502ffdbbaff8275a1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "globalist82@gmail.com"
+        },
+        "name": "John Vatson"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовником було відхилено пропозицію з більш вигідною ціною на підставі вигаданої причини, а саме ніби якість наданих зразків не відповідала очікуванням Замовника. Яким чином проводився аналіз представники Замовника пояснити так і не змогли. Крім того, було дві скарги і обидві були розглянуті Комісією і задоволені. Комісія радила Замовнику змінити рішення, проте жодної реакції не було. Навіщо взагалі тоді проводити таку закупівлю? Закупайте одразу у \"обраної компанії\"."
+      },
+      "tender": "88d05db2c8924e879aae13eedf4db9f2"
+    },
+    "schema": "tender111"
+  },
+  "id": "d453cf64dabe181cc5132f72dc561df2",
+  "sign": "9vUwcxkj8EqcmuJaLIos8vsPAMgsYyEsuhrc4xPNYtQI/KqxZdyCSlnVDMrj0PmTsCz8UB22uPAYzISftN40Dg"
+}

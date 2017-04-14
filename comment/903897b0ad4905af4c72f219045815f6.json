@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-27T17:30:58+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2a4e0fc3f20d5e0bd32c52db27fc258d",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "771731@i.ua"
+        },
+        "name": "Iryna Nykonchuk"
+      },
+      "comment": "А Ви уявіть собі, \"робота\" тягне максимум на 100000. Це ж скільки собі до кишені що перші, що другі поклали. Срати вони хотіли на все інше.\r\nТакий сором жити у цій багнюці.",
+      "parentForm": "ce822253d017da608ad59a562a070417",
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "comment"
+  },
+  "id": "11c2ec95fc94c6c8184ae0db40446a28",
+  "sign": "naipojdn3N52YdPIDcYeDxx1cFz7itVZC3i0SkBhko9z3NuLNnNdGGFxIqV9oS2u5rMYRbManNWQci0e9BTjBQ"
+}

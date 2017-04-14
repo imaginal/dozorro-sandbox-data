@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-06T15:41:18+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "bd84576fbf60789258c020ee4cd96b28",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pysarenko_elena@mail.ru"
+        },
+        "name": "Елена Писаренко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументуючи дискваліфікацію, було зазначено, що ТОВ Фармасел надало копію фінансового звіту за 9 місяців 2016 року та за 12 місяців 2016 року, але звітним періодом для складання фінансової звітності є календарний рік. Однак згідно документації Замовника було зазначено, що треба надати копію фінансової звітності за два останніх звітних періоди. Для ТОВ Фармасел звітним періодом визначено квартал. Вся необхідна документація Учасником торгів була надана.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Лот 20. Дискваліфіковано найнижчу цінову пропозицію ТОВ Фармасел."
+      },
+      "tender": "148482331d044e2c88dabedb2c801707"
+    },
+    "schema": "tender111"
+  },
+  "id": "405dd8572121334e3a535f1d56066c7c",
+  "sign": "uX6Hff6GR37hACL+fObgoflji+zhB40j6/aKiegEjnfeCHc/OqECCgnFmEJCak2k052Alo7iIHxefS1ythGlCg"
+}

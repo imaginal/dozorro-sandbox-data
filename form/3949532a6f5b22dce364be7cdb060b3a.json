@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-23T16:20:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Светлана Филиппова"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "ФОП Ракшава Х.Є. не предоставлено документів з оцінки відповідності на тест-набір 8-ізопростан. Інструкція додана каталожний номер СМ 516351 виробник  IBL international (Німеччина). Не прикладено листа Держлікслужби щодо оцінки відповідності цього виробника згідно чинного законодавства України.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "ФОП Ракшава Х.Є. не предоставлено документів з оцінки відповідності на тест-набір 8-ізопростан. Інструкція додана каталожний номер СМ 516351 виробник  IBL international (Німеччина). Не прикладено листа Держлікслужби щодо оцінки відповідності цього виробника."
+      },
+      "tender": "f3bd1d1379654afe8aaf2910cebcc6a4"
+    },
+    "schema": "tender111"
+  },
+  "id": "2ccdcc4bafb00fcb7d85a07ea376c0c8",
+  "sign": "1ZbGUjaTGzryn1F3SToFGCkv5WO0JX4ojZoplZTB3iHmK9/OgKmJZBZncDXAi/Trf4HBM7VP1DeErZ2rF4cwDQ"
+}

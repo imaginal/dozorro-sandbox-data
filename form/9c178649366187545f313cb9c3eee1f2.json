@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-29T17:47:10+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "11275651c66e52bf059b2eac0f7e5b0e",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "naumvolodymyr@gmail.com"
+        },
+        "name": "Volodymyr Naumenko"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Наявність лише одного критерію - ціни з ПДВ для капітального ремонту з покращенням однієї з найзавантеженіших станцій Київського метрополітену вже натякає нам на корупційну складову всього процессу відбору переможця.",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender102"
+  },
+  "id": "2f3c37f0fe72b3131beba1672cace5a0",
+  "sign": "CcSojW62cWK9qbAX/VGny+AyEnGJX9UyOCBfFzktz1SCoKfFke1yOQiIXO2doPC8LUGzD4xTTEMLGMqv3omKCA"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-18T08:19:48+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "comment": "Вимоги до подання Замовником документів до закупівлі:\r\nМінекономрозвитку України: Лист № 3302-01_38216-06 від 25.11.2016\r\n",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "37d7d49a2be1cae74cf284c5967020f4",
+  "sign": "WujWyHqqskrhAXpATf/BuWUlMSp32KKZfDDMe/CLVBkNtxKzrY3Gy52TBczarrCh5vA5J6TZRu1/L36J2GLDDg"
+}

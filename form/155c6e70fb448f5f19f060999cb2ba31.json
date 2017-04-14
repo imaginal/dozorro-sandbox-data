@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-11T18:57:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f8ea84ef377ad213403c14f25e921a80",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zebrusan@gmail.com"
+        },
+        "name": "Андрей Ювченко"
+      },
+      "formData": {
+        "generalComment": "Ушлое руководство КУ \"Беловодская ЦРБ\" не выложило в систему спецификацию к договору. Не удивительно, среднестатистический \"холодильник двухкамерный\" стоит как минимум в два раза меньше, чем сумма по договору.",
+        "generalScore": "1"
+      },
+      "tender": "c00fc72e66f4415d9e6dd694114a688c"
+    },
+    "schema": "tender101"
+  },
+  "id": "7cd642c1b8bb21d0cb69c69151afae6c",
+  "sign": "VX1Z1vRJmu4fvv7so32Bc+zQGk9he4/hlClj8HY70NlT1S81Ig5OcDSHrMK832U+q7M9beudMgXlIysnbqEeAg"
+}

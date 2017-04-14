@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-21T14:12:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "84a29b960edcde3a6ab0acfa7a6bbbfd",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "fatum_in_life@ukr.net"
+        },
+        "name": "Kurta  Alexey"
+      },
+      "formData": {
+        "generalComment": "У всіх закупівлях де приймає участь ФОП Островський, прописані одні і ті ж самі умови. В даній закупівлі вони вже постаралися і прописали диплом, або сертифікат.... Даний папірець, майбуть, є тільки у цього учасника. Про що свідчить те що у даній закупівлі ФОП Островський переміг без учасників. Доречі в минулому році цей учасник теж переміг в даній закупівлі, тоді ж нашу пропозицію (нижчу по ціні) було дискваліфіковано.",
+        "generalScore": "2"
+      },
+      "tender": "884d5fd03e0641bab1ce245e2f4a3c7c"
+    },
+    "schema": "tender101"
+  },
+  "id": "a7a6cd4a0a3ba44862e7db220f18b01f",
+  "sign": "cTvfFseXDUdNhlsoy60ofL/aRKrR0FWAIXra02ZypAYEkbbnQ/vkfkoEbnjuezebYrj6JfqXJC+6Jm/E9ScuBg"
+}

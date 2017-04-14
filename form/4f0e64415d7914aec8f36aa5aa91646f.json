@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-14T15:17:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7e01d27bcde55f78bf883e0b756b707c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shadejets@live.ru"
+        },
+        "name": "Vany  Voloshyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "За мовник не дискваліфікував найниєчу цінову пропозицію, хоча і отримав вичерпну інформацію щодо нквідповідності учасника."
+      },
+      "tender": "23ed1b3bf0a74854b62fac580b324fa8"
+    },
+    "schema": "tender111"
+  },
+  "id": "b64a01f8291a11066e208abb81b400b7",
+  "sign": "bbmuB2253kh4z/OIaSSaoLHMhM4gD6v/qMSg3fecqWK7no/aN3bA8IS7k4I1qmLG7fNOn/a4O/vPItzN9icQBw"
+}

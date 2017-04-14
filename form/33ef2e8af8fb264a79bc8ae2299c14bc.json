@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-17T09:55:44+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0b45f8b208a0b775fc676a0e9eeb7998",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alppromd@gmail.com"
+        },
+        "name": "Олександр Дмитрук"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Дискаліфіковано за відсутність сертифікатів відповідності на матеріали, хоча вони і не входять до Переліку матеріалів обовязкової сертифікації. Про це Учасник надав довідку. Переможець теж не надав сертифікатів відповідності."
+      },
+      "tender": "f1aeb2d7dc3548e6ad63b81de9999d5a"
+    },
+    "schema": "tender111"
+  },
+  "id": "4ee87620b46e4fe6247b181a7125f919",
+  "sign": "T9TPOhrgz4SYr+LnWCsWe/wvxXIM0VKxkpe3QpkMVT6KCr96rE6tkJdBPpLa2F6yb9pKb8EoaS6zMnZKa1bDDQ"
+}

@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-09T18:45:37+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "50eb825dee35de38d212e702cc57a041",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ig198201@gmail.com"
+        },
+        "name": "Igor P"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Переможець був явно відомий заздалегідь, будь-які спроби оскаржити \"перемогу\" відразу відхилялися. \r\n\r\nТорги проведені з грубими порушеннями - переможець ФОП Мельчуцький Ігор Миколайович перебуває на другій групі спрощенної системи оподаткування, яка взагалі не дозволяє працювати з держустановами!\r\n"
+      },
+      "tender": "34654dcccf014074a2a5b4922c21ec5d"
+    },
+    "schema": "tender111"
+  },
+  "id": "16e3485168c91d2e822c63bfcc01d90c",
+  "sign": "QwokxVX2FC39sQwUKLmDCANTQZ5eyuIrWKC5o0Cfeyi70pVx1QxiHFS/JTpwnprCiaWcLdQhCPlBoRM0/nC9BA"
+}

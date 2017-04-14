@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-04T22:52:00+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "692a06b54cdc4829b306e5f2710d1b39",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tokhtamish@mail.ru"
+        },
+        "name": "Kirill  Tohtamysh"
+      },
+      "comment": "Ответ поразил своей простотой и коррупционным смыслом: сегодня 4 января, а договор уже заключен, а значит нас не волнует закон Украины. Ещё удалена дата регистрации первой жалобы. Это вовсе не Прозорро.",
+      "parentForm": "4872042769563b39858f1cacb9170e56",
+      "tender": "96fef10bae1947d1acac9d25942fccc0"
+    },
+    "schema": "comment"
+  },
+  "id": "c4487ec58c2511fc1e88680e8fe93d45",
+  "sign": "l4NKbzL5hjr2EAVEu3bHzI5JsFiEFOWGWW3tPWJVa18dovS+tGLh3+ei0AFLVHpp1TjruuPTsxO/F6L5MwFNCA"
+}

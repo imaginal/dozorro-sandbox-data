@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "date": "2017-03-29T17:34:36+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Степан Васильев"
+      },
+      "formData": {
+        "generalComment": "Дуже цікаві умови закупівлі:\r\nдля того щоб запропонувати еквівалент на продукцію виробництва Ecolab, потрібно лист погодження від Ecolab.\r\nДля того щоб використовувати миючі засоби на професійних(!) машинах виробництва Electrolux потрібно лист погодження від Electrolux.\r\nА головне, згідно коментарю Замовника, це все для того щоб не купляти фальсифікат.\r\nКазкові умови :)",
+        "generalScore": "1"
+      },
+      "tender": "f8516d07d61349bc977bf304f2c97b4b"
+    },
+    "schema": "tender101"
+  },
+  "id": "2e702a63e5139b9829e76f4bc960f7ef",
+  "sign": "494AUxxld14zIZmBHe5oijRw9dRjd4hx8LTDP2C/7jiWWFgc06SlbNDUs2TQYNF2M7A8f2X5YmJLrHo/3shIBg"
+}

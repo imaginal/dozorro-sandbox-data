@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-05T15:07:25+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c7892b3398b9f4b15c736483dbd26499",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "sofilightk@gmail.com"
+        },
+        "name": "Яна Маличенко"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Аргументація для дискваліфікації не відповідає дійсності. Оскаржували 2 рази.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "За підсумком аукціону було дискваліфіковано учасника з найнижчою ціною по технічним характеристикам, оскарджували 2 рази"
+      },
+      "tender": "3379c57f8e114c9a8239ccb12a1bcaa9"
+    },
+    "schema": "tender111"
+  },
+  "id": "0cfadf7d3bddeca7d6eb62f71847fdbf",
+  "sign": "5TiFvyfL3qauvoXyQ75S1lfsvdd8s5UnaCONFhh1JL8eqpC/bTnYTceAy4ziOVFd5I7JeoHYukHfHO2QIY4LCA"
+}

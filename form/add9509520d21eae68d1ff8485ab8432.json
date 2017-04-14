@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-10T18:18:40+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6ca13a2a63706d61ff6378d18efe9d2f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "slivika@meta.ua"
+        },
+        "name": "Vika Slipenko"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Встановлено дискримінаційні умови до потенційних учасників і відсутні будь-які вимоги до предмету закупівлі"
+      },
+      "tender": "87ae9f9a4e234a789893a86398826c2a"
+    },
+    "schema": "tender104"
+  },
+  "id": "6c401a0d8ed561e82ec13e584be9c37a",
+  "sign": "bloiOptDmtfJmWZ80t2FsLREVn6soVVHgwAff/Iw1pLiTH7sggs039GhFbGzbuyn8RVnte85Pj1A3LFoI/nWDg"
+}

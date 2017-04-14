@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-16T13:45:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7202a08b90d9abe77b3dd17d4e10c111",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "dav1041@yandex.ru"
+        },
+        "name": "Andrew  Dikarev"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Все предъявленные претензии к приложенной документации ООО Промспецбуд не соответствуют действительности.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Предприятие ООО Промспецбуд дало наименьшее предложение - 14 050 000 грн с НДС, а у победителя ООО \"Киев-Инстал\" 15 419 196 грн с НДС. Это на 1 369 196 грн или 9% меньше суммы победителя."
+      },
+      "tender": "f47bad2d2e3143f39da6cba1453246a5"
+    },
+    "schema": "tender111"
+  },
+  "id": "b3996df3c80172d7d9e8849dd881ac3a",
+  "sign": "4iEg0J6TnIhL+skIpOScq3pMAFGZZlwndLoHlbpZXz0ISYHv3gEi3Zb0t6/fiktjyy14zdNR7NTCV8M+XsCAAQ"
+}

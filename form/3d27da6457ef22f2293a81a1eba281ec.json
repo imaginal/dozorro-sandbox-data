@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-11T19:03:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5932a94f88a1f3ed05ce7e350b19663c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "petrovdanilo727@gmail.com"
+        },
+        "name": "Данило Петров"
+      },
+      "formData": {
+        "generalComment": "Переможець лише \"очікує рішення\", не хочу бути песимістом, але розрив між очікуваною вартістю і найдешевшою пропозицією  надиво великий, чи не виявиться, що учасник просто демпінгував ціну, щоб зірвати торги, а потім відмовиться від підписання договору, або ж вимагатиме вищу ціну?... Відмічаю зірочку посередині..., а після завершення торгів можна буде робити позитивний чи негативний висновок...",
+        "generalScore": "3"
+      },
+      "tender": "a5c9a549c6594f5ea888f67fbe430434"
+    },
+    "schema": "tender101"
+  },
+  "id": "1cbf61ad0a0f6c7d15da807387a9541e",
+  "sign": "wkWyN4ut3aXeQIbToFj0w3Isyc4VoGRheia79sdjaPuFGok2ddsSDV1ih4WgGKCrBs4md9Hcn6C7sjGS3LheAg"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T12:32:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "15e5fc0adce6a9406e94aaadf98fbf67",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "viktol75@gmail.com"
+        },
+        "name": "Viktor  Zhukov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Крайне низкое качество выполнения работ, которое позорит нашу страну перед иностранными гостями (ведь этот ремонт делали не для жителей Киева а прежде всего для гостей Евровидения) ценой лимон баксов. Это не в моральной плоскости, это должно рассматриваться в плоскости уголовной ответственности как хищение в особо крупных. Воровство очевидно!"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "670192898ad1d7f686e3dbdbbed1d208",
+  "sign": "B9MfTU3d3fA25GA/hRDtrLb+zkz33OCddv6EK5lxr9x3kA6oQacGLTx5Gj6ySvgc4/j5ptn17LqythGLnkY5DA"
+}

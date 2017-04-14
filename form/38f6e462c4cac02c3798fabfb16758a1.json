@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-20T11:46:47+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "generalComment": "Замовником було встановлено дискримінаційні умови, які дозволяють прийняти участь лише тим Учасникам, які мають заздалегідь визначені Замовником документи, надання яких жодним чином не впливає на можливість Учасника виконувати своєчасне постачання якісної продукції",
+        "generalScore": "1"
+      },
+      "tender": "bb321098401e40c7b668e2db6096cb0e"
+    },
+    "schema": "tender101"
+  },
+  "id": "97580fccc2bef58f62dc474d2d2c7daf",
+  "sign": "WFXixDqicCkeLlotLdS6RBCzOH8uHiWv5BzEOONcNlJMtMWKtqznai7Z5z24Zt8rFMDMGMuZd0N+F8r7cCNsCQ"
+}

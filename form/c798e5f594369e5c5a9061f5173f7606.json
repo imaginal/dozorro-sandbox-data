@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-15T16:30:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "f25cf3e74336df161a2e540ef2c1963a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "bizal@ua.fm"
+        },
+        "name": "Александр Брель"
+      },
+      "formData": {
+        "generalComment": "Здійснено поділ предмету закупівлі, відкрито кримінальне провадження\r\nhttp://stophab.org/news/1100",
+        "generalScore": "1"
+      },
+      "tender": "f21b766a3e1343e69417208ddb06e6db"
+    },
+    "schema": "tender101"
+  },
+  "id": "99773a823adf1032684d755da3665f56",
+  "sign": "0U5IABPZQOMmqeV/me6/bkrV+SUn6bi3/ICitQHi4U8Ezw6/SmsFkpA7KjqgN/o7dmJULPLgE1tLNp7FMmRIBA"
+}

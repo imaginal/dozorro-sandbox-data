@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T13:33:59+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2093439f5f4b16818a9326518ef055b1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gunkoboris@gmail.com"
+        },
+        "name": "Борис Гунько"
+      },
+      "formData": {
+        "generalComment": "Умови закупівлі нормальні, за винятком того, що з технічними описами і зразками еталонами можна ознайомитись тільки під час тендеру.  Це не дає можливості підготувати зразки у відповідності до вимог, і як наслідок, на цьому тендері відсутня конкуренція.\r\nЄдиний учасник який хоч трохи торгувався був дискваліфікований через \"невідповідність зразка-еталона\". Інші два або домовилися між собою або взагалі є пов'язаними особами. ",
+        "generalScore": "3"
+      },
+      "tender": "e31c1ac2390a4466b09891f9063417ac"
+    },
+    "schema": "tender101"
+  },
+  "id": "8c61358c5a7fe7a972c4980dd8f4091c",
+  "sign": "vcfQBNrHGx9wtD+IH5TG6lQCWuthUPHqqbCffUE/4rdOtYEkFgsh2PM1e48R/wMdmMQsY4W/kwo/4VymlIxdAA"
+}

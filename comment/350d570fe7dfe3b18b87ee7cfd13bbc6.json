@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-12-20T19:07:08+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Закупівля оскаржується в АМКУ. Рішення буде прийнято за результатами розгляду Скарги.",
+      "parentForm": "6c5cf2f5b3cbd23a4a21dd32df526595",
+      "tender": "3cce9d681f1f4a13bb0cac6d9a01d4c9"
+    },
+    "schema": "comment"
+  },
+  "id": "cf609a41c73fce41cc7db84ff271ff7e",
+  "sign": "J0BC7PCwh7ES8kPaOcISlKhTvY/VuZRJK4USPFKvNajS3hvnA71oHNpeAdV5y4ndhuVTAenQ/xy9utwGPvSsAg"
+}

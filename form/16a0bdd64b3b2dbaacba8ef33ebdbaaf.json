@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-20T08:19:29+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "dc4d2f8b245b34e2623d78377d69c70a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "nikityuk-1966@mail.ru"
+        },
+        "name": "виктория никитюк"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "maxCompetition": "yes",
+        "productQuality": "yes"
+      },
+      "tender": "3e6359b64d084704a0caed133c898e96"
+    },
+    "schema": "tender102"
+  },
+  "id": "cb06d00ab460e600718eb863f66b7893",
+  "sign": "JZ/CPsmaSUHA3bKlIOVt1alWDuyHKAiosSA8ztWAZrgrSdrxLV6mFoymAFZ0TQ7sGVBStAcekIgFgUSHWt7wAQ"
+}

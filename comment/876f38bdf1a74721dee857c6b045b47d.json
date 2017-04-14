@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-24T12:35:00+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "75e0277e7b384bc78b57ed6a756c1539",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grushevskiy1@gmail.com"
+        },
+        "name": "Валерий Грушевский"
+      },
+      "comment": "В заявке на тендер, указаны бренды которые принадлежат одной фирме, что имеет признаки коррупции, так как выглядит все это, что тендер написан под конкретного участника.Срочно необходимо поменять условия тендера и убрать все бренды.",
+      "parentForm": "292e6b1bbdc53efdde01b576ec1a5991",
+      "tender": "9e9e289da72142bcbe58601910e8a3b1"
+    },
+    "schema": "comment"
+  },
+  "id": "8d559858bc688767442f83f367220386",
+  "sign": "EJmyU7t1ZWkid0XXYmW7n6gUpBYDWmdmu+1HorPXtcLPbSBtWuDTJCNuxEdLnLaBUt+iMVve99Lhp5IlrZoEAg"
+}

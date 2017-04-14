@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-26T07:48:16+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "3f65613f5348be149c8e072fb3cc0cb1",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kochdv@gmail.com"
+        },
+        "name": "Дмитрий Кочижев"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Замовник, у зв'язку з недостатньо ретельною до тендерною перевіркою учасників (відсутність перевірки фінансового становища учасника на предмет відсутності заборгованості із сплати податків і зборів (обов’язкових платежів) та виконавчих проваджень) заздалегідь ризикує одержати недієздатного переможця ",
+        "maxCompetition": "yes",
+        "productQuality": "yes",
+        "qualitativeCriteria": "yes"
+      },
+      "tender": "cfdd4699425448d69c8d3075f7d86a93"
+    },
+    "schema": "tender102"
+  },
+  "id": "4c13ba9412512e8f2f828f37df3b6a56",
+  "sign": "Sm85wai72iN60GnVhvcSLtChE11JC8Wc1OHqtjg827rleaqiLPXNCOCWOqiCzlagUCYn3XUXUinrkVLGn5mzBw"
+}

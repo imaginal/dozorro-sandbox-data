@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:19:26+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "71df5e71c948bfc21be4bb1e3707e501",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "23avgusta23@gmail.com"
+        },
+        "name": "Яна Ганичева"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Победителем признана фирма с наибольшей ценой. Жалоба участника рассмотрена формально, без рассмотрения по сути. "
+      },
+      "tender": "84c4aa4fc4824dc3bde46f8d6bda4e2f"
+    },
+    "schema": "tender111"
+  },
+  "id": "b879f7f0d2f9df363d585c11aa27081a",
+  "sign": "XADGCLN2mq4Go3qiC2GeT7LU0qxQDW6msVFBZruXmDANOH+KICoUfvFDouSAagutc0cv91Dm5HSqqvAPIg+SAQ"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-05T21:36:47+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2efaf83e0efc5546878622c493318e34",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ovg0242@gmail.com"
+        },
+        "name": "Ольга Голенкова"
+      },
+      "comment": "Предлагаю таких \"неадекватных\" поставщиков ставить в черный список. Здесь не площадка для разжигания межнациональной розни, а бизнес площадка. Не умеете вести бизнес-не выходите на торги.",
+      "parentForm": "8ef3b813381ea922d5e2a876701afed9",
+      "tender": "062f1f8c920149d7bc717559c710fb2a"
+    },
+    "schema": "comment"
+  },
+  "id": "bdc022f2a4c791395f241a539955bdb6",
+  "sign": "dOiLeYBhxSEQiCpr4UXASaP8x+FDXg7dmwFlNJBAZO+jVv3QIEbKDzU6Xi/EGQKXIEjWnibgYFG/Sjr2DbkxAg"
+}

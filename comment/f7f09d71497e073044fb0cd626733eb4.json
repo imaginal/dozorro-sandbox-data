@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-20T11:52:19+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "Ваше звернення перебуває на розгляді у контролюючих органів (ДАСУ, ДЗЕ НП)",
+      "parentForm": "7b1d8e77fe9ca20a53e8ee706d27117f",
+      "tender": "dbc3ed35eddc4dc38b8d997e63690370"
+    },
+    "schema": "comment"
+  },
+  "id": "68fcc47aa6fa6ab88425bfb1fc32c46a",
+  "sign": "oF1wOgnCkvWzfNZ815caBzTFDxj4E//UCgy3h14wgSmsAM6ihoiXsqe9vLnhtGc0lIzE2yfB3QV8VsHkn7YPAA"
+}

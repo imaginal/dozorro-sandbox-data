@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-01T16:23:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "435ad3119bd49630ba6fe76368da189c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "derhalo.nick@gmail.com"
+        },
+        "name": "Nick Derhalo"
+      },
+      "formData": {
+        "generalComment": "Яка логіки дій Замовника з аргументацією обмеження конкуренції до абсолютного \"нуля\" . Адже у випадку \"еквіваленти не пропонувати\" , що так відстоює Замовник , участь візьмуть товари ЛИШЕ одного ВИРОБНИКА і у випадку вимоги \"листа від виробника або представництва\" - постачальник товарів теж буде лише ОДИН. Тож зміст участі Замовника у системі електронних торгів - відсутній ,так як торгів не передбачено Замовником. ",
+        "generalScore": "1"
+      },
+      "tender": "73ababecae684010aea073ec09cf94d2"
+    },
+    "schema": "tender101"
+  },
+  "id": "36f04cae9650ceac07009a8fc56f7732",
+  "sign": "lRXlfvUhuNx5gBrsEqxr5AjCyLBeex4dqRYewe83sIFmE90l/Ed4q4zskZzXslD9qZOjIZhruoHp42XLRlkdBA"
+}

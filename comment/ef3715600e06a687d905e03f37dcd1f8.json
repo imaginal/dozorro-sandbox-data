@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2016-11-28T16:53:01+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a46fcc7b5b35e6b2a163520a4fbeb8ec",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "v.nestulia@gmail.com"
+        },
+        "name": "Viktor Nestulia"
+      },
+      "comment": "Ви або співробітник замовника, або зовсім не розбираєтеся в закупівлях=)\r\nПорушення є і вони очевидні. Деталі за посиланням - https://goo.gl/X0NWfS\r\nВідповідні звернення надіслані контролюючим органам та замовнику.",
+      "parentForm": "16d65666aaffa2cd20b51ccc080b55ea",
+      "tender": "cb614dba2e8a428e915dbba2aecfb3be"
+    },
+    "schema": "comment"
+  },
+  "id": "1bdf7f18d19bbe474a0bb259045d9044",
+  "sign": "vF4+zxVktRg5mmEiljpf4onLfGb0YMX1Mv8hJXPiYzV4cw8mRVB+6AxXWXltdN5hkIrFO4xP6I+VKKphRG0nDQ"
+}

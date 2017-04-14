@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-24T12:15:08+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "856ee8b3cb53451c7ae26abd6e77c743",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "johnynext68@gmail.com"
+        },
+        "name": "Johny Next"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник недостатньо аргументовано відмовив у задоволені скарги одного з учасників.",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Замовник не відхилив пропозиції з явно заниженими (демпінговими) цінами. Виконання договору про закупівлю призведе до порушення Закону України \"Про державний бюджет України на 2017 рік\" (в частині оплати праці працівників) та Податкового кодексу України (в частині сплати податків)."
+      },
+      "tender": "8a2e4954fd274388a7bdef93fad944f7"
+    },
+    "schema": "tender111"
+  },
+  "id": "252a89102103ff18debf9dc60b7bc4fa",
+  "sign": "G4iXGyqEavklWpeHMO/naaYbUXumFbVSeoVUaN7IDO8yhAd5XacJxEjHx4BEnZe8NtyfxwkFdIDuXCqMXKLkCw"
+}

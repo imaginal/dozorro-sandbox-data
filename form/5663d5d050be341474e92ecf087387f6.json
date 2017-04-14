@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-01-30T13:28:14+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fef9c459bfa465edfb1c515fae1a4c55",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "karapetyan.gurgen@gmail.com"
+        },
+        "name": "Gurgen Karapetyan"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Включение в один лот товаров, которые требуют двух различных лицензий, ограничивает потенциальный круг участников закупки товара."
+      },
+      "tender": "440fa737e93c45aa866fb42bb7b66f84"
+    },
+    "schema": "tender104"
+  },
+  "id": "1a329773d89107535a6e45a945e02b8c",
+  "sign": "KDS0Xs7lrRXufo6Zyge0lyQWs8S5Lfk9o0RmD4Kdj54EiAHqixcsnruylKbKv+jwMf14aXY8cTlXjLyvyVCnAQ"
+}

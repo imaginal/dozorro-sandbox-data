@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2016-12-22T15:18:31+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "impartialProductRequirements": "no"
+      },
+      "tender": "16d4137ae1014244b6d26161526f5c26"
+    },
+    "schema": "tender103"
+  },
+  "id": "5f6d0f6f4ec903c2e22c48137a90abef",
+  "sign": "72kII/F/LLhXXrwa+b/EMlfHDfDWK6i02suxzK0l+HHJXF0CzPSZasohw5PPcs3r0SOuRfuX5toYuTGfZEEOBQ"
+}

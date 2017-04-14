@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "date": "2017-02-23T13:26:19+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "624facd3a97a36401672722706564f8b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "annsorokina@mail.ru"
+        },
+        "name": "Ann  Sorokina"
+      },
+      "formData": {
+        "bestPrice": "yes",
+        "bestPriceComment": "да, описание характеристик товара четкие",
+        "maxCompetition": "yes",
+        "maxCompetitionComment": "да",
+        "productQuality": "yes",
+        "productQualityComment": "да",
+        "qualitativeCriteria": "yes",
+        "qualitativeCriteriaComment": "да"
+      },
+      "tender": "5b945d4b1be34e62b77139e23affa759"
+    },
+    "schema": "tender102"
+  },
+  "id": "616ae127e77178075f32506a195070c4",
+  "sign": "w3O1wQDZLTiEa5SOPLrQe/xP5QIGHU7VUzFxEC9BAjHuOj6KisXUZNs5/BAuDLwjhRPokY0hbO5N9V7esiEDAg"
+}

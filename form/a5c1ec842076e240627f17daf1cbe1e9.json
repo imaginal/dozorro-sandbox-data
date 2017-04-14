@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T16:45:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ebb7453a131a98168bc04dd344fa489f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "grupazysk@gmail.com"
+        },
+        "name": "ГРУПА ЗИСК"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Замовник встановлює як вимогу надання спеціальних документів, які зазвичай не вимагаються іншими Замовниками та споживачами, однак заздалегідь отримані потрібними учасниками, наприклад - отримання протоколів випробування на тригліцеридний склад. Чому саме з безлічі показників обрано саме цей - невідомо."
+      },
+      "tender": "16858fb5a8624c9dbc26ea4e89873410"
+    },
+    "schema": "tender104"
+  },
+  "id": "8a9282ea5068486550ec62ad7f8b75ae",
+  "sign": "BSJIsmAdrxn7yi2FcXP3c6HkkkB6D8w1OdTPU2kE+DexhNyWvdpOHsqrRUQbeVcruk4aTenDO3ijmJGMHT+ZDw"
+}

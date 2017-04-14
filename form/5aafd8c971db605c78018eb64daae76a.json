@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-21T10:48:20+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "0f3b4bfacc7172a8e3556a32e9edd2e7",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lightningman1406@gmail.com"
+        },
+        "name": "Lightning man"
+      },
+      "formData": {
+        "generalComment": "Замовником не дотримано принципів добросовісної конкуренції, об'єктивної та неупередженої оцінки пропозицій та запобігання корупційним зловживанням.\r\nТак, документи по процедурі підписувались людиною, що має конфлікт інтересів. \r\nПереможцем переговорної процедури обрано учасника, який не відповідає кваліфікаційним вимогам та запропонував вищу ціну, ніж інші потенційні учасники, що брали участь в попередніх відкритих торгах",
+        "generalScore": "1"
+      },
+      "tender": "3019fee836e24306b1b1cb30ad601299"
+    },
+    "schema": "tender101"
+  },
+  "id": "8824b763229eada36c7f358fa703bd9a",
+  "sign": "GvrkXP4BO7OJio6e3HxYd2PGxif5h5wvlGpCYmqiZNmSH70yrhxdeEYq+5c/CSfHvcQQXKaXPdSJVoBqIySgDw"
+}

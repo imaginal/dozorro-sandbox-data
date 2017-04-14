@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T10:10:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "a12814ccaa6fcee28dac1672f395cbd9",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "d.seleznyov@gmail.com"
+        },
+        "name": "Den Seleznov"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Результат виглядає просто жахливо. За якими критеріями замовник прийняв таку роботу як задовільну? Треба змусити перероблювати і виправляти. "
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "828f0e759be2938f5bfdbd90c3e2c62c",
+  "sign": "9e/ig3s0vk36882GKEvloDCQ2cv/iSDaXLmszz3DX29+/abKUjmh9Mf6ZCNtMQPAcCsYeLqVd9+4OBJ0oC3pDg"
+}

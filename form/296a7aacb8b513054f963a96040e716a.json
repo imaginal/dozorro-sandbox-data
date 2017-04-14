@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-12-15T19:55:13+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c600eeaeb69f15ec8af10434bb04dcd4",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alekspolun@gmail.com"
+        },
+        "name": "Aleksey Pastushenko"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "maxCompetition": "no",
+        "productQuality": "no",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "5a6681d4ef364ceb93d0df22787bf24c"
+    },
+    "schema": "tender102"
+  },
+  "id": "e959c0a8bc62586fce73b79c8ac90c9f",
+  "sign": "UfDckZ9e0MWqg/nDWRvxqSiU2EAhMRp7DGhpZddQquT+mn6LhK9oqxTDS4T74lfJh7D91oG57dgXcHypAdrwCg"
+}

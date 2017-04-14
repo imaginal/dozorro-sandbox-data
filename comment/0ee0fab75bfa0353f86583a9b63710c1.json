@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-03T17:08:40+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7666872410a660ba2accbf9be2746545",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "458nsu@gmail.com"
+        },
+        "name": "Александр Михнюк"
+      },
+      "comment": "Тендерний комітет пише правила, а потім сам їх порушує.",
+      "parentForm": "57a69a5a1eba1ca176fdbfad4d936059",
+      "tender": "4fba76aa68ea4992a88a62febe8301a0"
+    },
+    "schema": "comment"
+  },
+  "id": "3bb5eb343ab29879af4d7ca680bca282",
+  "sign": "V4gLMf+dtlf+0Yi8y9QYzHBffCd5CQhzHmKqhnVHAVWq8REI/MZ4gNDkFUqQBOfBVYuiISy2p1xLI9/oUTxmBQ"
+}

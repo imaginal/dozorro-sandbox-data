@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T00:17:29+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "aaad8ffab391fa96a4546157fbecd3a3",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shtepa.konstantin@gmail.com"
+        },
+        "name": "Костя Штепа"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Под суд таких мошенников.\r\nЭто не ремонт, это ад."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "f9aa56d667fb0ed623dd18586abdd8b6",
+  "sign": "/DV6L2vmg2LlIBXnTUVk3X+nk3M30oDgPd327CdIzsWykm8Y/afklbSjpVHfKnycVBXWBl6lVtw5GSoYwR2PBQ"
+}

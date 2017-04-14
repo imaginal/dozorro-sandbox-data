@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-21T21:52:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e5ab97e37f942ac2073c7ac177ab453f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "natbelous0@gmail.com"
+        },
+        "name": "Наталия Белоус"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "Замовником у додатках до документації самостійно визначено додатковий кваліфікаційний критерій щодо фінансової спроможності та перелік документів на підтвердження цього критерію. При цьому зазначено, що Баланс підприємства має містити беззбиткові показники за останній звітний період.  "
+      },
+      "tender": "5f60e27daae4496580d707a077ef97b6"
+    },
+    "schema": "tender103"
+  },
+  "id": "49c5b0cb97a3ed2de1d3c39fc663c817",
+  "sign": "D2nazpnqZORP3EP6Q+pl5HHKv79M+gABQQRMpXWf6XFvC1yZO3aS4ylauhh/lrmAVGXZszqKzlX3YiHQtEvYCQ"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-06T15:05:43+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "Замовником порушено п. 6.3 Наказу ДП «Зовнішторгвидав України» вiд 13.04.2016 N35 «Про затвердження Порядку здійснення допорогових закупівель». У звязку з вищенаведеним йому направлено лист з вимогою скасувати закупівлю, а ДАСу щодо перевірки закупівель даного Замовника",
+      "parentForm": "c37996744b0f91aa8b288024fb6690de",
+      "tender": "d6c76a23ed464ef288229bd60d0c459b"
+    },
+    "schema": "comment"
+  },
+  "id": "c851fad08adc3b36b29344bedf890cb2",
+  "sign": "s5jKLZGjV/FoxO7NdKrW3JTkcsDkK+FMfkMvlH4ObjaZnGLMrPoeyjlI/F6zlvqJlBGRhVUkKO2H5r0DbOoFDg"
+}

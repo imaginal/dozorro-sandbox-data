@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T09:58:34+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "ec992a5564c849150dd134be362a4344",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "itp-ap@ukr.net"
+        },
+        "name": "Alexandr  Rebus"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Это жесть просто! Такое ощущение, что подрядчик специально набрал самых тупых, слепых и безруких! Такое \"наваять\" - это нужно быть сказочными дебилами. \r\nОни дошли до уровня \"ДОРОЖНИК\" в своем профессионализме!\r\n"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "c52f78b7ecbb986190d1705c6233a429",
+  "sign": "heZ8Vwi8kvaDgbd3lTb5/E2gg76G35fnSzEbLQm2GndttYE25FjBDAPtuhDuRY2ryGijXfNnvW0rYb0ogqsRDQ"
+}

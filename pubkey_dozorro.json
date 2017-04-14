@@ -1,0 +1,17 @@
+{
+  "envelope": {
+    "date": "2016-11-01T06:00:00+02:00",
+    "model": "admin",
+    "owner": "root",
+    "payload": {
+      "algorithm": "Ed25519",
+      "owner": "dozorro.org",
+      "publicKey": "39f1975bd092d0862071433d400fc5c77b4d13c2f637bcd7ff41573e1bf0187d",
+      "validSince": "2016-11-01T06:00:00+02:00",
+      "validTill": "2017-11-01T06:00:00+02:00"
+    },
+    "schema": "pubkey"
+  },
+  "id": "223efa60c127db93926da8a17d3a0f25",
+  "sign": "7g4bPpJhAB1OoJ+qV8Hd2KjGi77nsmN2Oaj7O/NADLId0CPGv8mn482TYKh/lrVE+2W7G1JpUcNLeGmZ8ywqCQ"
+}

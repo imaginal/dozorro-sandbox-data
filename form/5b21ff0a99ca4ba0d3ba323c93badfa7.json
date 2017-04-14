@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-29T18:30:22+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "31728ee6df01a68c990b64fa63c795e3",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "edyardina@rambler.ru"
+        },
+        "name": "Ed  Ko"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Створені неконкурентні умови закупівлі"
+      },
+      "tender": "8335bf57ce554a39b5767f9d28d87700"
+    },
+    "schema": "tender104"
+  },
+  "id": "c6ad763805de305b6b49e955ae973c82",
+  "sign": "U8jiKYveUPFFbM/S6VRQ+fO64yj9NR0EN9TOgMBrAh+EJYGTVDxrjjFASzFZFhNVbuSHkpc86QnVnLwUgYpIDw"
+}

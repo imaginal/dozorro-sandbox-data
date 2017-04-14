@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-13T17:30:21+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "00b9379dccc396f084c8eebc7f7eeae4",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "lakhtionov_19@mail.ru"
+        },
+        "name": "Ivan Lakhtionov"
+      },
+      "comment": "Вами не було надано частину документів до кінцевого строку подання тендерних пропозицій 09.03.2017 року о 10:00 год. Разом з тим, довантажено документи лише 13.03.2017 року о 10:18 год, що не відповідає вимогам закупівлі. ",
+      "parentForm": "3e08b9d673359990492b13b658fdf147",
+      "tender": "c3c3d70b60684d8a8dc40bcd88a3b7ac"
+    },
+    "schema": "comment"
+  },
+  "id": "07b20006b2e0e390d969ad9228d0a96a",
+  "sign": "yLFsDAHNhBJG0snVsMuEsDeh5xTPlyzHKs+32oDlMPmkugO6XPM3qvuuHCltPFZlmcykWaxq5ZcmujMzaaMWCA"
+}

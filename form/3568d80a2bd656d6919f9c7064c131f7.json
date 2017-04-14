@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-01T14:48:50+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "77b0b0a1f146e44cb41b200924d02eb0",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kovtytsky@ukr.net"
+        },
+        "name": "Вася Ковтуцький"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Нами як учасником були подані документи в повному обсязі, яле нас було дискваліфіковано, з чим ми не згідні",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "75f6713252a840d5a468cc759e1e6b0d"
+    },
+    "schema": "tender111"
+  },
+  "id": "0a0698b654b09c702260d1013cd21fdb",
+  "sign": "X1kLMqMfIB9gXOkczRnTM+G43TEIXuWkFLb4zPKO7KMbrj6S0OIgYbKLKCPNiRhDPND6Cb6wkXUy/fZ2MRkSBg"
+}

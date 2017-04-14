@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-29T17:42:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "245ccfea2816e4f266b83ed245ce0f1b",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kostyan-12@narod.ru"
+        },
+        "name": "Костя Хмельницкий"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "9aad4c6461c940a00c366983a22efc3f",
+  "sign": "OOPcXjoJtFYOgA14hdtC9Fq0zJBh3Uw0k4Dm3ZX+7vAt/uVpebRpyHLznkWIdb16hsNEquiqaI5vTM74jPzcBg"
+}

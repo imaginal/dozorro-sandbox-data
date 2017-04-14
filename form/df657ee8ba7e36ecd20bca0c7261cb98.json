@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-01T23:05:23+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5fef64048aeca6ff48639109ebe98b48",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "zerno.sneg@gmail.com"
+        },
+        "name": "Снежана Литвин"
+      },
+      "formData": {
+        "generalComment": "Завищена ціна закупувлі більш ніж вдвічі.\r\nВ період уточнень потенційні учасники намагались з'ясувать параметри основного предмету закупівлі, спочатку Замовник просив почекати та обіцяв додати пізніше, коли інший учасник нагадав про відсутність \"підружених\" вимог, відповідь, на мій суб'єктивний погляд, була надана в грбій, якщо не хамській формі: \"Дивись попередню відповідь\"",
+        "generalScore": "1"
+      },
+      "tender": "9bfa70785d84419581b64feee77b0a7b"
+    },
+    "schema": "tender101"
+  },
+  "id": "ecae6ccca1dad82fc24c07cef01e152c",
+  "sign": "qAIDl0VPyAVwerlNOl1ZCGRMl0ZUDFkP0nX44CtQ2VKZmn6Xom/7uvdkbOqpoDMa/5EL2/BsZZTAeq3rMwNrBg"
+}

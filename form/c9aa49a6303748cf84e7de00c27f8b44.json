@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-09T14:02:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2093439f5f4b16818a9326518ef055b1",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "gunkoboris@gmail.com"
+        },
+        "name": "Борис Гунько"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "\"Технічний опис\" та \"зразок-еталон\" це опис та зразок моделі прописані під конкретного виробника. Якщо державні замовники не будить заздалегідь давати можливість всім бажаючим ознайомитись із документами і зразками то не буде ніякої конкуренції. Який сенс брати участь у закупівлях де все прописано під улюбленого постачальника?!"
+      },
+      "tender": "e31c1ac2390a4466b09891f9063417ac"
+    },
+    "schema": "tender103"
+  },
+  "id": "ebe7cc1227d4b8fea2bad81890423013",
+  "sign": "QIAHAtShsu4jyHSjoT8WmlPTModqrcrnY1tkMdwGv2y0nYbnS5dqF4m9Ym433uH2rj6G1eSuwuYOaw9C1R1xBA"
+}

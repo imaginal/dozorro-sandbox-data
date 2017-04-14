@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-04-04T10:31:48+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "c2879d04664382b8522e9a397da9ba01",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ugvkomkonf@gmail.com"
+        },
+        "name": "Борис Овчаренко"
+      },
+      "comment": "Дана закупівля проведена у ДП «Науково-технологічний центр паливно-енергетичних ресурсів Національної академії наук України», який є єдиною компетентною установою, яка може якісно провести науково-технічну експертизу проектних технологічних документів на розробку нафтових, газових і газоконденсатних родовищ України. Інших установ на час проведення закупівлі не визначено.",
+      "parentForm": "ee6112ec6c5b1cc97b8cc8f30d81f1da",
+      "tender": "784df372adde44c1a2eaa65b9f4ac2aa"
+    },
+    "schema": "comment"
+  },
+  "id": "eb9b649674c3cb0f88332d132bdaa0b2",
+  "sign": "5ek6w7t29dHC6010CxTnUHjGi9rOCf8MdTGZ0vepeiZDE/NLCdlHsYd/pekDW2sbXo7S4Tf6/OMS3sx7xTCsCw"
+}

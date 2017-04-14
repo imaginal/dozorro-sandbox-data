@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-05T14:38:04+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d60cf1771794ec7475f613f4e4d5a79f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "umtsani@rambler.ru"
+        },
+        "name": "Людмила Журбинская"
+      },
+      "formData": {
+        "correctExpectedCost": "no",
+        "correctExpectedCostComment": "Рыночная цена утилизации мусора многократно дороже. \r\nЗдесь все проще, дешевле и быстро -- http://nicolisk.ucoz.ru/_ld/0/27_-_.pdf "
+      },
+      "tender": "a8ed5c3225c6424b8cf3e204cc74af00"
+    },
+    "schema": "tender106"
+  },
+  "id": "a72f71dd6d6d6a1918ef6907eb19a419",
+  "sign": "2au+D+GVwB6YjBrmjexlMHzW3Lmfghp7fY2wQeiwH5y9xULu8mXXslfLdq+UecTq7CBehSQTak6t+TY+lflYAQ"
+}

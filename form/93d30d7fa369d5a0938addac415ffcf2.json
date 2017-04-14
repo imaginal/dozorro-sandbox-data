@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2017-03-10T18:18:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6ca13a2a63706d61ff6378d18efe9d2f",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "slivika@meta.ua"
+        },
+        "name": "Vika Slipenko"
+      },
+      "formData": {
+        "bestPrice": "no",
+        "bestPriceComment": "Встановлено дискримінаційні умови до потенційних учасників",
+        "maxCompetition": "no",
+        "maxCompetitionComment": "Встановлено дискримінаційні умови до потенційних учасників",
+        "productQuality": "no",
+        "productQualityComment": "Відсутня тендерна документація",
+        "qualitativeCriteria": "no"
+      },
+      "tender": "87ae9f9a4e234a789893a86398826c2a"
+    },
+    "schema": "tender102"
+  },
+  "id": "aa1a459ce366b4778d44597a0012f836",
+  "sign": "drl9kDV6LRvEyT1ytoMrLL8IaRh4yZh/lEM4RzwsBi2Z516kuW4uXI/iSUgOkMNajhyODusfEwK5cwtrSd41Dw"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-31T14:22:30+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "83dbc9a1b089642c49b1f1ffb6c6ba04",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "medical.lutsk@gmail.com"
+        },
+        "name": "Василь Юзвак"
+      },
+      "formData": {
+        "generalComment": "Замовник виклав вимоги до закупівлі у відповідності до ЗУ \" Про публічні закупівлі\",   \r\n",
+        "generalScore": "4"
+      },
+      "tender": "daf090400e8144b5bcca7768b06d061a"
+    },
+    "schema": "tender101"
+  },
+  "id": "b31d364dcebef3345a820b148239d54f",
+  "sign": "o68V241ri2zvMYMlCLffU+Q/TjvhV9XVeCw3fQSuodr6XKlRtZAYPv64qgRlquwgVK+OUMKY7qbMmqDF0Gk1BQ"
+}

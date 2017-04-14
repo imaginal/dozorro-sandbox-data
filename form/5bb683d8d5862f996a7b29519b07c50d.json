@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-13T17:56:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7c4f9a690ab7254131861f11c0b54dfe",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "tigorr007@gmail.com"
+        },
+        "name": "Igor Tigor"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Для можливості проектування об'єкту: Капітальне будівництво водопровідної мережі с. Медведівка Козятинського району\", необхідні  наступні вихідні дані:\r\n1. Інженерно - геологічні вишукування та гідрогеологічні вишукування під артсвердловину.\r\n2.   Топографічна зйомка під артсвердловину\r\n3.   Топографічна зйомка по трасі прокладання водопроводу. - 4,5 км.\r\n4.   Технічні умови на електропостачання вузла водозабору.\r\n5.   Топозйомка по трасі прокладання ЛЕП.\r\nДокументацією не  передбачено отримання вищеперелічених даних за рахунок Виконавця проекту. \r\nЗамовник не кваліфіковано підготувавши документацію, неправомірно відхиляє найбільш економічну  пропозицію. \r\n"
+      },
+      "tender": "e191fa33d7d4492b80926cb3d9e2cd5c"
+    },
+    "schema": "tender111"
+  },
+  "id": "2af57c0cb99102c8bb3b4271779ec8fa",
+  "sign": "3CjQhnHldARh1hEdIp8uniulWpCNWe1I3uOSYd3ocT5Cw4qk69XTuwJXmItNLlat3APjOyjJGvjqg4cIzD2kAg"
+}

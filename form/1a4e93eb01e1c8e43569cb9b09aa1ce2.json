@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T11:53:53+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "e0e28e84f5d1f5aad5870cd01c658598",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "Tanja_sonce@ukr.net"
+        },
+        "name": "Тетяна Харкава"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "Переваги є для їх учасників, причому вони по тих самих недоліках дискваліфіковують одних, а своїх приймають."
+      },
+      "tender": "2f36c95019374a31ab28750735b4c282"
+    },
+    "schema": "tender104"
+  },
+  "id": "e8f9033147604cfe2703f0a85c9bb427",
+  "sign": "qH3KPbLrcPHII75o6SfYqcBrK4Nc8xeHBqc/WVSR7zZ6Bwi7KAUngf/I0hTomb5IxwsdpF49HLsnp2D7UfseDQ"
+}

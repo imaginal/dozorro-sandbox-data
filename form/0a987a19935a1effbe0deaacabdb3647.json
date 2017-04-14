@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-09T16:43:28+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6f44997d24640b978a686930ab55ff26",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "brom@brom.ua"
+        },
+        "name": "Company Brom"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Найнижча ціна біла запропонована учасником на прилади, які не відповідали вимогам замовника по технічним характеристикам. Всі учасники запропонували дорожчі моделі з відповідними характеристиками, один на моделі в 2 рази дешевші. В результаті оскарження результатів аукціону замовник всеодно підписав договір з учасником, який запропонував найнижчу ціну на невідповідний товар."
+      },
+      "tender": "0d0596d104ad4415be51864b073e9ffc"
+    },
+    "schema": "tender111"
+  },
+  "id": "bd5363d743e6a5e1573db5dc647479aa",
+  "sign": "aCp+II3kOuhAYyDlV62LDVFxr0NW3ibjNy7ncWGn86PElFEpZLraKU+VFMCvIS5dR9N+QLXtVB90wjTS4+TZDw"
+}

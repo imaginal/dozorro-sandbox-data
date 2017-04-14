@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-27T08:49:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "6a6524bc708d406a13da5f5078e3d36d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "crimsonic@i.ua"
+        },
+        "name": "Andrew Sirchenko"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Гроші просто вкрадені. Жах"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "a08c7e5b9768a17338d88539c5fbbef9",
+  "sign": "wpMOqN0kTUy35/yfXUggL2o3UaK2FyUDN8Ck4h9QnKL67jT5FhgoU9vaLW97lPAvRBOvpRMlBa1M0WEtDOeiCg"
+}

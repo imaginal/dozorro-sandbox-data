@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-30T20:05:09+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "09d7a0071978d2550c6d9089d1fc1638",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kutssergy1234@gmail.com"
+        },
+        "name": "Сергей Куц"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1"
+      },
+      "tender": "d98cf902499b4e0ea2f3dcb489c45177"
+    },
+    "schema": "tender112"
+  },
+  "id": "e783141fe53624ed27605da06d1ecc5a",
+  "sign": "riN0NZi84JfHiUJcOVZ2HaEwFiMw4FVyVMbP0yTLKBMF2DChNcY7/6YQnnSAkFQVzVPdCEYvQgJzjeASUMalDQ"
+}

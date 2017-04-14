@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-22T13:11:33+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "20667722b94c6175819a175aeaf20565",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "uvleontev@gmail.com"
+        },
+        "name": "Юрій Леонтьєв"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Тендер з найнижчою ціновою пропозицією виграло Державне підприємство \"РОЗВИТОК\" Міністерства внутрішніх справ України. Незважаючи на підписаний між нашими установами договір, ДП  \"РОЗВИТОК\" не виконало   його в зазначені строки. Таким чином, це підприємство  є  зразком непорядного й безвідповідального виконавця своїх зобов'язань. Звертаємося до усіх замовників та учасників тендерних процедур в системі \"ПРОЗОРО\" про небезпечність участі    ДП  \"РОЗВИТОК\"  у відкритих торгах і виключення його з усіх процедур."
+      },
+      "tender": "d12543e8b15f4c77beb4ef62a2e8d358"
+    },
+    "schema": "tender111"
+  },
+  "id": "ca1758f29e38f96094cb8f7d3356593b",
+  "sign": "O8BxzSn90Tu4gPlAM2IOoTqnqXgHfoaaSHkH0c9gdXaqxINJung0fWt+aZrc1Lcgm0bHhRr7Dm5Sd1gxyFunDw"
+}

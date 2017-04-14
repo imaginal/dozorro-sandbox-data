@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-01-27T05:42:03+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Не \"свій\" учасник переміг - довго думали, але таки скасували. Законність - під великим сумнівом\r\nПричина скасування\r\nУ зв’язку з необхідністю проведення закупівлі з іншими кваліфакаційними вимогами до учасників торгів для об’єктивного відбору виконавця послуг"
+      },
+      "tender": "5cba0824c8be40debe22dda9ab17af1e"
+    },
+    "schema": "tender111"
+  },
+  "id": "dae545229ca8d6694b16abeb6528b414",
+  "sign": "qpo7bc/EN7TIKGniDYz+gUKp/fQPosOCzcoZxW8sEzAdLlZvm6KLgEN32ddCpSUTzo1/TEwBMe/jQRwMHK2RBQ"
+}

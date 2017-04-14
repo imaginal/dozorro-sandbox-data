@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-01T22:45:06+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "40ea73aea1c471f059114b577693ba6a",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vladimir.paliy@gmail.com"
+        },
+        "name": "Volodymyr Paliy"
+      },
+      "formData": {
+        "generalComment": "Тендерна документація а саме техзавдання складено з порушенням чинних ДБН та ДСТУ про що вказано у скаргах-вимогах які необгрунтовано відхилені замовником. Занижені технічні характеристики призведуть до неочікувано більших витрат на опалення  оскільки вікна із однокамерними склопакетами мають коефіцієнт опору теплопередачі менше 0,75м2К/Вт - який вимагається згідно чинного ДБН В 2.6:31-2006.\r\nА коментар замовника що сертифікат відповідності не вимагався взагалі абсурд адже він обов'язковий для вікон!",
+        "generalScore": "1"
+      },
+      "tender": "e86d9451adf24f11a74687cd8144f276"
+    },
+    "schema": "tender101"
+  },
+  "id": "6efc39bff4b1ea4e12aafb6c49f0a330",
+  "sign": "GJ0OFxYeT5CdUuAS8e1MTWagk1zGyF3ZQ4f0gQzoh4ovxrI8Zfqv6OYvQ9gufsCEI6iCCvYPX1aUlJH88l74Cg"
+}

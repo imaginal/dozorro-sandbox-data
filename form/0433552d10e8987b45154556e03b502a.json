@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T05:08:27+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7d8cf4c7ec5b3fa87caad24006b62142",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "severinpol@mail.ru"
+        },
+        "name": "Oleksii Severyn"
+      },
+      "formData": {
+        "cheapestWasDisqualified": "no",
+        "cheapestWasDisqualifiedComment": "Значна вірогідність узгоджених дій учасників. Телефон +38 (057) 766-32-78 - спільний."
+      },
+      "tender": "7f53562b2b3048d6990680e3dd299c5c"
+    },
+    "schema": "tender111"
+  },
+  "id": "b5d137972c2a0f615918ec09f82d7874",
+  "sign": "WCUW3xwJMXQz5f8dk3vcFDOWMzbNDxrGXFz6/IZ0gin11u6R+hvk/huUasf+58KYqWmCx3VvE/bjCEkl7AshDg"
+}

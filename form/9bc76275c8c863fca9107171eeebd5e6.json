@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-16T17:05:52+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "2b9d0b1a9249ad48dfb6acf52ba3995f",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "office@spirit-co.com.ua"
+        },
+        "name": "Company Spirit"
+      },
+      "formData": {
+        "lotsExpediency": "no"
+      },
+      "tender": "e5f180515b9b45e291fb11e7c07b4754"
+    },
+    "schema": "tender107"
+  },
+  "id": "f255f42e6f8877bcfa8b614b7e8db0f7",
+  "sign": "XVXybWt2cL0qoesKtBJfNdwvea85+ZsIgZ1Q/B8T/Dvv/xnlebtWrM47/bvUGoUWt5p04zEWMcaxnO1HTYQKBQ"
+}

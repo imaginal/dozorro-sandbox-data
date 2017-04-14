@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-01-26T10:02:38+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "7e01d27bcde55f78bf883e0b756b707c",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "shadejets@live.ru"
+        },
+        "name": "Vany  Voloshyn"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник вибірково дискваліфікує учасників, явно маючи ціль визнати переможцем ФОП Науменко.\r\nПрошу звернути також увагу на закупівлю UA-2017-01-16-000749-a де замовником виступає Департамент реєстраційних послуг Запорізької міської ради. Замовник відхилив 6 учасників відповідно до звернення учасника ФОП Науменко, та визнав його переможцем, що дуже дивно.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Замовник відхилив 2 найнижчі цінові пропозиції, та акцептував ФОП Науменко."
+      },
+      "tender": "0f4285110e25493f9faf2d3e2a214886"
+    },
+    "schema": "tender111"
+  },
+  "id": "347b9db43284b505aa4d1687eaaeef60",
+  "sign": "wDj64GORb3egf4Mjy267Uk7FbxApJFg4aNFDfJMc891c2ZQEegvKkoJDwaoFMx2NRqs4iu8GhUZm8H91R41rCg"
+}

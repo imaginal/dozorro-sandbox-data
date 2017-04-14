@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-04-04T14:50:35+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fd30929d1871c93ca3bed3f667a1ab71",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "vetal.polak@gmail.com"
+        },
+        "name": "Vitaliy Voytovych"
+      },
+      "formData": {
+        "impartialParticipantRequirements": "no",
+        "impartialParticipantRequirementsComment": "сумма тендера 309 тысяч и не было торгов."
+      },
+      "tender": "8a97e673c24941169c1610e6a0f2862c"
+    },
+    "schema": "tender104"
+  },
+  "id": "4529413af89590644adef2b3a06c9313",
+  "sign": "dIyh4GsSkpqRlyAjj4hlxPEguwC7wo0hPE+0rAuL4Ojwfecdaa2Fncna+37GvV7i4LZbuhXvYzsOiXvNpMmUCA"
+}

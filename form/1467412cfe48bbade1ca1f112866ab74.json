@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "date": "2017-03-30T19:56:02+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "09d7a0071978d2550c6d9089d1fc1638",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "kutssergy1234@gmail.com"
+        },
+        "name": "Сергей Куц"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Замовник ухиляеться від виконання умов договору в розділі оплата",
+        "purchaserInteractionProblems": [
+          "latePayment",
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Від моменту поставки 28.02.17р. вже минуло 30 діб оплати не здійснена, в телефоній розмові перспектив оплати не існує"
+      },
+      "tender": "0e08c94597ab44fc95015ddc26659f01"
+    },
+    "schema": "tender112"
+  },
+  "id": "73f2a2b3e687cf8f1d18905454e7602c",
+  "sign": "/NW0SUWu4ueRSwwlqLJVFcFFzoeSKAHnnaoYotycSSV0eQTQXOrOrzWH/+zQReZZmENkGXJ6j26CoKL/Qj/ODw"
+}

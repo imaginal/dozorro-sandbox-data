@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-02-06T14:21:49+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "68729269b67e9d58681c01238573b946",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "promelektro011@gmail.com"
+        },
+        "name": "Stanislav Stanislav"
+      },
+      "comment": "Просим отозвать отзыв, этот отзыв качается другой компании.",
+      "parentForm": "b845343c9ce965cb7afe1bcf00777156",
+      "tender": "8d513b8da5ab4aa987931aee6f5a46d0"
+    },
+    "schema": "comment"
+  },
+  "id": "aa30d86cddb6d4b7d772c16379bba786",
+  "sign": "7ADOU1lW/MHsqg8hhb26zxnadN2dSAIyOp91c0Rhe1NuJUMT6LsBoG82EQ+0VCkgIUFEboLSiAZCyPeYJzwwDA"
+}

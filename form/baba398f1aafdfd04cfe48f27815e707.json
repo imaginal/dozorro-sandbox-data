@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-06T10:52:39+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b4e121c82da9e270b6f98cdc02f0273a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ekko.pak@gmail.com"
+        },
+        "name": "Александр Зенков"
+      },
+      "formData": {
+        "generalComment": "В условиях закупки была указанна отсрочка 365 календарных дней, что не позволяет принимать участия в данном тендере. Это как минимум глупо просить отсрочку на расходные материалы 365 к.д. Наша компания смело может предложить цену на 25% и более ниже ожидаемой, что позволить значительно сэкономить бюджетные средства но мы не готовы давать отсрочку размеров в 365 к.д. ",
+        "generalScore": "1"
+      },
+      "tender": "75fa1d49081b4602a42194f4dab72cb8"
+    },
+    "schema": "tender101"
+  },
+  "id": "15eac8a91732119fee687aadb2e8f9bf",
+  "sign": "FHmakyUOJBBb6t2pf0ICvUJBJvfDK9nmdIQcIVRVtXzWb5R8+CCi+F25Hc9Xv1Lz83mjUW/795Ua8/ZVixChBw"
+}

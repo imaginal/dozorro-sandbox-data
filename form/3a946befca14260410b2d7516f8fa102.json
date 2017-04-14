@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-27T15:52:46+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "daa49f130ae3c2a350ee2a12a33cffbc",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "onovlennja@i.ua"
+        },
+        "name": "Zuva Istota"
+      },
+      "formData": {
+        "lotsExpediency": "no"
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender107"
+  },
+  "id": "88d4b5cb461575d0c6925016cf20f602",
+  "sign": "ym+BS5xyCZdGWwxu+FO2YiJUUItpbiPDVYSW8Sfb2j7ivEdxzqEn0ybk6CLZAXY82Er73ICgC88XjKwbs2JGAg"
+}

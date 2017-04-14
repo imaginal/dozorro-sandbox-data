@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2017-03-10T13:37:01+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "512a637633b9f0816ba0b7c3adba818a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ol39460@gmail.com"
+        },
+        "name": "Олег Jktu"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Замовник просто не хочить бачить документи, які надано в складі тендерної пропозиції проте співробітники майданчику за допомогою, якого завантувалися документи їх бачать й бачать їх в системі PROZORRO.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Тендерний комітет Замовника грубо порушив норми Закону України \"Про публічні закупівлі\" та відхилив тендерну пропозицію з найменшою ціною з урахуванням того, що вона повністю відповідє вимогам тендерної документації."
+      },
+      "tender": "8b3a8aada9fc41b4a5d45f2407e38570"
+    },
+    "schema": "tender111"
+  },
+  "id": "1c8cb18047ff59dee0cec4ff8404a9e0",
+  "sign": "VCYadrt4wz+aMlOMhDjuJpq0/8EVkmPGmCP97VGIr0cmoPfI5FkSH2m1mh8z3SWh/3NmEz/z7AAMvj600drMCA"
+}

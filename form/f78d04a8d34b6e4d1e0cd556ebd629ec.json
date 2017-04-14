@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-12-15T00:17:21+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "d4b14684d734f967f80023dfae280533",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "pridorozhnya@gmail.com"
+        },
+        "name": "Tatyana pridorozhnya"
+      },
+      "formData": {
+        "generalComment": "замовником поділено предмет закупівлі з метою уникнення процедури закупівлі\r\nUA-2016-11-01-000222-c",
+        "generalScore": "1"
+      },
+      "tender": "21f705a38d00400da390caf984cf681f"
+    },
+    "schema": "tender101"
+  },
+  "id": "994ea267de289648dfdf556c77d2d07a",
+  "sign": "i2JGqGO8ymD3vYWbIAwTFSSmmDgsmfBs4F5wwwgRFHXOQF4KZ+oRUCVuzSbU7Lp03YLYXsgAa/Jec4hsnR2uCw"
+}

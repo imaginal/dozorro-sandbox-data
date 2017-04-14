@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "date": "2017-03-27T13:46:54+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "fc92afa1d6b40dbfe7f4801838416663",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "name": "Kos  Pisanets"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Простите, но за 1 000 000 дол сделали ремонт хуже чем у отделку меня в загородном доме за 10 000 дол. Найти косяки можно на первой же минуте после входа в метро. При чем они настолько бросаются в глаза, что не заметить их просто невозможно. Я, как налогоплательщик, против такого использования моих налогов. Подрядчик должен устранить все огрехи или вернуть полную стоимость такого \"ремонта\".\r\nЗаказчик судя по всему не контролировал качество выполненных работ вообще.",
+        "purchaserInteractionProblems": [
+          "other"
+        ],
+        "purchaserInteractionProblemsComment": "Контроль выполненных работ не был выполнен вообще."
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "c1fab6156f3b7678430514909d401b5e",
+  "sign": "OEs+2bld07lFaggN+fr7ZaNZpZzpNOLdGbRP0cZOEdtHSxjT4ICrFureCefdG9L/VclHkzDD3JD/XJ240zyTCg"
+}

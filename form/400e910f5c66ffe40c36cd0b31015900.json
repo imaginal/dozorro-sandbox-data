@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "date": "2017-03-27T11:56:17+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "455132e8492f185f195b0f70a005d80d",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "irgajdukova@yandex.ua"
+        },
+        "name": "Irina Haidukova"
+      },
+      "formData": {
+        "purchaserDutiesExecution": "1",
+        "purchaserDutiesExecutionComment": "Якість робіт візуально свідчить про їх невідповідність проекту та невідповідність їх вартості. Потребує перевірки співпраця замовника з виконавцем на предмет розкрадання коштів громади міста Києва з метою притягнення винних до відповідальності та компенсації збитків, нанесених майну громади.",
+        "purchaserInteractionProblems": [
+          "other"
+        ]
+      },
+      "tender": "0ef01d6e020e40b28fca8d5ea5b832d6"
+    },
+    "schema": "tender112"
+  },
+  "id": "fe715570b0d16b3c8720486530a47447",
+  "sign": "w1P/3eM9OScZVCydbTtX6DiySGmvPHoq0sD9elGaNDsMRPmvcBvO8TE89fePya0RjmxpF1oz0/L9QuJ6UkUDAw"
+}

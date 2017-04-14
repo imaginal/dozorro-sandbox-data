@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-02-06T10:58:01+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "b4e121c82da9e270b6f98cdc02f0273a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "ekko.pak@gmail.com"
+        },
+        "name": "Александр Зенков"
+      },
+      "formData": {
+        "impartialProductRequirements": "no",
+        "impartialProductRequirementsComment": "В договоре указывается 365 дней отсрочки на расходные материалы. Что не позволяет взять участия в тендере владельцам среднего и малого бизнеса, да и в принципе всем остальным участникам! Что не позволит показать значительную экономию для предприятия!"
+      },
+      "tender": "75fa1d49081b4602a42194f4dab72cb8"
+    },
+    "schema": "tender103"
+  },
+  "id": "26daf1f7a24e32eaab6daad066746c67",
+  "sign": "gMb+nCIe+nzWojLafPpDg/XVy4UJdUkTCQIDuPsdytyaZr95TcTydsERckWgRmOOaUHThD/+w7iLFId1byDiAQ"
+}

@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-29T18:56:55+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "9b4d09eb060f8f54648e885a415ce17a",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "avpk77@gmail.com"
+        },
+        "name": "Andrey Panasyuk"
+      },
+      "formData": {
+        "generalComment": "Як взагалі був оголоше і проведен цій тендер? Чому немає умов тенедру, немає документації? Ціна яку погодив замовник від ФОП, без ПДВ. Ця ціна на 30% вище роздрібної ціни з ПДВ виробника запропонованої продукцї.",
+        "generalScore": "1"
+      },
+      "tender": "f5621b3ab7fd400391574e4058b1a109"
+    },
+    "schema": "tender101"
+  },
+  "id": "eb72c064ff9c84c82d44cb5d8cb980ab",
+  "sign": "GnJlw4/i6OVnAXTaA643ppnn0ytWJ/a8gdTEfgGJcvH/xgtmXR20YR+z/icXK7XMqORB3qlOHzOx4TFOY1WpDA"
+}

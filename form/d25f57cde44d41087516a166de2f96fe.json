@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2017-03-30T15:23:42+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "756dd76bd147298638b4984edc30dc60",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "alfa-rent@inbox.ru"
+        },
+        "name": "Валентин Бобак"
+      },
+      "formData": {
+        "bankGuaranteeExpediency": "no",
+        "bankGuaranteeExpediencyComment": "Використання банківської гарантії у допорогових закупівлях товару, на який існує постійно діючий ринок - недоцільне."
+      },
+      "tender": "50abb6ddd432420893cc56ec9990b498"
+    },
+    "schema": "tender108"
+  },
+  "id": "943d94a12f419305180347a07b36c5c3",
+  "sign": "nnCqaVJ012oKvUfbRVBfVwSBoYPHTQhy31Ua5NOnPye++3f6QPZ/++MNTKzXZlv48RmOoAjt9eB9WG5pW7QoAQ"
+}

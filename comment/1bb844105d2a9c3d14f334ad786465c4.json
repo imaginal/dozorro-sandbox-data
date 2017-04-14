@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-10T14:40:54+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "5511a3ec5fb65e9b16f2b9d3ea72d62c",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "paindemonn@gmail.com"
+        },
+        "name": "Богдан Півень"
+      },
+      "comment": "Я так розумію що ні. Тільки пиздіти тут можете всі. Тикати пальцями в клавіатуру. А безтолку, бо без мозгів!!!!",
+      "parentForm": "7da1071115fc1121b208e851c35230c9",
+      "tender": "f5394728fb664af48c0b9e0f7c85a467"
+    },
+    "schema": "comment"
+  },
+  "id": "2ca9353a8d644536035e089c18e39ecb",
+  "sign": "bEt1fYZBDGl0DR7GUS34udBJdBVNEELx3/anQQeiRV1/m4NYqIzdpdrd7uScwbal4L5Z9EorX4k+rlegokulBA"
+}

@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-01-12T15:07:51+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "890b02a80645a9b9a406874569b20c79",
+          "provider": "facebook",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "hoholmarta@gmail.com"
+        },
+        "name": "Марта Гоголь"
+      },
+      "comment": "За результатами розгляду Вашого відгуку скеровано відповідні запити в державну аудиторську службу, Департамент захисту економіки Національної поліції та Львівську міську раду.",
+      "parentForm": "e954771cde081f643a263dbe06b58d04",
+      "tender": "a6b7defe41d74c2ab6773d8829a7f728"
+    },
+    "schema": "comment"
+  },
+  "id": "7124c9f70e093d4ff91fda288c9737a3",
+  "sign": "W/jGggvPlmatercD0/Nh6mgV+EkEcE6I273Oqmxu0JPyA7HY3/x1UNwCWx+6xSdvfQPkpGdOJZ9JzZtEwaX8Dw"
+}

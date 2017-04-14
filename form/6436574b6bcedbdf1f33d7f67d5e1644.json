@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "date": "2017-03-23T11:05:49+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "795855bf715ec75f3e283776065c8197",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "olexkon@gmail.com"
+        },
+        "name": "Олександр Константинов"
+      },
+      "formData": {
+        "impartialProductRequirements": "yes"
+      },
+      "tender": "6230c8f0de50492e8b4dbc01d005b16c"
+    },
+    "schema": "tender103"
+  },
+  "id": "e5feaad1b744a45f72e2fe8dd10411c5",
+  "sign": "anjxswROeOTvJ5i3vmMCwPCLdOJTqzWrMOPguQ7v2/HWt4yO4juMFDWwFsfrkt9UNtRgzyGyj46wzP/5EjlgAA"
+}

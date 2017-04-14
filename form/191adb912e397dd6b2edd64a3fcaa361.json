@@ -1,0 +1,28 @@
+{
+  "envelope": {
+    "date": "2016-11-29T17:56:24+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "4a4663e426d5f944a819c24608dfc488",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "SporevoiS@intermedica.com.ua"
+        },
+        "name": "Станислав Споревой"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "cheapestWasDisqualified": "yes"
+      },
+      "tender": "ba0a37ed8ff344758d8f432a3b418d4d"
+    },
+    "schema": "tender111"
+  },
+  "id": "aaec78802189590e79048c19d9fb89ab",
+  "sign": "5beti6pPR5GiMqeuUROVx1fwkcsWURkK73qAChGPDyczDEczGgYrIh2t3WgZnf3kYILHUOrlugB/CgKkjeh9Bw"
+}

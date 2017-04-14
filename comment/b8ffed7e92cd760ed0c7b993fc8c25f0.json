@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "date": "2017-03-07T16:02:05+00:00",
+    "model": "comment",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "8306b93ae79193b13028cf654da0fa59",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "yura.stg@gmail.com"
+        },
+        "name": "Юрій Паніц"
+      },
+      "comment": "а щодо можливості відпуску пального по забірним відомостям , зазначеного в протоколі,  в документації даний пункт і пункти носив анкетний характер і не був обов'язковою вимогою, яка була би причиною для відхилення пропозиції.\r\nХочете відхиляти задля запезпечення своїх інтересів, придумайте щось серйозніше і обгрунтованіше",
+      "parentForm": "f135b03f044442886760b3308eafe813",
+      "tender": "067c15f22723444a863aa72c165a5d0e"
+    },
+    "schema": "comment"
+  },
+  "id": "d5950f4c6878969cd85ff37266a5735f",
+  "sign": "weIWoHxqpC7ViqKwaovXV7EDPGqcFX56k2lAhJLF2zHrrZynzoi9rl++5blnDcdurp3T0YVswNSFxQq2TDoSBA"
+}

@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "date": "2016-11-29T09:11:51+00:00",
+    "model": "form",
+    "owner": "dozorro.org",
+    "payload": {
+      "author": {
+        "auth": {
+          "id": "287dec27ffd69ef41f60d17254d9e3b5",
+          "provider": "google",
+          "scheme": "external"
+        },
+        "contactPoint": {
+          "email": "levadapalas@ukr.net"
+        },
+        "name": "Александр Лотерейкин"
+      },
+      "formData": {
+        "argumentativeDisqualification": "no",
+        "argumentativeDisqualificationComment": "Як можна заключити договір з одним з найдорожчим учасником маючи 7 скарг, та обгрунтувати ці скарги так, що неможливо їх розглянути так як договор вже підписаний.",
+        "cheapestWasDisqualified": "yes",
+        "cheapestWasDisqualifiedComment": "Незважаючи на те що замовник прописав тендер під одного учасника, в участника-переможця є грубі порушення кваліфікаційних вимог, а саме аналогічні договори які не є аналогічними, але Замовнику байдуже на думки всіх участників. Цікаво, що думає на це особа яка відповідає за дотримання антикоррупційної програми на даному підприємстві?!"
+      },
+      "tender": "d0b8587116974bb68d0c3c49aef3f309"
+    },
+    "schema": "tender111"
+  },
+  "id": "ad01750defeecf4cf38a63816bf24618",
+  "sign": "R706BoR9DtJyIkwZ9hvvS1ar/x/VwExIQy/Pd8y9/ey+qFnsodJRUkqFtbxtq6optTRmSo60v9sMTOJcle7YAg"
+}
